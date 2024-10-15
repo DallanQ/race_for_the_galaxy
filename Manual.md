@@ -1,4 +1,4 @@
-## Setup (Page 2)
+## SETUP (Page 2)
 
 Place 12 victory point (VP) chips per player in **1** and **5 VP chips** nearby. Set aside the **10 VP chips** (and any left over chips) for use only during the final round of play.
 
@@ -16,7 +16,7 @@ The start worlds, preset hands, and action card sets for your very first game ha
 
 If Alpha Centauri is in play, place a card from the card supply face down on top of it (as its starting windfall good).
 
-## Playing The Game (Page 3)
+## PLAYING THE GAME (Page 3)
 
 A game is played over several rounds (typically 7 to 11). At the start of a round, players simultaneously and secretly choose one action card, placing it face down in front of themselves. Once all players have done so, they turn these action cards face up. Then, the players perform the selected phases in order (I: Explore; II: Develop; III: Settle; IV: Consume; V: Produce), omitting every phase not chosen by at least one player.
 
@@ -36,7 +36,7 @@ Successive rounds are performed in the same manner until an end-of-game conditio
 
 Game cards have three uses: as a development or world to be placed in a player's tableau; as one wealth to discard from one's hand face down when paying to place a development or world; or as a good placed face down on a world either upon it being settled or during production.
 
-### I: Explore
+### I: EXPLORE
 
 Action: each player draws two cards and then simultaneously selects which one of them to add to their hand, discarding the other card face down in the center discard area.
 
@@ -52,7 +52,7 @@ Thus, depending on the bonus chosen with the Explore action, a player can either
 
 The powers of various cards can alter these rules if a player has them in their tableau, possibly providing extra card draws or allowing a player to keep additional cards.
 
-### II: Develop
+### II: DEVELOP
 
 Action: each player places a development card from their hand face down, or no card if a player doesn't intend to place a development. Once all players have done so, they simultaneously turn them face up and then pay for them.
 
@@ -70,7 +70,7 @@ Next to a development's diamond is its victory point (VP) value. It adds to the 
 
 The powers of various cards can alter these rules if a player has them in their tableau before the development phase begins.
 
-## Card Powers (Page 4)
+## CARD POWERS (Page 4)
 
 Every development, and most worlds, list one or more powers. Standard powers are depicted by icons with no text description (see the reference sheet). Special powers have icons, highlighted phases, and text descriptions at the bottom of the card which begin with the corresponding phase number.
 
@@ -90,7 +90,7 @@ An optional power (such as a Colony Ship) must be used if it is needed to place 
 
 Powers are resolved sequentially (even though their effects can be cumulative). A player cannot "interrupt" one power with another.
 
-### III: Settle
+### III: SETTLE
 
 Action: each player places a world card from their hand face down, or no card if a player doesn't intend to place a world. Once all players have done so, they simultaneously turn them face up and then pay for (or conquer) them.
 
@@ -106,21 +106,13 @@ The powers of various cards can alter the settle rules if a player has them in t
 
 There are four kinds of goods in the game:
 
-- Alien technology , artifacts left by the vanished Alien Overlords.
-  
->The Alien technology has a yellow color.
+- Alien technology (yellow), artifacts left by the vanished Alien Overlords.
 
-- Genes , genetic material used in biological research.
-  
->The Genes has a yellow color.
+- Genes (green), genetic material used in biological research.
 
-- Rare elements , transuranic elements powering Jumpdrive.
+- Rare elements (brown), transuranic elements powering Jumpdrive.
 
->The Rare elements has a brown color.
-  
-- Novelty goods , such as artwork and entertainment.
-
->The Novelty goods has a blue color.
+- Novelty goods (blue), such as artwork and entertainment.
 
 **Military Conquest**: some worlds have red circles and, within them, a red outlined number, ranging from 1–7; this is the world's defense. These worlds cannot be placed by payment, but instead must be conquered. To conquer a world, a player's total Military must equal or exceed the world's defense. Then, the player simply places it — and its windfall good, if it has a halo — without paying for it (and then draws a bonus card if that player chose Settle).
 
@@ -138,9 +130,7 @@ Cost discounts from Replicant Robots, Mining Robots, etc. do combine with a Cont
 
 Thus, there are two completely separate ways to place military worlds.
 
-Action: place and pay for a world, receiving any windfall as indicated. cost
-
-### IV: Consume
+### IV: CONSUME
 
 Action: all players must use their consume powers, if they have any, to discard goods for victory point chips and/or card draws.
 
@@ -168,7 +158,7 @@ Players who chose Consume: 2x VPs double the number of victory point chips — b
 
 Exception: VPs for discarding cards from your hand (from powers such as Deficit Spending or Merchant World) are not doubled by this bonus.
 
-### V: Produce
+### V: PRODUCE
 
 Action: place a good on each production world (worlds with colored, solid circles) without a good, by taking a card face down — without looking at it — from the card supply and putting it on top of the world's lower right portion (to avoid hiding the world's VPs and powers). This good is of the kind indicated by the color of the world's solid circle (and the color of the corresponding Produce power).
 
@@ -180,7 +170,7 @@ Some cards, such as Genetics Lab, can also produce goods on windfall worlds (wit
 
 Others, such as Pan-Galactic League, provide a card draw for each world of a specific kind in a player's tableau (such as Genes worlds, with either a green halo or a green solid circle).
 
-## Round End, Cards, And Chips (Page 7)
+## ROUND END, CARDS, AND CHIPS (Page 7)
 
 After all chosen phases are done, players must discard down to 10 (game) cards before starting the next round.
 
@@ -190,19 +180,7 @@ When the card supply is exhausted, immediately reshuffle the discards to form a 
 
 All players' VP chips and the number of game cards they have in their hands are open for examination. Make change among VP chips as needed.
 
-Action: place a good on each world without a good that produces one.
-
-Place produced goods on production worlds (with colored, solid circles).
-
-Bonus: produce a windfall.
-
-Icons for produce powers that provide cards or windfalls are listed twice, once in the icon bar and once on the top, right corner of each card, as an aid when dealing out production.
-
-Discard Down To 10 Cards At The End Of Each Round.
-
-Discards are face down and "messy".
-
-## Game End (Page 7)
+## GAME END (Page 7)
 
 The game ends at the end of the round (including discarding) in which:
 
@@ -222,19 +200,7 @@ If two or more players tie, the player among them with the highest total number 
 
 If there is still a tie, then all the tied players win.
 
-The game ends after: • a player ends a round with 12 or more cards in tableau, or
-
-- the VPs chips run out.
-
-Finish the final round. Use the 10 VP chips if necessary.
-
-Each player totals: • tableau card VPs • VP chips • VPs for developments
-
-The player with the most VPs wins!
-
-After a game, separate the start worlds by fanning the deck, looking for boxed numbers in the lower right-hand corners. 7
-
-## Timing (Page 8)
+## TIMING (Page 8)
 
 Mostly, play can and should be performed simultaneously.
 
@@ -264,31 +230,53 @@ Initially, two players should just play the standard rules. Once you're familiar
 
 - A player who selects both Consume bonuses must sell one good before consuming other goods for double VPs.
 
-## Card Powers (By Phase)
+2 players game: use all nine action cards, choosing two action cards at the start of each round.
 
-### I: Explore
+## CARD POWERS (by Phase) (Page 9)
 
-|**Draw Extra** | **Keep Extra** | **Draw and Keep Extra** |
-| > Image of eye with +1
-Draw 1 or 2 more cards to select from. | > Image of a hand with a phone with +1
-Keep 1 more card.| > Image of eye with +2 and hand with +1.
+### I: EXPLORE
+
+#### Draw Extra
+
+> Image of a eye with +1 inside
+
+Draw 1 or 2 more cards to select from.
+
+> Image of a eye with +2 inside
+
+These powers do not alter the number of cards that a player keeps.
+
+#### Keep Extra
+
+> Image of a hand holding a phone with +1 inside
+
+Keep 1 more card.
+
+#### Draw and Keep Extra
+
+> Images of a eye with +2 inside and a hand holding a phone with +1 inside.
+
 Draw 2 more cards to select from; keep 1 more card.
-| > Image of eyse with +2
-These powers do not alter the number of cards that player keeps. |------|------|
 
-## Ii: Develop Draw
+### II: DEVELOP
 
-## Reduce Cost
+#### Draw
 
-## Draw After
+> Image of a hand holding a phone with 1 inside
 
-## Draw 1 Card At The Start Of The Develop Phase.
+Draw 1 card at the start of the Develop phase.
 
-Reduce the cost to place a development ( ) by 1 or 2 cards.
+#### Reduce Cost
 
-Draw 1 card after placing a development ( ).
+> Image of two biege colored diamond shapes with -1 and -2 inside respectively.
 
-Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.
+Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or 2 cards.
+
+#### Draw After
+
+> Images of biege colored diamond shape, a hand holding a phone with 1 inside
+
+Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 ## Iii: Settle Reduce Cost
 
