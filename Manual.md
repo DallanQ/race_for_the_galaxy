@@ -1,143 +1,32 @@
+## Setup (Page 2)
 
-## Tom Lehmann
+Place 12 victory point (VP) chips per player in **1** and **5 VP chips** nearby. Set aside the **10 VP chips** (and any left over chips) for use only during the final round of play.
 
-Explore, Settle, Develop, Trade, Consume, or Produce? Which do you need the most? Which of Earth's former colonies will be most successful at settling the galaxy, now that Jumpdrive exists? Who will discover the secrets of the mysteriously vanished Alien Overlords? Your goal: to build the most prosperous and powerful space empire!
+Each player takes a set of seven different **action cards**.
 
-## Overview
+Find and shuffle the five **start worlds**. Deal one world face up to each player. These form each player's initial card tableau.
 
-In Race for the Galaxy, players build galactic civilizations by game cards that represent worlds or technical and social developments.
+**Your first game**: instead, for two players, use start worlds 1 and 2; for three, use start worlds 1–3; and, for four, use start worlds 1–4.
 
-Each round consists of one or more of five possible phases. In each round, each player secretly and simultaneously chooses one of seven different action cards and then reveals it. Only the selected phases occur. For these phases, every player performs the phase's action, while the selecting player(s) also get a bonus for that phase.
+Shuffle the unused start worlds together with the **game cards**. Deal six face down cards to each player. Each player then examines these cards and discards two cards face down to the discard pile. The remaining game cards form the initial card supply.
+xczz
+**Your first game**: instead, each player uses the four numbered game cards matching their start world's number as their initial (preset) hand. After finding these preset hand cards, shuffle all the remaining game cards, including any left over start worlds and preset hand cards, together.
 
-For example, if at least one player chooses the Develop action, then the Develop phase will occur; otherwise it is skipped. In it, each player may simultaneously select a development from their hand of cards to build. After revealing these cards, each player adds their development to their tableau of cards on the table and then discards cards from their hand equal to its cost. Each player who chose Develop discards one card fewer as their bonus.
-
-Explore allows a player to draw cards and select which of them to add to their hand. Settle allows a player to place a world in their tableau. Some worlds produce goods, represented by face down cards, when Produce is selected. These goods can be discarded for victory points or sold to add cards to the player's hand by selecting Consume. With cards, players can settle new worlds and build more developments, gaining both victory points and card powers that provide advantages in certain phases.
-
-The player who best manages their cards, phase and bonus selections, and card powers to build the greatest space empire, wins.
-
-The winner is the player with the most victory points.
-
-## Contents
-
-Some cards in the two decks have been presorted for your very first game (see Setup). Unpack the card decks carefully.
-
-5 start world cards (numbered "0" to "4" in red or blue squares in their upper left and lower right corners)
-
-109 game cards (like start worlds, these have the game title on back)
-
-59 worlds (with symbols) - 50 developments (with symbols) 4 sets of 7 player action cards (used to select phases and bonuses each round; these have no title on their brightly colored backs) 8 duplicate action cards for experienced 2-player games (marked ) 6 optional start worlds for experienced players (see page 8) 4 summary sheets 1 sample rounds folder
-
-28 Victory Point (VP) chips: 18 @ 1, 6 @ 5, and 4 @ 10
-
-Carefully remove the VP chips from their frame before your first game.
-
-Players simultaneously choose which game phases will occur. Game phases that nobody chooses do not occur. Each player receives a bonus in the phase that they chose.
-
-Cards are used in three ways: as developments or worlds to be placed; as money; or as goods to be consumed or sold.
-
-Players explore for useful cards, build developments, settle worlds, and produce goods. Goods can be consumed for victory points or sold for cards.
-
-The player with the most victory points wins!
-
-## A Development
-
-## A World
-
-## Sample Game Cards (Front)
-
-rftg_rules.indd 
-
-.. :
-
-## Setup
-
-Place 12 victory point (VP) chips per player in 1 and 5 VP chips nearby. Set aside the 10 VP chips (and any left over chips) for use only during the final round of play.
-
-Each player takes a set of seven different action cards.
-
-Find and shuffle the five start worlds. Deal one world face up to each player. These form each player's initial card tableau.
-
-Your first game: instead, for two players, use start worlds 1 and 2; for three, use
-
-start worlds 1–3; and, for four, use start worlds 1–4.
-
-Shuffle the unused start worlds together with the game cards. Deal six face down cards to each player. Each player then examines these cards and discards two cards face down to the discard pile. The remaining game cards form the initial card supply.
-
-Your first game: instead, each player uses the four numbered game cards matching their start world's number as their initial (preset) hand. After finding these preset
-
-hand cards, shuffle all the remaining game cards, including any left over start worlds and preset hand cards, together.
-
-The start worlds, preset hands, and action card sets for your very first game have
-
-already been presorted.
+The start worlds, preset hands, and action card sets for your very first game have already been presorted.
 
 If Alpha Centauri is in play, place a card from the card supply face down on top of it (as its starting windfall good).
 
-## Start Worlds
-
-## Preset Cards
-
-Start worlds have numbered red and blue boxes in their upper left and lower right corners (these colors are used in a future expansion). Preset hand cards have numbers without boxes.
-
-Set out 12 VPs per player in 1 and 5 VP chips.
-
-Set aside the 10 VP chips for later use.
-
-Give each player a set of seven action cards and a random start world.
-
-Shuffle the unused start worlds and game cards. Each player gets 6 cards and discards 2 of them.
-
-The remaining cards form the card supply.
-
-## Start World
-
-## Card Tableau
-
-## Card Tableau
-
-## Start World
-
-## Card Supply
-
-discard pile (face down and "messy")
-
-VP chips 3 players: remove 12 2 players: remove 24 (set aside the 10 VP chips)
-
-Cards in the card supply and the discard pile are both face down. To tell them apart, keep the card supply neat and the discard pile a bit "messy".
-
-## Use 12 Vps Per Player.
-
-Alpha Centauri´s starting windfall good
-
-## Start World (Alpha Centauri)
-
-## Card Tableau
-
-## Set Of Seven Different Action Cards
-
-A player's developments and worlds are placed in a card tableau.
-
-Each player's card tableau is in front of them. It is one or more rows of face up cards: developments and worlds. Some worlds may have goods, represented by face down cards, on them. Initially, it contains only the player's start world (and its windfall good, if it has one).
-
-rftg_rules.indd 
-
-.. :
-
-## Playing The Game
+## Playing The Game (Page 3)
 
 A game is played over several rounds (typically 7 to 11). At the start of a round, players simultaneously and secretly choose one action card, placing it face down in front of themselves. Once all players have done so, they turn these action cards face up. Then, the players perform the selected phases in order (I: Explore; II: Develop; III: Settle; IV: Consume; V: Produce), omitting every phase not chosen by at least one player.
 
 Each phase has an action, which is performed by all players. In addition, the players who chose that phase get a bonus.
 
-Important: if more than one player selects the same phase, its action is still only
-
-performed once (with all the players who selected that phase receiving a bonus).
+**Important**: if more than one player selects the same phase, its action is still only performed once (with all the players who selected that phase receiving a bonus).
 
 The bonus for an action either modifies it (such as reducing its cost or doubling the VPs gained) or is in addition to it (such as a card draw afterwards or the opportunity to sell a good).
 
-Players may find it useful to turn over the action card(s) for each phase as it is
-
-completed before performing the next one.
+Players may find it useful to turn over the action card(s) for each phase as it is completed before performing the next one.
 
 New players may find it useful to place the selected action cards in the center in numerical order. As players become more familiar with the phase order, this won't be necessary.
 
@@ -147,21 +36,7 @@ Successive rounds are performed in the same manner until an end-of-game conditio
 
 Game cards have three uses: as a development or world to be placed in a player's tableau; as one wealth to discard from one's hand face down when paying to place a development or world; or as a good placed face down on a world either upon it being settled or during production.
 
-Each round, all players secretly choose and then reveal an action card.
-
-Only phases selected by players are performed.
-
-Perform the selected phases in numerical order:
-
-## I Explore Ii Develop Iii Settle Iv Consume V Produce
-
-A phase has an action, performed by all players, and a bonus, performed only by the players who chose that action card.
-
-At the end of a round, players must discard down to a hand limit of 10 cards.
-
-Game cards have three uses, as: • developments or worlds • one wealth (money) to spend • one good (on a world)
-
-## I: Explore
+### I: Explore
 
 Action: each player draws two cards and then simultaneously selects which one of them to add to their hand, discarding the other card face down in the center discard area.
 
@@ -175,23 +50,9 @@ A player who chose Explore: +1,+1 draws one more card to select from and keeps a
 
 Thus, depending on the bonus chosen with the Explore action, a player can either have more cards to select from or gain an extra card to keep.
 
-The powers of various cards can alter these rules if a player has them in their
+The powers of various cards can alter these rules if a player has them in their tableau, possibly providing extra card draws or allowing a player to keep additional cards.
 
-tableau, possibly providing extra card draws or allowing a player to keep additional cards.
-
-Action: draw 2 cards; keep 1, discard the other.
-
-All explore draws are done before any player discards.
-
-Bonus (based on the action card chosen): draw 5 more cards or draw 1 more card and keep 1 more card.
-
-Example: with this Explore power, a player (with no bonus) would draw four cards and keep two of them.
-
-rftg_rules.indd 
-
-.. :
-
-## Ii: Develop
+### II: Develop
 
 Action: each player places a development card from their hand face down, or no card if a player doesn't intend to place a development. Once all players have done so, they simultaneously turn them face up and then pay for them.
 
@@ -207,25 +68,9 @@ Next to a development's diamond is its victory point (VP) value. It adds to the 
 
 6-cost developments have listed as their victory point values. These are worth a variable number of victory points at the end of the game, as indicated on these cards.
 
-The powers of various cards can alter these rules if a player has them in their
+The powers of various cards can alter these rules if a player has them in their tableau before the development phase begins.
 
-tableau before the development phase begins.
-
-## Action: Place And Pay For A Development.
-
-To indicate no development, some players "knock" on the table, others put a world instead face down and flip it over, others put a card down but pick it up saying "no" when all are ready. Agree on a convention.
-
-Bonus: discard one fewer card when paying for a development.
-
-A player may have only one of any given development in their tableau.
-
-Developments are worth victory points.
-
-## Cost
-
-## Vps
-
-## Card Powers
+## Card Powers (Page 4)
 
 Every development, and most worlds, list one or more powers. Standard powers are depicted by icons with no text description (see the reference sheet). Special powers have icons, highlighted phases, and text descriptions at the bottom of the card which begin with the corresponding phase number.
 
@@ -245,25 +90,7 @@ An optional power (such as a Colony Ship) must be used if it is needed to place 
 
 Powers are resolved sequentially (even though their effects can be cumulative). A player cannot "interrupt" one power with another.
 
-## Developments, And Most Worlds, Grant Powers.
-
-## Standard Power
-
-## Special Power
-
-Power icons appear on the left side of cards, arranged in I to V phase order, allowing players to easily scan their tableaus for them during a phase.
-
-The chromosome icon , UPLIFT , IMPERIUM , and TERRAFORMING are for use in future expansion sets.
-
-Powers first take effect in the phase after their card is placed.
-
-Powers must be applied if possible, unless the card text indicates otherwise.
-
-rftg_rules.indd 
-
-.. :
-
-## Iii: Settle
+### III: Settle
 
 Action: each player places a world card from their hand face down, or no card if a player doesn't intend to place a world. Once all players have done so, they simultaneously turn them face up and then pay for (or conquer) them.
 
@@ -275,11 +102,27 @@ Beside a world's circle is its victory point value. This adds to the player's fi
 
 The powers of various cards can alter the settle rules if a player has them in their tableau before the settle phase begins.
 
-Windfalls: some worlds have a colored "halo" around their circle, showing that they are windfall worlds and that a good is to be put on them when they are first settled. To do so, as part of placing the world in a player's tableau, they take a card face down — without looking at it — from the card supply and put it on top of the world's lower right portion (to avoid hiding the world's VPs and powers). This card represents a good of the kind indicated by the color of the world's halo.
+**Windfalls**: some worlds have a colored "halo" around their circle, showing that they are windfall worlds and that a good is to be put on them when they are first settled. To do so, as part of placing the world in a player's tableau, they take a card face down — without looking at it — from the card supply and put it on top of the world's lower right portion (to avoid hiding the world's VPs and powers). This card represents a good of the kind indicated by the color of the world's halo.
 
-There are four kinds of goods in the game: • Alien technology , artifacts left by the vanished Alien Overlords. • Genes , genetic material used in biological research. • Rare elements , transuranic elements powering Jumpdrive. • Novelty goods , such as artwork and entertainment.
+There are four kinds of goods in the game:
 
-Military Conquest: some worlds have red circles and, within them, a red outlined number, ranging from 1–7; this is the world's defense. These worlds cannot be placed by payment, but instead must be conquered. To conquer a world, a player's total Military must equal or exceed the world's defense. Then, the player simply places it — and its windfall good, if it has a halo — without paying for it (and then draws a bonus card if that player chose Settle).
+- Alien technology , artifacts left by the vanished Alien Overlords.
+  
+>The Alien technology has a yellow color.
+
+- Genes , genetic material used in biological research.
+  
+>The Genes has a yellow color.
+
+- Rare elements , transuranic elements powering Jumpdrive.
+
+>The Rare elements has a brown color.
+  
+- Novelty goods , such as artwork and entertainment.
+
+>The Novelty goods has a blue color.
+
+**Military Conquest**: some worlds have red circles and, within them, a red outlined number, ranging from 1–7; this is the world's defense. These worlds cannot be placed by payment, but instead must be conquered. To conquer a world, a player's total Military must equal or exceed the world's defense. Then, the player simply places it — and its windfall good, if it has a halo — without paying for it (and then draws a bonus card if that player chose Settle).
 
 Military is granted by powers of various start worlds, developments, or worlds, and lasts until the end of the settle phase.
 
@@ -289,7 +132,7 @@ New Military Tactics may be discarded from a player's tableau for +3 Military un
 
 A Contact Specialist enables a player to place and pay for a military world (except an Alien military world), at a cost equal to one less than the world's defense.
 
-Important: this cost is not reduced by a player's Military (Military and payments never combine).
+**Important**: this cost is not reduced by a player's Military (Military and payments never combine).
 
 Cost discounts from Replicant Robots, Mining Robots, etc. do combine with a Contact Specialist to reduce the cost of placing a military world. Similarly, a Colony Ship allows a Contact Specialist to place a (non-Alien) military world at no cost.
 
@@ -297,43 +140,11 @@ Thus, there are two completely separate ways to place military worlds.
 
 Action: place and pay for a world, receiving any windfall as indicated. cost
 
-## Windfall World
-
-## Production World
-
-Blue, brown, and green worlds have a "moon" in a quadrant as an aid for color-blind players. (A reddish circle in the lower right is a Rebel world, see Galactic Imperium, back page.)
-
-Bonus: draw a card after placing a world.
-
-## Vps
-
-Worlds are worth victory points.
-
-A windfall is received once, when a world is first placed.
-
-Windfall goods are placed on top of worlds with colored halos around their costs.
-
-Military worlds (with red circles) must be conquered to be placed.
-
-## Defense
-
-To conquer a military world, the player's Military must equal or exceed its defense. The player then places the world for no cost.
-
-## Sample Military Powers
-
-A Contact Specialist allows a player to place a military world by paying for it, instead of conquering it.
-
-rftg_rules.indd 
-
-.. :
-
-## Iv: Consume
+### IV: Consume
 
 Action: all players must use their consume powers, if they have any, to discard goods for victory point chips and/or card draws.
 
-Some powers consume several goods. Others consume goods of a specific kind. Some, such as Deficit Spending, consume cards, not goods, discarded from a player's hand. A few powers, such as New Economy, don't involve discarding anything; they
-
-simply take effect during a Consume phase.
+Some powers consume several goods. Others consume goods of a specific kind. Some, such as Deficit Spending, consume cards, not goods, discarded from a player's hand. A few powers, such as New Economy, don't involve discarding anything; they simply take effect during a Consume phase.
 
 Goods are discarded face down (without examining them). Each good being discarded applies to only one consume power. A good may or may not be on the world consuming it. If a consume power could consume several possible goods, the player chooses which good(s) to consume.
 
@@ -347,61 +158,29 @@ Thus, a player with a tableau containing three novelty goods, New Vinland, and F
 
 There are two possible Consume bonuses, depending on which Consume action card was chosen by a player.
 
-$: Trade: players who chose Consume: Trade must sell one good (before applying their consume powers), by discarding it and drawing a number of cards that depends on the kind of good sold: Alien technology: 5 cards; Genes: 4 cards; Rare elements: 3 cards; or Novelty: 2 cards. Unlike consuming goods, no Trade power is needed to sell a good.
+**$: Trade:** players who chose Consume: Trade must sell one good (before applying their consume powers), by discarding it and drawing a number of cards that depends on the kind of good sold: Alien technology: 5 cards; Genes: 4 cards; Rare elements: 3 cards; or Novelty: 2 cards. Unlike consuming goods, no Trade power is needed to sell a good.
 
 Only players who chose Consume: Trade can sell a good.
 
-Players choosing Consume: Trade also apply all relevant Trade powers (listed next to $) to this sale (typically, to draw extra cards).
+Players choosing Consume: Trade also apply all relevant Trade powers (listed next to **$**) to this sale (typically, to draw extra cards).
 
 Players who chose Consume: 2x VPs double the number of victory point chips — but not any other effects — that their consume powers provide.
 
-Exception: VPs for discarding cards from your hand (from powers such as Deficit
+Exception: VPs for discarding cards from your hand (from powers such as Deficit Spending or Merchant World) are not doubled by this bonus.
 
-Spending or Merchant World) are not doubled by this bonus.
-
-## 5 Vps
-
-Action: use consume powers if possible, typically to discard goods for victory point chips.
-
-## Sample Consume Powers
-
-## Rare Elements Consumption (2 Goods For 3 Vps)
-
-## Deficit Spending
-
-Consume powers must be used fully, if possible, but may be used in any order.
-
-## Free Trade Association
-
-## New Vinland
-
-Bonus (based on the action card chosen): sell 1 good first or receive double VP chips.
-
-Important: Trade is not a separate phase; it occurs before a Consume phase for only those who chose it.
-
-## Sample Trade Powers
-
-rftg_rules.indd 
-
-.. :
-
-## V: Produce
+### V: Produce
 
 Action: place a good on each production world (worlds with colored, solid circles) without a good, by taking a card face down — without looking at it — from the card supply and putting it on top of the world's lower right portion (to avoid hiding the world's VPs and powers). This good is of the kind indicated by the color of the world's solid circle (and the color of the corresponding Produce power).
 
-No world can have more than one good. Place a good on the lower right portion of a world to avoid hiding the world's VPs or powers. Some worlds, such as Gem
-
-World, provide a card draw as part of producing a good. If a good is already present, then no cards are drawn.
+No world can have more than one good. Place a good on the lower right portion of a world to avoid hiding the world's VPs or powers. Some worlds, such as Gem World, provide a card draw as part of producing a good. If a good is already present, then no cards are drawn.
 
 Players who chose Produce, as the bonus, produce a good (if possible) on one of their windfall worlds that does not already have a good.
 
 Some cards, such as Genetics Lab, can also produce goods on windfall worlds (without goods).
 
-Others, such as Pan-Galactic League, provide a card draw for each world of a
+Others, such as Pan-Galactic League, provide a card draw for each world of a specific kind in a player's tableau (such as Genes worlds, with either a green halo or a green solid circle).
 
-specific kind in a player's tableau (such as Genes worlds, with either a green halo or a green solid circle).
-
-## Round End, Cards, And Chips
+## Round End, Cards, And Chips (Page 7)
 
 After all chosen phases are done, players must discard down to 10 (game) cards before starting the next round.
 
@@ -419,11 +198,11 @@ Bonus: produce a windfall.
 
 Icons for produce powers that provide cards or windfalls are listed twice, once in the icon bar and once on the top, right corner of each card, as an aid when dealing out production.
 
-## Discard Down To 10 Cards At The End Of Each Round.
+Discard Down To 10 Cards At The End Of Each Round.
 
 Discards are face down and "messy".
 
-## Game End
+## Game End (Page 7)
 
 The game ends at the end of the round (including discarding) in which:
 
@@ -455,11 +234,7 @@ The player with the most VPs wins!
 
 After a game, separate the start worlds by fanning the deck, looking for boxed numbers in the lower right-hand corners. 7
 
-rftg_rules.indd 
-
-.. :
-
-## Timing
+## Timing (Page 8)
 
 Mostly, play can and should be performed simultaneously.
 
@@ -477,7 +252,7 @@ In this and similar cases, resolve the phase in clockwise order (after simultane
 
 Resolve any timing issues clockwise from the player with the lowest numbered (original) start world.
 
-2 PLAYER GAME (for experienced players)
+## 2 PLAYER GAME (for experienced players) (Page 8)
 
 Initially, two players should just play the standard rules. Once you're familiar with the game, play with the following changes:
 
@@ -489,39 +264,17 @@ Initially, two players should just play the standard rules. Once you're familiar
 
 - A player who selects both Consume bonuses must sell one good before consuming other goods for double VPs.
 
-## Credits
-
-Design, development, and rules: Tom Lehmann Story background inspired by: Frederik Pohl and David Brin Prototype graphic design and development assistance: Wei-Hwa Huang Graphics: Mirko Suzuki Illustrations: Martin Hoffmann and Claus Stephan
-
-Playtesting and Advice Corin Anderson, Brian Bankler, Eric Brosius, Mark Delano, David desjardins, Chris Esko, Barry Eynon, Jeff Goldsmith, Dave Helmbold, Jay Heyman, Beth Howard, Bryan Howard, Joe Huber, Chris Lopez, Larry Rosenberg, Ron Sapolsky, Steve Thomas, Jay Tummelson, Lou Wainwright, Don Woods, and many, many others. Thank you all!
-
-## Special Thanks (Way Beyond The Call Of Duty): Wei-Hwa Huang
-
-Special thanks are also due to: Rob Watkins, who assisted me in the mid-90s on an unpublished CCG, Duel for the Stars, from which much of this is drawn; Richard Borg, for a key idea; Stefan Brück, who allowed Richard and me to work on a prototype Puerto Rico card game; and Andreas Seyfarth, without whom we wouldn't have been inspired to do so.
-
-2 player game: use all nine action cards, choosing two action cards at the start of each round.
-
-Start world choice for experienced players. During setup, separate the start worlds by number into odd (red) and even (blue) groups. Shuffle and deal two face down worlds, one from each group, to each player. Shuffle the remaining start worlds with the game cards and deal six cards to each player. Each player examines all eight cards before discarding one of their two start worlds and two of their six game cards. Players then simultaneously reveal their selected start worlds and begin play.
-
-rftg_rules.indd 
-
-.. :
-
 ## Card Powers (By Phase)
 
-## I: Explore Draw Extra
+### I: Explore
 
-Draw 1 or 2 more cards to select from.
-
-These powers do not alter the number of cards that a player keeps.
-
-## Keep Extra
-
-Keep 1 more card.
-
-## Draw And Keep Extra
-
+|**Draw Extra** | **Keep Extra** | **Draw and Keep Extra** |
+| > Image of eye with +1
+Draw 1 or 2 more cards to select from. | > Image of a hand with a phone with +1
+Keep 1 more card.| > Image of eye with +2 and hand with +1.
 Draw 2 more cards to select from; keep 1 more card.
+| > Image of eyse with +2
+These powers do not alter the number of cards that player keeps. |------|------|
 
 ## Ii: Develop Draw
 
@@ -588,10 +341,6 @@ The card Contact Specialist also has a -1 Military power.
 ## Draw After
 
 Draw 1 card after placing a world ( ).
-
-rftg_rules.indd 
-
-.. :
 
 ## $: Trade Any Good
 
