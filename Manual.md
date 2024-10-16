@@ -492,7 +492,7 @@ Name a number from 1–7. Turn the top card from the card supply face up. If its
 
 The Gambling World also has a standard consume power in addition to this one.
 
-|--|0 |1 |2 |3 |4 |5 |6 |7|
+|  |0 |1 |2 |3 |4 |5 |6 |7|
 |--|--|--|--|--|--|--|--|--|
 |(Icon of a biege diamond) |0 |12 |12 |4 |8 |2 |12 |0 |
 |(Icon of a white circle with black border )|2 |6 |17 |9 |4 |5 |2 |0 |
