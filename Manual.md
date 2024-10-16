@@ -62,7 +62,7 @@ Action: each player places a development card from their hand face down, or no c
 
 If desired, players can put their intended developments (if any) under their action card, revealing them when everyone is ready.
 
-Each development has(a white diamond shaped) symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
+Each development has(icon of a white diamond) symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
 
 Players who chose Develop, as the bonus, discard one card fewer than the development's cost. If, due to powers, a player is already discarding no cards, no bonus is received.
 
@@ -70,7 +70,7 @@ A player may not build a given development if another copy of it is currently in
 
 Next to a development's diamond is its victory point (VP) value. It adds to the player's final victory point total at the end of the game.
 
-6-cost developments have (a white hexagon with a black ? inside) listed as their victory point values. These are worth a variable number of victory points at the end of the game, as indicated on these cards.
+6-cost developments have (icon of a white hexagon with a black ? inside) listed as their victory point values. These are worth a variable number of victory points at the end of the game, as indicated on these cards.
 
 The powers of various cards can alter these rules if a player has them in their tableau before the development phase begins.
 
@@ -196,7 +196,7 @@ The game ends at the end of the round (including discarding) in which:
 
 If victory point chips run out, add the 10 VP chips and make change so that all victory points earned in the final consume phase can be taken.
 
-Total each player's development and world VPs, VP chips, and any end of game VPs for 6-cost developments (see page 12).
+Total each player's development and world VPs, VP chips, and any end of game VPs for 6-cost (icon of a hexagon with ? inside) developments (see page 12).
 
 The player with the highest total is the winner!
 
@@ -274,31 +274,31 @@ Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or
 
 #### Draw After
 
-> Image of biege colored diamond shape and a hand holding a card with 1 inside
+> Image of a biege colored diamond shape and a hand holding a card with 1 inside
 
 Draw 1 card after placing a development ( a biege colored diamond shape ).
+
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
 
 ### III: SETTLE
 
 #### Reduce Cost
 
-> A circle with -2 inside
+> Icon of a circle with -2 inside
 
--2 cost to place a non-military world( a cirlce )
-
-**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
+-2 cost to place a non-military world( a white cirlce with a black border )
 
 #### Specific Reduce Cost
 
-> A light shade of brown cirlce with -1 inside
+> Icon of a light shade of brown cirlce with -1 inside
 
--1 cost a place a non-military Rare elements production or windfall world ( a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown cirlce with a middle ring of color red and black, a center filled with white ).
+-1 cost a place a non-military Rare elements production or windfall world ( icon of a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown cirlce with a middle ring of color red and black, a center filled with white ).
 
 #### Reduce Cost To 0
 
 > A box with a large red X inside and a circle with =0 inside. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
 
-The player may discard this card from their tableau to reduce the cost of placing a non-military world ( a circle ) to 0.
+The player may discard this card from their tableau to reduce the cost of placing a non-military world (icon of a white circle with a black border ) to 0.
 
 This cannot be used to place an Alien production or windfall world (  a circle with a border of red and blank, a center filled with a light shade of yellow and a light shade of yellow cirlce with a middle ring of color red and black, a center filled with white ).
 
@@ -308,34 +308,34 @@ It Can Place The Alien Rosetta Stone World.
 
 #### Military
 
-> A white circle with a red border and +1 inside
+> Icon of a white circle with a red border and +1 inside
 
 Contributes +1 Military towards conquering a military world (a white circle with a red border).
 
-> A white circle with a red border and +2 inside
+> Icon of a white circle with a red border and +2 inside
 
 Contributes +2 Military towards conquering a military world (a white circle with a red border).
 
-> A white circle with a red border and +3 inside
+> Icon of a white circle with a red border and +3 inside
 
 Contributes +3 Military towards conquering a military world (a white circle with a red border).
 
-> A white circle with a red border and -1 inside
+> Icon of a white circle with a red border and -1 inside
 
 The -1 is not optional. This power reduces the player’s Military, making worlds harder to conquer.
 
 #### Specific Military
 
-> A light shade of red circle with a red border and +4 inside.
+> Icon of a light shade of red circle with a red border and +4 inside.
 
 +4 Military towards conquering a Rebel military world (a light shade of red circle with a red border).
 
 #### Specific Reduce Cost / Military
 
-> A brown circle with a black border and -1 inside
-> A light shade of brown circle with a red border and +1 inside
-> A yellow cirlce with a black border and -2 inside
-> A yellow cirlce with a red border and +2 inside
+> Icon of a brown circle with a black border and -1 inside
+> Icon of a light shade of brown circle with a red border and +1 inside
+> Icon of a yellow cirlce with a black border and -2 inside
+> Icon of a yellow cirlce with a red border and +2 inside
 
 Reduce the cost of placing a non-military world of the indicated kind (a blue box, green box, brown box), or add to the player's Military when conquering a military world of that kind.
 
@@ -347,13 +347,13 @@ The player may discard this card from their tableau to gain +3 Military until th
 
 #### Pay For Military
 
-> A white circle with a red border containing a red-outlined ? inside, followed by a red arrow pointing to the right. The arrow points to another white circle with a black border, which contains a smaller red-outlined ? and the text "-1" in black. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
+> Icon of a white circle with a red border containing a red-outlined ? inside, followed by a red arrow pointing to the right. The arrow points to another white circle with a black border, which contains a smaller red-outlined ? and the text "-1" in black. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
 
-As the action, the player may place a military world (a circle with a red border)
+As the action, the player may place a military world (Icon of a circle with a red border)
 
-as a non-military world ( a white circle with black border ). The cost is the world's defense -1, with other applicable discounts.
+as a non-military world ( Icon of a white circle with black border ). The cost is the world's defense -1, with other applicable discounts.
 
-This cannot be used to place an Alien production or windfall world (a yellow circle with a black and red border and a yellow cirlce with a black and red middle ring and a white center) or combined with other pay-for-military powers.
+This cannot be used to place an Alien production or windfall world (Icon of a yellow circle with a black and red border and a yellow cirlce with a black and red middle ring and a white center) or combined with other pay-for-military powers.
 
 The card Contact Specialist also has a -1 Military power.
 
@@ -367,26 +367,26 @@ Draw 1 card after placing a world (a circle with a black border and white center
 
 #### Any Good
 
-> A white arrow faced right with a dollar sign inside and a hand holding a card with +1 inside
-> A white arrow faced right with a dollar sign inside and a hand holding a card with +2 inside
+> Icon of a white arrow faced right with a dollar sign inside and a hand holding a card with +1 inside
+> Icon of a white arrow faced right with a dollar sign inside and a hand holding a card with +2 inside
 
 Draw 1 or 2 more cards when selling a good.
 
 #### Specific Kind Of Good
 
-> A white arrow faced riht with dollar, a blue box and a hand holding a card with +2 inside
-> A white arrow faced riht with dollar, a blue box and a hand holding a card with +3 inside.
-> A white arrow faced riht with dollar, a brown box and a hand holding a card with +1 inside
-> A white arrow faced riht with dollar, a brown box and a hand holding a card with +2 inside
-> A white arrow faced riht with dollar, a green box and a hand holding a card with +1 inside
-> A white arrow faced riht with dollar, a green box and a hand holding a card with +2 inside
+> Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +2 inside
+> Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +3 inside.
+> Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +1 inside
+> Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +2 inside
+> Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +1 inside
+> Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +2 inside
 
 Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, green box, brown box, yellow box ).
 
 #### This World´S Good
 
-> A white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside
-> A white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +3 inside
+> Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside
+> Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +3 inside
 
 Draw 1 or 3 more cards when selling a good from the world ( a light shade of black circle with a black border ) with this power (plus any other applicable Trade powers, possibly due to its kind).
 
@@ -394,11 +394,11 @@ Draw 1 or 3 more cards when selling a good from the world ( a light shade of bla
 
 #### Any One Good
 
-> A card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside
-> A card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 1 inside
-> A card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 2 inside
-> A card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 2 inside
-> A card with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with 1 inside and a hand holding a card with 1 inside
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 1 inside
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 2 inside
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 2 inside
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with 1 inside and a hand holding a card with 1 inside
 
 Discard 1 good (of any kind) to gain the specified VP chips and/or cards.
 
@@ -420,7 +420,7 @@ Discard exactly 3 goods, each of a different kind ( blue box, green box, brown b
 > Image of a green card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside
 > Image of two brown cards with an arrow facing right and a hexagon with 3 inside
 
-Discard the indicated number of good(s) of the specified kind (blue box, green box, brown box, yellow box) to gain VP chips and/or cards.
+Discard the indicated number of good(s) of the specified kind (icon of a blue box, green box, brown box, yellow box) to gain VP chips and/or cards.
 
 #### Discarding "up to"
 
@@ -473,9 +473,9 @@ The Gambling World also has a standard consume power in addition to this one.
 
 |--|0 |1 |2 |3 |4 |5 |6 |7|
 |--|--|--|--|--|--|--|--|--|
-|(a biege diamond) |0 |12 |12 |4 |8 |2 |12 |0 |
-|(a white circle with black border )|2 |6 |17 |9 |4 |5 |2 |0 |
-|(a white circle with red border) |0 |6 |9 |3 |2 |2 |2 |1 |
+|(Icon of a biege diamond) |0 |12 |12 |4 |8 |2 |12 |0 |
+|(Icon of a white circle with black border )|2 |6 |17 |9 |4 |5 |2 |0 |
+|(Icon of a white circle with red border) |0 |6 |9 |3 |2 |2 |2 |1 |
 
 **number of cards at each cost/defense**
 
@@ -489,7 +489,7 @@ These VPs are not doubled by the Consume: 2x bonus.
 
 This power is optional, so it need not be used fully.
 
-### V: Produce
+### V: PRODUCE
 
 #### Produce Good
 
@@ -510,7 +510,7 @@ The player produces a good on one of their windfall worlds (a circle with colors
 > Image of a green card, an arrow pointing right and a green circle with a center color of white and an inner ring of color red and black
 > Image of a yellow card, an arrow pointing right and a yellow circle with a center color of white and an inner ring of color red and black
 
-The player produces a good on one of their windfall worlds of the specified kind (blue box, green box, brown box, yellow box) without a good on it.
+The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box, green box, brown box, yellow box) without a good on it.
 
 #### Draw
 
@@ -533,7 +533,7 @@ The production reminders for these powers show only their draw card icons.
 
 > Image of a brown card in a light shade of black circle and a hand holding a card with 1 inside
 
-Draw 1 card after producing a good on this world ( a light shade of black circle ).
+Draw 1 card after producing a good on this world ( icon of a light shade of black circle ).
 
 The production reminder for this power shows a draw card on this world icon.
 
@@ -542,43 +542,43 @@ The production reminder for this power shows a draw card on this world icon.
 > Image of a blue card, a deep dark large colon and a hand holding a card with 1 inside
 > Image of a yellow card, a deep dark large colon and a hand holding a card with 1 inside
 
-Draw 1 card for each good of the specified kind (blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
+Draw 1 card for each good of the specified kind (Icon of a blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
 
 #### Draw For Most Of A Kind
 
 > Image of a brown card with > inside and a hand holding a card with 2 inside
 
-At the end of Produce, draw 2 cards if the player produced more Rare elements goods ( a brown card ) during this phase than any other player.
+At the end of Produce, draw 2 cards if the player produced more Rare elements goods ( image of a brown card ) during this phase than any other player.
 
 #### Draw For Different Kinds
 
 > Image of four cards color blue, brown, green and yellow, a deep dark large colon and a hand holding a card with ? inside
 
-Draw 1 card for each different kind of good (blue box, green box, brown box, yellow box) that the player produced this Produce phase.
+Draw 1 card for each different kind of good (icon of a blue box, green box, brown box, yellow box) that the player produced this Produce phase.
 
 #### Draw for Worlds
 
 > Image of a green circle with a border of color red and black, a circle with black and red border and a center of color white, a deep dark large colon and a hand holding a card with 1 inside
 
-Draw 1 card for each Genes production or windfall world ( a green circle with a border of color red and black, a circle with black and red border and also a center of color white ) in the player's tableau.
+Draw 1 card for each Genes production or windfall world (icon of a green circle with a border of color red and black, a circle with black and red border and also a center of color white ) in the player's tableau.
 
 #### Discard To Produce Windfall
 
 > Image of a hand holding a card with a large size X colored red, a card with four squared part with color bluw, brown, green and brown, an arrow pointing right and a circle of color blue, brown, green and yellow with a center of white and a middle ring of black and red
 
-May discard 1 card from hand to produce a good on a windfall world (a circle of color blue, brown, green and yellow with a center of white and a middle ring of black and red).
+May discard 1 card from hand to produce a good on a windfall world (icon of a circle with color blue, brown, green and yellow with a center of white and a middle ring of black and red).
 
-## About The Cards
+## About The Cards (Page 11)
 
 ### Distribution (120 game cards):
 
-- 11 start worlds: 8 (a white circle with black border) and 3 (a white circle with red border)
-- 22 other military worlds (white circle with red border)
-- 37 other non-military worlds (white circle with black border)
-- 12 6-cost (hexaon with ? inside) developments (biege colored diamond)
-- 38 other developments: 19x2 (biege colored diamond)
+- 11 start worlds: 8 (icon of a white circle with black border) and 3(icon of a white circle with red border)
+- 22 other military worlds (icon of a white circle with red border)
+- 37 other non-military worlds (icon of a white circle with black border)
+- 12 6-cost (icon of a hexagon with ? inside) developments (icon of a biege colored diamond)
+- 38 other developments: 19x2 (icon of a biege colored diamond)
 
-### 25 worlds are military worlds (a white circle with red border):
+### 25 worlds are military worlds(icon of a white circle with red border):
 
 - 6 defense 1 (1 Rebel)
 - 9 defense 2 (1 Alien, 1 Rebel, 3 Start)
@@ -588,52 +588,52 @@ May discard 1 card from hand to produce a good on a windfall world (a circle of 
 - 2 defense 6 (1 Alien, 1 Rebel)
 - 1 defense 7 (1 Rebel)
 
-Contact Specialist not allowed for 4 Alien (a white circle with red border)
+Contact Specialist not allowed for 4 Alien(icon of a white circle with red border)
 
 ### 22 cards provide Military:
 
-- 7 (biege colored diamond) 2x +1, 3x +2, 2x +3
-- 2 (biege colored diamond) provide +3 upon discard
-- 7 (white circle with red border) 5x +1, 1x +2, 1x +3
-- 2 (white circle with black border) +1
-- 4 start worlds: (a white circle with black border) +1; (a white circle with red border) 2x +1, +2
-Galactic Imperium: +4 vs 7 Rebel (light red circle with red border) 1 (biege colored diamond) and 1 (white circle with black border) are +2 vs 4 Alien (white circle with red border)
-Alpha Centauri: +1 vs. 3 Rare (white circle with red border)
+- 7 (icon of a biege colored diamond) 2x +1, 3x +2, 2x +3
+- 2 (icon of a biege colored diamond) provide +3 upon discard
+- 7 (icon of a white circle with red border) 5x +1, 1x +2, 1x +3
+- 2 (icon of a white circle with black border) +1
+- 4 start worlds: (icon of a white circle with black border) +1;(icon of a white circle with red border) 2x +1, +2
+Galactic Imperium: +4 vs 7 Rebel (icon of a light red circle with red border) 1 (icon of a biege colored diamond) and 1 (icon of a white circle with black border) are +2 vs 4 Alien (icon of a white circle with red border)
+Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 5 cards have -1 Military
 
 ### 95 cards are placed by payment:
 
-- 2 cost 0: 0 (biege colored diamond) and 2 (white circle with black border)
-- 18 cost 1: 12 (biege colored diamond) and 6 (white circle with black border)
-- 29 cost 2: 12 (biege colored diamond) and 17 (white circle with black border)
-- 13 cost 3: 4 (biege colored diamond) and 9 (white circle with black border)
-- 12 cost 4: 8 (biege colored diamond) and 4 (white circle with black border)
-- 7 cost 5: 2 (biege colored diamond) and 5 (white circle with black border)
-- 14 cost 6: 12 (biege colored diamond) and 2 (white circle with black border)
+- 2 cost 0: 0 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
+- 18 cost 1: 12 (icon of a biege colored diamond) and 6 (icon of a white circle with black border)
+- 29 cost 2: 12 (icon of a biege colored diamond) and 17 (icon of a white circle with black border)
+- 13 cost 3: 4 (icon of a biege colored diamond) and 9 (icon of a white circle with black border)
+- 12 cost 4: 8 (icon of a biege colored diamond) and 4 (icon of a white circle with black border)
+- 7 cost 5: 2 (icon of a biege colored diamond) and 5 (icon of a white circle with black border)
+- 14 cost 6: 12 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
 
-### 26 worlds are windfall worlds (circle with color blue, green, brown and yellow with a white center and a middle ring of color black and red):
+### 26 worlds are windfall worlds (icon of a circle with color blue, green, brown and yellow with a white center and a middle ring of color black and red):
 
-- 6 Novelty (blue circle with a white center and a middle ring of color black and red) : 3 (white circle with black border) and 3 (white circle with red border)
-- 7 Rare (brown circle with a white center and a middle ring of color black and red) : 5 (white circle with black border) and 2 (white circle with red border)
-- 7 Genes (green circle with a white center and a middle ring of color black and red) : 2 (white circle with black border) and 5 (white circle with red border)
-- 6 Alien (yellow circle with a white center and a middle ring of color black and red) : 3 (white circle with black border) and 3 (white circle with red border)
+- 6 Novelty (icon of a blue circle with a white center and a middle ring of color black and red) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
+- 7 Rare (brown circle with a white center and a middle ring of color black and red) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 7 Genes (green circle with a white center and a middle ring of color black and red) : 2 (icon of a white circle with black border) and 5 (icon of a white circle with red border)
+- 6 Alien (yellow circle with a white center and a middle ring of color black and red) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
 
 ### 22 worlds produce a good:
 
-- 9 Novelty (blue circle with a border of color black and red) : 8 (white circle with black border) and 1 (white circle with red border)
-- 7 Rare (brown circle with a border of color black and red) : 5 (white circle with black border) and 2 (white circle with red border)
-- 4 Genes (green circle with a border of color black and red) : 3 (white circle with black border) and 1 (white circle with red border)
-- 2 Alien (yellow circle with a border of color black and red) : 1 (white circle with black border) and 1 (white circle with red border)
-6 (biege colored diamond) and 2 (white circle with black border) produce a good at a specific kind of windfall world;
-2 (white circle with black border) produce one at any (a multi colored circle with color blue, brown, green, yellow with a white center and a middle ring of color black and red) world.
+- 9 Novelty (icon of a blue circle with a border of color black and red) : 8 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 7 Rare (brown circle with a border of color black and red) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 4 Genes (green circle with a border of color black and red) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 2 Alien (icon of a yellow circle with a border of color black and red) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+6 (icon of a biege colored diamond) and 2 (icon of a white circle with black border) produce a good at a specific kind of windfall world;
+2 (icon of white circle with black border) produce one at any (icon of a multi colored circle with color blue, brown, green, yellow with a white center and a middle ring of color black and red) world.
 
 ### 34 cards consume one or more goods:
 
-- 17 (white circle with black border) (4 start) and 2 (white circle with red border)
-- 15 (biege colored diamond)
-2 (biege colored diamond) and 1 (white circle with red border) consume cards for VPs.
+- 17 (icon of white circle with black border) (4 start) and 2 (icon of white circle with red border)
+- 15 (icon of biege colored diamond)
+2 (icon of biege colored diamond) and 1 (icon of white circle with red border) consume cards for VPs.
 
-## 6-COST DEVELOPMENTS (hexagon with ? inside) POWERS
+## 6-COST DEVELOPMENTS (icon of hexagon with ? inside) POWERS (Page 12)
 
 For these developments, score end of the game VPs for every card in its owner's tableau that satisfies one of the conditions listed on that development (and for every 3 VPs in chips its owner has in the case of Galactic Renaissance). For each 6-cost development, a given card can score in only one of its categories. Conditions listed in ALL CAPS are titles of specific cards. For each listed card present in the owner's tableau, award the indicated VPs.
 
