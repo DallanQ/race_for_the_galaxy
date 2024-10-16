@@ -596,7 +596,7 @@ Draw 1 card for each Genes production or windfall world (icon of a green circle 
 
 May discard 1 card from hand to produce a good on a windfall world (icon of a circle with color blue, brown, green and yellow with a center of white and a middle ring of black and red).
 
-## About The Cards (Page 11)
+## ABOUT THE CARDS (Page 11)
 
 ### Distribution (120 game cards):
 
