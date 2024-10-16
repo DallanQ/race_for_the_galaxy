@@ -9,12 +9,16 @@ Find and shuffle the five **start worlds**. Deal one world face up to each playe
 **Your first game**: instead, for two players, use start worlds 1 and 2; for three, use start worlds 1–3; and, for four, use start worlds 1–4.
 
 Shuffle the unused start worlds together with the **game cards**. Deal six face down cards to each player. Each player then examines these cards and discards two cards face down to the discard pile. The remaining game cards form the initial card supply.
-xczz
+
 **Your first game**: instead, each player uses the four numbered game cards matching their start world's number as their initial (preset) hand. After finding these preset hand cards, shuffle all the remaining game cards, including any left over start worlds and preset hand cards, together.
 
 The start worlds, preset hands, and action card sets for your very first game have already been presorted.
 
 If Alpha Centauri is in play, place a card from the card supply face down on top of it (as its starting windfall good).
+
+> Each player has their start world and their starting action cards in front of them. In the center of the table, place the card supply, discard plie (face down and "messy"), and VP chips 3 players: remove 12, 2 players: remove 24 (set aside the 10 VP chips)
+
+Each player’s card tableau is in front of them. It is one or more rows of face up cards: developments and worlds. Some worlds may have goods , represented by face down cards, on them. Initially, it contains only the player’s start world (and its windfall good, if it has one).
 
 ## PLAYING THE GAME (Page 3)
 
@@ -46,7 +50,7 @@ There are two possible Explore bonuses, depending on which Explore action card w
 
 A player who chose Explore: +5 draws five more cards to select from before making their choice. Such a player explores by drawing 7 cards and choosing 1 of them to add to their hand.
 
-A player who chose Explore: +1,+1 draws one more card to select from and keeps another card. Such a player explores by drawing 3 cards and choosing 2 of them to add to their hand.
+A player who chose Explore: +1, +1 draws one more card to select from and keeps another card. Such a player explores by drawing 3 cards and choosing 2 of them to add to their hand.
 
 Thus, depending on the bonus chosen with the Explore action, a player can either have more cards to select from or gain an extra card to keep.
 
@@ -58,7 +62,7 @@ Action: each player places a development card from their hand face down, or no c
 
 If desired, players can put their intended developments (if any) under their action card, revealing them when everyone is ready.
 
-Each development has a symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
+Each development has(a white diamond shaped) symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
 
 Players who chose Develop, as the bonus, discard one card fewer than the development's cost. If, due to powers, a player is already discarding no cards, no bonus is received.
 
@@ -66,7 +70,7 @@ A player may not build a given development if another copy of it is currently in
 
 Next to a development's diamond is its victory point (VP) value. It adds to the player's final victory point total at the end of the game.
 
-6-cost developments have listed as their victory point values. These are worth a variable number of victory points at the end of the game, as indicated on these cards.
+6-cost developments have (a white hexagon with a black question mark inside) listed as their victory point values. These are worth a variable number of victory points at the end of the game, as indicated on these cards.
 
 The powers of various cards can alter these rules if a player has them in their tableau before the development phase begins.
 
@@ -106,13 +110,13 @@ The powers of various cards can alter the settle rules if a player has them in t
 
 There are four kinds of goods in the game:
 
-- Alien technology (yellow), artifacts left by the vanished Alien Overlords.
+- Alien technology (yellow box), artifacts left by the vanished Alien Overlords.
 
-- Genes (green), genetic material used in biological research.
+- Genes (green box), genetic material used in biological research.
 
-- Rare elements (brown), transuranic elements powering Jumpdrive.
+- Rare elements (brown box), transuranic elements powering Jumpdrive.
 
-- Novelty goods (blue), such as artwork and entertainment.
+- Novelty goods (blue box), such as artwork and entertainment.
 
 **Military Conquest**: some worlds have red circles and, within them, a red outlined number, ranging from 1–7; this is the world's defense. These worlds cannot be placed by payment, but instead must be conquered. To conquer a world, a player's total Military must equal or exceed the world's defense. Then, the player simply places it — and its windfall good, if it has a halo — without paying for it (and then draws a bonus card if that player chose Settle).
 
@@ -278,57 +282,90 @@ Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or
 
 Draw 1 card after placing a development ( a biege colored diamond shape ).
 
-## Iii: Settle Reduce Cost
+### III: SETTLE
 
-## Specific Reduce Cost
+#### Reduce Cost
 
-## Reduce Cost To 0
+> a circle with -2 inside
 
-2 cost to place a non-military world ( ).
+-2 cost to place a non-military world( a cirlce )
 
-1 cost to place a non-military Rare elements production or windfall world ( ).
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
 
-The player may discard this card from their tableau to reduce the cost of
+#### Specific Reduce Cost
 
-placing a non-military world ( ) to 0.
+> a light shade of brown cirlce with -1 inside
 
-This cannot be used to place an Alien production or windfall world ( ).
+-1 cost a place a non-military Rare elements production or windfall world ( a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown cirlce with a middle ring of color red and black, a center filled with white ).
 
-## It Can Place The Alien Rosetta Stone World.
+#### Reduce Cost To 0
 
-Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( ).
+> a box with a large red X inside and a circle with =0 inside
 
-## Military
+The player may discard this card from their tableau to reduce the cost of placing a non-military world ( a circle ) to 0.
 
-## Specific Military
+This cannot be used to place an Alien production or windfall world (  a circle with a border of red and blank, a center filled with a light shade of yellow and a light shade of yellow cirlce with a middle ring of color red and black, a center filled with white ).
 
-## Specific Reduce Cost / Military
+It Can Place The Alien Rosetta Stone World.
 
-Contributes Military towards conquering a military world ( ).
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
-The -1 is not optional. This power reduces the player's Military, making worlds harder to conquer.
+#### Military
 
-+4 Military towards conquering a Rebel military world ( ).
+> a white circle with a red border and +1 inside
 
-Reduce the cost of placing a non-military world of the indicated kind ( ), or add to the player's Military when conquering a military world of that kind.
+Contributes +1 Military towards conquering a military world ( a white circle with a red border ).
 
-## Temporary Military
+> a white circle with a red border and +2 inside
+
+Contributes +2 Military towards conquering a military world ( a white circle with a red border ).
+
+> a white circle with a red border and +3 inside
+
+Contributes +3 Military towards conquering a military world ( a white circle with a red border ).
+
+> a white circle with a red border and -1 inside
+
+The -1 is not optional. This power reduces the player’s Military, making worlds harder to conquer.
+
+#### Specific Military
+
+> a light shade of red circle with a red border and +4 inside.
+
++4 Military towards conquering a Rebel military world ( a light shade of red circle with a red border ).
+
+#### Specific Reduce Cost / Military
+
+> a brown circle with a black border and -1 inside
+> a light shade of brown circle with a red border and +1 inside
+> a yellow cirlce with a black border and -2 inside
+> a yellow cirlce with a red border and +2 inside
+
+Reduce the cost of placing a non-military world of the indicated kind (  a blue box, green box, brown box ), or add to the player's Military when conquering a military world of that kind.
+
+#### Temporary Military
+
+> a box with red X inside, a red arrow facing left and a white circle with a red border and +3 inside
 
 The player may discard this card from their tableau to gain +3 Military until the end of this Settle phase.
 
-## Pay For Military
+#### Pay For Military
 
-As the action, the player may place a military world ( )
+> a white circle with a red border, a white qustion mark with red border, a red arrow facing right and a white cirlce with a black border, a white question mark with red border and - 1 inside
 
-as a non-military world ( ). The cost is the world's defense -1, with other applicable discounts.
+As the action, the player may place a military world ( a circle with a red border)
 
-This cannot be used to place an Alien production or windfall world ( ) or combined with other pay-for-military powers.
+as a non-military world (  a white circle with black border ). The cost is the world's defense -1, with other applicable discounts.
+
+This cannot be used to place an Alien production or windfall world ( a yellow circle with a black and red border and a yellow cirlce with a black and red middle ring and a white center ) or combined with other pay-for-military powers.
 
 The card Contact Specialist also has a -1 Military power.
 
-## Draw After
+#### Draw After
 
-Draw 1 card after placing a world ( ).
+> a circle with a black and red border and a white center and a hand holding a phone with 1 inside
+
+Draw 1 card after placing a world (  a circle with a black border and white center and a cirlce wit a red border and a white center).
 
 ## $: Trade Any Good
 
