@@ -333,8 +333,11 @@ The -1 is not optional. This power reduces the player’s Military, making world
 #### Specific Reduce Cost / Military
 
 > Icon of a brown circle with a black border and -1 inside
+
 > Icon of a light shade of brown circle with a red border and +1 inside
+
 > Icon of a yellow cirlce with a black border and -2 inside
+
 > Icon of a yellow cirlce with a red border and +2 inside
 
 Reduce the cost of placing a non-military world of the indicated kind (a blue box, green box, brown box), or add to the player's Military when conquering a military world of that kind.
@@ -368,6 +371,7 @@ Draw 1 card after placing a world (a circle with a black border and white center
 #### Any Good
 
 > Icon of a white arrow faced right with a dollar sign inside and a hand holding a card with +1 inside
+
 > Icon of a white arrow faced right with a dollar sign inside and a hand holding a card with +2 inside
 
 Draw 1 or 2 more cards when selling a good.
@@ -375,10 +379,15 @@ Draw 1 or 2 more cards when selling a good.
 #### Specific Kind Of Good
 
 > Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +2 inside
+
 > Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +3 inside.
+
 > Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +1 inside
+
 > Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +2 inside
+
 > Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +1 inside
+
 > Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +2 inside
 
 Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, green box, brown box, yellow box ).
@@ -386,6 +395,7 @@ Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, 
 #### This World´S Good
 
 > Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside
+
 > Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +3 inside
 
 Draw 1 or 3 more cards when selling a good from the world ( a light shade of black circle with a black border ) with this power (plus any other applicable Trade powers, possibly due to its kind).
@@ -395,9 +405,13 @@ Draw 1 or 3 more cards when selling a good from the world ( a light shade of bla
 #### Any One Good
 
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside
+
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 1 inside
+
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 2 inside
+
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 2 inside
+
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with 1 inside and a hand holding a card with 1 inside
 
 Discard 1 good (of any kind) to gain the specified VP chips and/or cards.
@@ -415,9 +429,13 @@ Discard exactly 3 goods, each of a different kind ( blue box, green box, brown b
 #### Specific Kind Of Good(S)
 
 > Image of a blue card with an arrow facing right and a hand holding a card with 1 inside
+
 > Image of a blue card with an arrow facing right and a hexagon with 1 inside
+
 > Image of a brown card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside
+
 > Image of a green card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside
+
 > Image of two brown cards with an arrow facing right and a hexagon with 3 inside
 
 Discard the indicated number of good(s) of the specified kind (icon of a blue box, green box, brown box, yellow box) to gain VP chips and/or cards.
@@ -425,8 +443,11 @@ Discard the indicated number of good(s) of the specified kind (icon of a blue bo
 #### Discarding "up to"
 
 > Image of a card with four squares in blue, green, yellow and brown, an arrow facing right with x2 inside and a hexagon with 1 inside
+
 > Image of a brown card, an arrow facing right with x2 inside and a hexagon with 1 inside
+
 > Image of a blue card, an arrow facing right with x3 inside and a hexagon with 1 inside
+
 > Image of a blue card, an arrow facing right with x3 inside, a hexagon with 1 inside and a hand holding a card with 1 inside
 
 Discard goods up to the indicated number to gain the specified VP chips and/or cards for each good discarded.
@@ -506,8 +527,11 @@ The player produces a good on one of their windfall worlds (a circle with colors
 #### Produce Specific Windfall
 
 > Image of a blue card, an arrow pointing right and a blue circle with a center color of white and an inner ring of color red and black
+
 > Image of a brown card, an arrow pointing right and a brown circle with a center color of white and an inner ring of color red and black
+
 > Image of a green card, an arrow pointing right and a green circle with a center color of white and an inner ring of color red and black
+
 > Image of a yellow card, an arrow pointing right and a yellow circle with a center color of white and an inner ring of color red and black
 
 The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box, green box, brown box, yellow box) without a good on it.
@@ -515,6 +539,7 @@ The player produces a good on one of their windfall worlds of the specified kind
 #### Draw
 
 > Image of a hand holding a card with 1 inside
+
 > Image of a hand holding a card with 2 inside
 
  Draw 1 Or 2 Cards.
@@ -522,7 +547,9 @@ The player produces a good on one of their windfall worlds of the specified kind
 #### Produce Good And Draw
 
 > Image of a blue card and a hand holding a card with 1 inside
+
 > Image of a brown card and a hand holding a card with 1 inside
+
 > Image of a green card and a hand holding a card with 2 inside
 
 Produce a good on this world (if it does not have a good on it) and then draw 1 or 2 cards. Do not draw any cards if no good was produced.
@@ -540,6 +567,7 @@ The production reminder for this power shows a draw card on this world icon.
 #### Draw For Kind
 
 > Image of a blue card, a deep dark large colon and a hand holding a card with 1 inside
+
 > Image of a yellow card, a deep dark large colon and a hand holding a card with 1 inside
 
 Draw 1 card for each good of the specified kind (Icon of a blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
