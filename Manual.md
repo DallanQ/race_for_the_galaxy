@@ -652,7 +652,9 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 - 7 Rare (brown circle with a border of color black and red) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
 - 4 Genes (green circle with a border of color black and red) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
 - 2 Alien (icon of a yellow circle with a border of color black and red) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+
 6 (icon of a biege colored diamond) and 2 (icon of a white circle with black border) produce a good at a specific kind of windfall world;
+
 2 (icon of white circle with black border) produce one at any (icon of a multi colored circle with color blue, brown, green, yellow with a white center and a middle ring of color black and red) world.
 
 ### 34 cards consume one or more goods:
