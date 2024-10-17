@@ -1,6 +1,6 @@
 ## OVERVIEW (page 1)
 
-In Race for the Galaxy, players build galactic civilizations by game cards that represent worlds or technical and social developments. 
+In Race for the Galaxy, players build galactic civilizations by game cards that represent worlds or technical and social developments.
 
 Each round consists of one or more of five possible phases. In each round, each player secretly and simultaneously chooses one of seven different action cards and then reveals it. Only the selected phases occur. For these phases, every player performs the phase’s action, while the selecting player(s) also get a bonus for that phase.
 
@@ -8,10 +8,9 @@ For example, if at least one player chooses the Develop action, then the Develop
 
 Explore allows a player to draw cards and select which of them to add to their hand. Settle allows a player to place a world in their tableau. Some worlds produce goods, represented by face down cards, when Produce is selected. These goods can be discarded for victory points or sold to add cards to the player’s hand by selecting Consume. With cards, players can settle new worlds and build more developments, gaining both victory points and card powers that provide advantages in certain phases.
 
-The player who best manages their cards, phase and bonus selections, and card powers to build the greatest space empire, wins. 
+The player who best manages their cards, phase and bonus selections, and card powers to build the greatest space empire, wins.
 
 **The winner is the player with the most victory points.**
-
 
 ## SETUP (Page 2)
 
@@ -35,6 +34,32 @@ If Alpha Centauri is in play, place a card from the card supply face down on top
 
 Each player’s card tableau is in front of them. It is one or more rows of face up cards: developments and worlds. Some worlds may have goods , represented by face down cards, on them. Initially, it contains only the player’s start world (and its windfall good, if it has one).
 
+### Setup Summary (Page 2)
+
+> An Image of a splited card with a large red box with 1 inside on the bigger portion of the card and a small red box with 1 inside on the small portion of the card
+
+start worlds
+
+> An Image of a splited card with a yellow 2 on the bigger portion of the card and a yellow 2 on the small portion of the card also
+
+preset cards
+
+*Start worlds have numbered red and blue boxes in their upper left and lower right corners (these colorsare used in a future expansion). Preset hand cards have numbers without boxes.*
+
+Set out 12 VPs per player in 1 and 5 VP chips. Set aside the 10 VP chips for later use.
+
+Give each player a set of seven action cards and a random start world.
+
+Shuffle the unused start worlds and game cards. Each player gets 6 cards and discards 2 of them.
+
+The remaining cards form the card supply.
+
+*Cards in the card supply and the discard pile are both face down. To tell them apart, keep the card supply neat and the discard pile a bit “messy”.*
+
+Use 12 VPs per player.
+
+A player's development and worlds are placed in a card tableau.
+
 ## PLAYING THE GAME (Page 3)
 
 A game is played over several rounds (typically 7 to 11). At the start of a round, players simultaneously and secretly choose one action card, placing it face down in front of themselves. Once all players have done so, they turn these action cards face up. Then, the players perform the selected phases in order (I: Explore; II: Develop; III: Settle; IV: Consume; V: Produce), omitting every phase not chosen by at least one player.
@@ -55,27 +80,29 @@ Successive rounds are performed in the same manner until an end-of-game conditio
 
 Game cards have three uses: as a development or world to be placed in a player's tableau; as one wealth to discard from one's hand face down when paying to place a development or world; or as a good placed face down on a world either upon it being settled or during production.
 
-### Playing the Game Summary (page 2)
+### Playing the Game Summary (page 3)
 
-Each round, all players secretly choose and then reveal an action card. 
+Each round, all players secretly choose and then reveal an action card.
 
-Only phases selected by players are performed. 
+Only phases selected by players are performed.
 
-Perform the selected phases in numerical order: 
+Perform the selected phases in numerical order:
+
 - I Explore
 - II Develop
 - III Settle
 - IV Consume
 - V Produce
 
-A phase has an action, performed by all players, and a bonus, performed only by the players who chose that action card. 
+A phase has an action, performed by all players, and a bonus, performed only by the players who chose that action card.
 
 At the end of a round, players must discard down to a hand limit of 10 cards.
 
 Game cards have three uses, as:
+
 - developments or worlds
 - one wealth (money) to spend
-- one good (on a world
+- one good (on a world)
 
 ### I: EXPLORE (page 3)
 
@@ -95,7 +122,15 @@ The powers of various cards can alter these rules if a player has them in their 
 
 #### Explore Summary (page 3)
 
-Needs to be added
+Action: draw 2 cards; keep 1, discard the other.
+
+*All explore draws are done before any player discards.*
+
+Bonus (based on the action card chosen): draw 5 more cards or draw 1 more card and keep 1 more card.
+
+>Icon of a eye with +2 inside and an icon of a hand holding a card with +1 inside
+
+*Example: with this Explore power, a player (with no bonus) would draw four cards and keep two of them.*
 
 ### II: DEVELOP (page 4)
 
@@ -117,7 +152,23 @@ The powers of various cards can alter these rules if a player has them in their 
 
 #### Develop Summary (page 4)
 
-Needs to be added
+Action: place and pay for a development.
+
+*To indicate no development, some players “knock” on the table, others put a world instead face down and flip it over, others put a card down but pick it up saying “no” when all are ready. Agree on a convention.*
+
+Bonus: discard one fewer card when paying for a development.
+
+A player may have only one of any given development in their tableau.
+
+Developments are worth victory points
+
+> Icon of a biege colored diamond with 3 inside indicating cost
+
+> Icon of a hexagon with 2 inside indicating VPs
+
+> Icon of a biege colored diamond with 6 inside
+
+> Icon of a hexagon with ? inside
 
 ### CARD POWERS (Page 4)
 
@@ -141,7 +192,23 @@ Powers are resolved sequentially (even though their effects can be cumulative). 
 
 #### Card Powers Summary (page 4)
 
-Needs to be added
+Developments, and most worlds, grant powers.
+
+>Image of a grayish blue card with ? inside
+
+standard power
+
+>Image of a light grayish blue card with ? inside
+
+special power
+
+*Power icons appear on the left side of cards, arranged in I to V phase order, allowing players to easily scan their tableaus for them during a phase.*
+
+The chromsome icon (icon of a green, stylized, intertwined shape resembling a chromosome), (a green bold UPLIFT text), (a purple bold IMPERIUM text), and (a brown bold TERRAFORMING text) are for use in future expansion sets.
+
+Powers first take effect in the phase after their cards is placed.
+
+Powers must be applied if possible, unless the card text indicates otherwise.
 
 ### III: SETTLE (page 5)
 
@@ -182,7 +249,33 @@ Thus, there are two completely separate ways to place military worlds.
 
 #### Settle Summary (page 5)
 
-Needs to be added
+Action place and pay for a world, receiving any windfall as indicated.
+
+> Icon of a white circle with a blue background shadow and 3 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 2 inside beside the white circle. The icon indicates cost
+
+windfall world
+
+> Icon of a blue cirlce with 2 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 1 inside. The icon indicates cost
+
+production world
+
+*Blue, brown, and green worlds have a “moon” in a quadrant as an aid for color-blind players. (A reddish circle in the lower right is a Rebel world, see Galactic Imperium , back page.)*
+
+Bonus: draw a card after placing a world.
+
+> Icon of a transparent circle with a black border and 5 inside, beside the icon is aother icon of a white hexagon with 3 inside.  The icon represents VPs
+
+Worlds are worth victory points.
+
+A windfall is creceive once, when a world is first placed.
+
+> Image of the backview and fron view of a race from the galaxy card, the front of the card has a white circle with brown background shadow and 3 inside, beside the circle is a white hexagon with 2 inside. The card indicates that windfall goods are placed on top of worlds with colored halos around their costs.
+
+> Icon of a white cirlce with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 1 inside
+
+> Icon of a white cirlce with a black border, a brown background shadow and a black 2 inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 0 inside
+
+Military worlds (with red circles) must be conquered to be placed.
 
 ### IV: CONSUME (page 6)
 
