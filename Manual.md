@@ -1,3 +1,18 @@
+## OVERVIEW (page 1)
+
+In Race for the Galaxy, players build galactic civilizations by game cards that represent worlds or technical and social developments. 
+
+Each round consists of one or more of five possible phases. In each round, each player secretly and simultaneously chooses one of seven different action cards and then reveals it. Only the selected phases occur. For these phases, every player performs the phase’s action, while the selecting player(s) also get a bonus for that phase.
+
+For example, if at least one player chooses the Develop action, then the Develop phase will occur; otherwise it is skipped. In it, each player may simultaneously select a development from their hand of cards to build. After revealing these cards, each player adds their development to their tableau of cards on the table and then discards cards from their hand equal to its cost. Each player who chose Develop discards one card fewer as their bonus.
+
+Explore allows a player to draw cards and select which of them to add to their hand. Settle allows a player to place a world in their tableau. Some worlds produce goods, represented by face down cards, when Produce is selected. These goods can be discarded for victory points or sold to add cards to the player’s hand by selecting Consume. With cards, players can settle new worlds and build more developments, gaining both victory points and card powers that provide advantages in certain phases.
+
+The player who best manages their cards, phase and bonus selections, and card powers to build the greatest space empire, wins. 
+
+**The winner is the player with the most victory points.**
+
+
 ## SETUP (Page 2)
 
 Place 12 victory point (VP) chips per player in **1** and **5 VP chips** nearby. Set aside the **10 VP chips** (and any left over chips) for use only during the final round of play.
@@ -40,7 +55,29 @@ Successive rounds are performed in the same manner until an end-of-game conditio
 
 Game cards have three uses: as a development or world to be placed in a player's tableau; as one wealth to discard from one's hand face down when paying to place a development or world; or as a good placed face down on a world either upon it being settled or during production.
 
-### I: EXPLORE
+### Playing the Game Summary (page 2)
+
+Each round, all players secretly choose and then reveal an action card. 
+
+Only phases selected by players are performed. 
+
+Perform the selected phases in numerical order: 
+- I Explore
+- II Develop
+- III Settle
+- IV Consume
+- V Produce
+
+A phase has an action, performed by all players, and a bonus, performed only by the players who chose that action card. 
+
+At the end of a round, players must discard down to a hand limit of 10 cards.
+
+Game cards have three uses, as:
+- developments or worlds
+- one wealth (money) to spend
+- one good (on a world
+
+### I: EXPLORE (page 3)
 
 Action: each player draws two cards and then simultaneously selects which one of them to add to their hand, discarding the other card face down in the center discard area.
 
@@ -56,13 +93,17 @@ Thus, depending on the bonus chosen with the Explore action, a player can either
 
 The powers of various cards can alter these rules if a player has them in their tableau, possibly providing extra card draws or allowing a player to keep additional cards.
 
-### II: DEVELOP
+#### Explore Summary (page 3)
+
+Needs to be added
+
+### II: DEVELOP (page 4)
 
 Action: each player places a development card from their hand face down, or no card if a player doesn't intend to place a development. Once all players have done so, they simultaneously turn them face up and then pay for them.
 
 If desired, players can put their intended developments (if any) under their action card, revealing them when everyone is ready.
 
-Each development has(icon of a white diamond) symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
+Each development has a (icon of a white diamond) symbol containing its cost, ranging from 1–6. To pay for a development, a player discards cards equal to this number face down from their hand.
 
 Players who chose Develop, as the bonus, discard one card fewer than the development's cost. If, due to powers, a player is already discarding no cards, no bonus is received.
 
@@ -74,7 +115,11 @@ Next to a development's diamond is its victory point (VP) value. It adds to the 
 
 The powers of various cards can alter these rules if a player has them in their tableau before the development phase begins.
 
-## CARD POWERS (Page 4)
+#### Develop Summary (page 4)
+
+Needs to be added
+
+### CARD POWERS (Page 4)
 
 Every development, and most worlds, list one or more powers. Standard powers are depicted by icons with no text description (see the reference sheet). Special powers have icons, highlighted phases, and text descriptions at the bottom of the card which begin with the corresponding phase number.
 
@@ -94,7 +139,11 @@ An optional power (such as a Colony Ship) must be used if it is needed to place 
 
 Powers are resolved sequentially (even though their effects can be cumulative). A player cannot "interrupt" one power with another.
 
-### III: SETTLE
+#### Card Powers Summary (page 4)
+
+Needs to be added
+
+### III: SETTLE (page 5)
 
 Action: each player places a world card from their hand face down, or no card if a player doesn't intend to place a world. Once all players have done so, they simultaneously turn them face up and then pay for (or conquer) them.
 
@@ -111,11 +160,8 @@ The powers of various cards can alter the settle rules if a player has them in t
 There are four kinds of goods in the game:
 
 - Alien technology (yellow box), artifacts left by the vanished Alien Overlords.
-
 - Genes (green box), genetic material used in biological research.
-
 - Rare elements (brown box), transuranic elements powering Jumpdrive.
-
 - Novelty goods (blue box), such as artwork and entertainment.
 
 **Military Conquest**: some worlds have red circles and, within them, a red outlined number, ranging from 1–7; this is the world's defense. These worlds cannot be placed by payment, but instead must be conquered. To conquer a world, a player's total Military must equal or exceed the world's defense. Then, the player simply places it — and its windfall good, if it has a halo — without paying for it (and then draws a bonus card if that player chose Settle).
@@ -134,7 +180,11 @@ Cost discounts from Replicant Robots, Mining Robots, etc. do combine with a Cont
 
 Thus, there are two completely separate ways to place military worlds.
 
-### IV: CONSUME
+#### Settle Summary (page 5)
+
+Needs to be added
+
+### IV: CONSUME (page 6)
 
 Action: all players must use their consume powers, if they have any, to discard goods for victory point chips and/or card draws.
 
@@ -162,7 +212,11 @@ Players who chose Consume: 2x VPs double the number of victory point chips — b
 
 Exception: VPs for discarding cards from your hand (from powers such as Deficit Spending or Merchant World) are not doubled by this bonus.
 
-### V: PRODUCE
+#### Consume Summary (page 6)
+
+Needs to be added
+
+### V: PRODUCE (page 7)
 
 Action: place a good on each production world (worlds with colored, solid circles) without a good, by taking a card face down — without looking at it — from the card supply and putting it on top of the world's lower right portion (to avoid hiding the world's VPs and powers). This good is of the kind indicated by the color of the world's solid circle (and the color of the corresponding Produce power).
 
@@ -174,6 +228,11 @@ Some cards, such as Genetics Lab, can also produce goods on windfall worlds (wit
 
 Others, such as Pan-Galactic League, provide a card draw for each world of a specific kind in a player's tableau (such as Genes worlds, with either a green halo or a green solid circle).
 
+#### Produce Summary (page 7)
+
+Needs to be added
+
+
 ## ROUND END, CARDS, AND CHIPS (Page 7)
 
 After all chosen phases are done, players must discard down to 10 (game) cards before starting the next round.
@@ -183,6 +242,10 @@ All discards are face down. Keep the discard pile a bit "messy" so that it is no
 When the card supply is exhausted, immediately reshuffle the discards to form a new card supply.
 
 All players' VP chips and the number of game cards they have in their hands are open for examination. Make change among VP chips as needed.
+
+### Round End, Cards, and Chips Summary (page 7)
+
+Needs to be added
 
 ## GAME END (Page 7)
 
@@ -204,6 +267,10 @@ If two or more players tie, the player among them with the highest total number 
 
 If there is still a tie, then all the tied players win.
 
+### Game End Summary (page 7)
+
+Needs to be added
+
 ## TIMING (Page 8)
 
 Mostly, play can and should be performed simultaneously.
@@ -220,6 +287,10 @@ Near the end of the game, if several players have New Military Tactics or Colony
 
 In this and similar cases, resolve the phase in clockwise order (after simultaneously placing any cards), starting with the player who has the lowest numbered (original) start world.
 
+### Timing Summary (page 8)
+
+Needs to be added
+
 ## 2 PLAYER GAME (for experienced players) (Page 8)
 
 Initially, two players should just play the standard rules. Once you're familiar with the game, play with the following changes:
@@ -232,11 +303,15 @@ Initially, two players should just play the standard rules. Once you're familiar
 
 - A player who selects both Consume bonuses must sell one good before consuming other goods for double VPs.
 
+### 2 Player Game (for experienced players) Summary (page 8)
+
+Needs to be added
+
 ## CARD POWERS (by Phase) (Page 9)
 
-### I: EXPLORE
+### I: EXPLORE (page 9)
 
-#### Draw Extra
+#### Draw Extra (page 9)
 
 > Image of an eye with +1 inside
 
@@ -246,33 +321,33 @@ Draw 1 or 2 more cards to select from.
 
 These powers do not alter the number of cards that a player keeps.
 
-#### Keep Extra
+#### Keep Extra (page 9)
 
 > Image of a hand holding a card with +1 inside
 
 Keep 1 more card.
 
-#### Draw and Keep Extra
+#### Draw and Keep Extra (page 9)
 
 > Image of an eye with +2 inside and a hand holding a card with +1 inside.
 
 Draw 2 more cards to select from; keep 1 more card.
 
-### II: DEVELOP
+### II: DEVELOP (page 9)
 
-#### Draw
+#### Draw (page 9)
 
 > Image of a hand holding a card with 1 inside
 
 Draw 1 card at the start of the Develop phase.
 
-#### Reduce Cost
+#### Reduce Cost (page 9)
 
 > Image of two biege colored diamond shapes with -1 and -2 inside respectively.
 
 Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or 2 cards.
 
-#### Draw After
+#### Draw After (page 9)
 
 > Image of a biege colored diamond shape and a hand holding a card with 1 inside
 
@@ -282,19 +357,19 @@ Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 ### III: SETTLE
 
-#### Reduce Cost
+#### Reduce Cost (page 9)
 
 > Icon of a circle with -2 inside
 
 -2 cost to place a non-military world( a white cirlce with a black border )
 
-#### Specific Reduce Cost
+#### Specific Reduce Cost (page 9)
 
 > Icon of a light shade of brown cirlce with -1 inside
 
 -1 cost a place a non-military Rare elements production or windfall world ( icon of a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown cirlce with a middle ring of color red and black, a center filled with white ).
 
-#### Reduce Cost To 0
+#### Reduce Cost To 0 (page 9)
 
 > A box with a large red X inside and a circle with =0 inside. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
 
@@ -306,7 +381,7 @@ It Can Place The Alien Rosetta Stone World.
 
 **Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
-#### Military
+#### Military (page 9)
 
 > Icon of a white circle with a red border and +1 inside
 
@@ -324,13 +399,13 @@ Contributes +3 Military towards conquering a military world (a white circle with
 
 The -1 is not optional. This power reduces the player’s Military, making worlds harder to conquer.
 
-#### Specific Military
+#### Specific Military (page 9)
 
 > Icon of a light shade of red circle with a red border and +4 inside.
 
 +4 Military towards conquering a Rebel military world (a light shade of red circle with a red border).
 
-#### Specific Reduce Cost / Military
+#### Specific Reduce Cost / Military (page 9)
 
 > Icon of a brown circle with a black border and -1 inside
 
@@ -342,13 +417,13 @@ The -1 is not optional. This power reduces the player’s Military, making world
 
 Reduce the cost of placing a non-military world of the indicated kind (a blue box, green box, brown box), or add to the player's Military when conquering a military world of that kind.
 
-#### Temporary Military
+#### Temporary Military (page 9)
 
 > A box with red X inside, a red arrow facing left and a white circle with a red border and +3 inside
 
 The player may discard this card from their tableau to gain +3 Military until the end of this Settle phase.
 
-#### Pay For Military
+#### Pay For Military (page 9)
 
 > Icon of a white circle with a red border containing a red-outlined ? inside, followed by a red arrow pointing to the right. The arrow points to another white circle with a black border, which contains a smaller red-outlined ? and the text "-1" in black. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
 
@@ -360,15 +435,15 @@ This cannot be used to place an Alien production or windfall world (Icon of a ye
 
 The card Contact Specialist also has a -1 Military power.
 
-#### Draw After
+#### Draw After (page 9)
 
 > A circle with a black and red border and a white center and a hand holding a card with 1 inside
 
 Draw 1 card after placing a world (a circle with a black border and white center and a cirlce wit a red border and a white center).
 
-### $: TRADE
+### $: TRADE (page 10)
 
-#### Any Good
+#### Any Good (page 10)
 
 > Icon of a white arrow faced right with a dollar sign inside and a hand holding a card with +1 inside
 
@@ -376,7 +451,7 @@ Draw 1 card after placing a world (a circle with a black border and white center
 
 Draw 1 or 2 more cards when selling a good.
 
-#### Specific Kind Of Good
+#### Specific Kind Of Good (page 10)
 
 > Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +2 inside
 
@@ -392,7 +467,7 @@ Draw 1 or 2 more cards when selling a good.
 
 Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, green box, brown box, yellow box ).
 
-#### This World´S Good
+#### This World´S Good (page 10)
 
 > Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside
 
@@ -400,9 +475,9 @@ Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, 
 
 Draw 1 or 3 more cards when selling a good from the world ( a light shade of black circle with a black border ) with this power (plus any other applicable Trade powers, possibly due to its kind).
 
-### IV: CONSUME
+### IV: CONSUME (page 10)
 
-#### Any One Good
+#### Any One Good (page 10)
 
 > Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside
 
@@ -416,7 +491,7 @@ Draw 1 or 3 more cards when selling a good from the world ( a light shade of bla
 
 Discard 1 good (of any kind) to gain the specified VP chips and/or cards.
 
-#### Fixed Number Of Goods
+#### Fixed Number Of Goods (page 10)
 
 > Image of two cards with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 3 inside
 
@@ -426,7 +501,7 @@ Discard 2 goods (of any kind, possibly the same) to gain 3 VP chips.
 
 Discard exactly 3 goods, each of a different kind ( blue box, green box, brown box, yellow box ), to gain 3 VP chips.
 
-#### Specific Kind Of Good(S)
+#### Specific Kind Of Good(S) (page 10)
 
 > Image of a blue card with an arrow facing right and a hand holding a card with 1 inside
 
@@ -440,7 +515,7 @@ Discard exactly 3 goods, each of a different kind ( blue box, green box, brown b
 
 Discard the indicated number of good(s) of the specified kind (icon of a blue box, green box, brown box, yellow box) to gain VP chips and/or cards.
 
-#### Discarding "up to"
+#### Discarding "up to" (page 10)
 
 > Image of a card with four squares in blue, green, yellow and brown, an arrow facing right with x2 inside and a hexagon with 1 inside
 
@@ -456,7 +531,7 @@ Once invoked, these powers must be used to the fullest extent possible.
 
 Example: with two remaining goods (of the appropriate kind), the player must discard both of them after invoking one of these powers.
 
-#### All Goods
+#### All Goods (page 10)
 
 > Image of four set of cards with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with ?-1 inside
 
@@ -464,13 +539,13 @@ Discard all goods (possibly after using other consume powers) to gain VP chips e
 
 Example: if the player has 3 goods when this power is invoked, they discard all of them for 2 VPs.
 
-#### Draw
+#### Draw (page 10)
 
 > Image of a hand holding a card with 1 inside
 
 Draw 1 Card.
 
-#### For Cards At Trade Prices
+#### For Cards At Trade Prices (page 10)
 
 > Image of a card with four squares in blue, green, yellow, and brown, a grey arrow facing right and a hand holding a card with ? inside. There is also a small red circle with an arrow point right which has $ inside and a diagonal slash in the upper right corner of the second circle.
 
@@ -484,7 +559,7 @@ Trade Powers do not affect this power.
 
 Discard 1 good to gain cards equal to its Trade price ( (blue card) Novelty: 2; (brown card) Rare elements: 3; (green card) Genes: 4; (yellow card) Alien technology: 5), plus all applicable Trade powers (including its own Trade power).
 
-#### Draw If Lucky
+#### Draw If Lucky (page 10)
 
 > Image of a dice, a card with ? inside and a hand holding a card with = inside
 
@@ -500,7 +575,7 @@ The Gambling World also has a standard consume power in addition to this one.
 
 **number of cards at each cost/defense**
 
-#### Discard Cards, Not Goods
+#### Discard Cards, Not Goods (page 10)
 
 > Image of a hand holding a card, an arrow pointing right with x2 inside and a hexagon with 1 inside.  There is also a small red circle with x2 inside and a diagonal slash in the upper right corner of the second circle.
 
@@ -510,21 +585,21 @@ These VPs are not doubled by the Consume: 2x bonus.
 
 This power is optional, so it need not be used fully.
 
-### V: PRODUCE
+### V: PRODUCE (page 11)
 
-#### Produce Good
+#### Produce Good (page 11)
 
 > Image of four cards with colors blue, brown. green and yellow
 
 Produce a good on this world (if it does not have a good on it).
 
-#### Produce Windfall Good
+#### Produce Windfall Good (page 11)
 
 > Image of a card with four shapes in blue, brown, green and yellow, an arrow pointing right and a circle with colors blue, brown, green, yellow , a center color of white and an inner ring of color red and black
 
 The player produces a good on one of their windfall worlds (a circle with colors blue, brown, green, yellow , a center color of white and an inner ring of color red and black) without a good on it.
 
-#### Produce Specific Windfall
+#### Produce Specific Windfall (page 11)
 
 > Image of a blue card, an arrow pointing right and a blue circle with a center color of white and an inner ring of color red and black
 
@@ -536,7 +611,7 @@ The player produces a good on one of their windfall worlds (a circle with colors
 
 The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box, green box, brown box, yellow box) without a good on it.
 
-#### Draw
+#### Draw (page 11)
 
 > Image of a hand holding a card with 1 inside
 
@@ -544,7 +619,7 @@ The player produces a good on one of their windfall worlds of the specified kind
 
  Draw 1 Or 2 Cards.
 
-#### Produce Good And Draw
+#### Produce Good And Draw (page 11)
 
 > Image of a blue card and a hand holding a card with 1 inside
 
@@ -556,7 +631,7 @@ Produce a good on this world (if it does not have a good on it) and then draw 1 
 
 The production reminders for these powers show only their draw card icons.
 
-#### Draw On Produced Windfall
+#### Draw On Produced Windfall (page 11)
 
 > Image of a brown card in a light shade of black circle and a hand holding a card with 1 inside
 
@@ -564,7 +639,7 @@ Draw 1 card after producing a good on this world ( icon of a light shade of blac
 
 The production reminder for this power shows a draw card on this world icon.
 
-#### Draw For Kind
+#### Draw For Kind (page 11)
 
 > Image of a blue card, a deep dark large colon and a hand holding a card with 1 inside
 
@@ -572,25 +647,25 @@ The production reminder for this power shows a draw card on this world icon.
 
 Draw 1 card for each good of the specified kind (Icon of a blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
 
-#### Draw For Most Of A Kind
+#### Draw For Most Of A Kind (page 11)
 
 > Image of a brown card with > inside and a hand holding a card with 2 inside
 
 At the end of Produce, draw 2 cards if the player produced more Rare elements goods ( image of a brown card ) during this phase than any other player.
 
-#### Draw For Different Kinds
+#### Draw For Different Kinds (page 11)
 
 > Image of four cards color blue, brown, green and yellow, a deep dark large colon and a hand holding a card with ? inside
 
 Draw 1 card for each different kind of good (icon of a blue box, green box, brown box, yellow box) that the player produced this Produce phase.
 
-#### Draw for Worlds
+#### Draw for Worlds (page 11)
 
 > Image of a green circle with a border of color red and black, a circle with black and red border and a center of color white, a deep dark large colon and a hand holding a card with 1 inside
 
 Draw 1 card for each Genes production or windfall world (icon of a green circle with a border of color red and black, a circle with black and red border and also a center of color white ) in the player's tableau.
 
-#### Discard To Produce Windfall
+#### Discard To Produce Windfall (page 11)
 
 > Image of a hand holding a card with a large size X colored red, a card with four squared part with color bluw, brown, green and brown, an arrow pointing right and a circle of color blue, brown, green and yellow with a center of white and a middle ring of black and red
 
