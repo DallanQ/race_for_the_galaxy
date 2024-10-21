@@ -265,7 +265,7 @@ Action place and pay for a world, receiving any windfall as indicated.
 
 windfall world
 
-> Icon of a blue cirlce with 2 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 1 inside. The icon indicates cost
+> Icon of a blue circle with 2 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 1 inside. The icon indicates cost
 
 production world
 
@@ -281,17 +281,17 @@ A *windfall* is creceive once, when a world is first placed.
 
 > Image of the backview and frontview of a race from the galaxy card, the front of the card has a white circle with brown background shadow and 3 inside, beside the circle is a white hexagon with 2 inside. The card indicates that *windfall goods are placed on top of worlds with colored halos around their costs*.
 
-> Icon of a white cirlce with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 1 inside
+> Icon of a white circle with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a hexagon with black border and 1 inside
 
-> Icon of a white cirlce with a black border, a brown background shadow and a black 2 inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 0 inside
+> Icon of a white circle with a black border, a brown background shadow and a black 2 inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a hexagon with black border and 0 inside
 
 Military worlds (with red circles) must be *conquered* to be placed.
 
 > Icon of a grey circle with red border and a white 1 with red border, beside the circle is a white hexagon with black border and black 1 inside
 
-> Icon of a white cirlce with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a white hexagon with black border and a black 1 inside
+> Icon of a white circle with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a white hexagon with black border and a black 1 inside
 
-> Icon of a green circle with red border and a white 4 with red border inside, on the bottom left corner of the cirlce is a small circle with red border, beside the large circle is a white hexagon with black border and a black 1 inside
+> Icon of a green circle with red border and a white 4 with red border inside, on the bottom left corner of the circle is a small circle with red border, beside the large circle is a white hexagon with black border and a black 1 inside
 
 The three icons above represnt defense
 
@@ -369,7 +369,7 @@ Consume powers must be used fully, if possible, but may be used in any order.
 
 *Free Trade Association*
 
->  An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 2 inside.
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 2 inside.
 
 *New Vinland*
 
@@ -399,7 +399,7 @@ Others, such as Pan-Galactic League, provide a card draw for each world of a spe
 
 Action: place a good on each world without a good that produces one.
 
-> An image of the frontview and backview of a card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege cirlce with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
+> An image of the frontview and backview of a card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege circle with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
 
 > An icon of a large blue circle with a black border, the large circle has a black bold 2 inside and a white border and a small blue circle at its left top corner. Beside the larger circle is a white hexagon with a black border an a black bold 1 inside.
 
@@ -567,13 +567,13 @@ Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 > Icon of a circle with -2 inside
 
--2 cost to place a non-military world( a white cirlce with a black border )
+-2 cost to place a non-military world( a white circle with a black border )
 
 #### Specific Reduce Cost (page 9)
 
-> Icon of a light shade of brown cirlce with -1 inside
+> Icon of a light shade of brown circle with -1 inside
 
--1 cost a place a non-military Rare elements production or windfall world ( icon of a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown cirlce with a middle ring of color red and black, a center filled with white ).
+-1 cost a place a non-military Rare elements production or windfall world ( icon of a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown circle with a middle ring of color red and black, a center filled with white ).
 
 #### Reduce Cost To 0 (page 9)
 
@@ -581,7 +581,7 @@ Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 The player may discard this card from their tableau to reduce the cost of placing a non-military world (icon of a white circle with a black border ) to 0.
 
-This cannot be used to place an Alien production or windfall world (  a circle with a border of red and blank, a center filled with a light shade of yellow and a light shade of yellow cirlce with a middle ring of color red and black, a center filled with white ).
+This cannot be used to place an Alien production or windfall world (  a circle with a border of red and blank, a center filled with a light shade of yellow and a light shade of yellow circle with a middle ring of color red and black, a center filled with white ).
 
 It Can Place The Alien Rosetta Stone World.
 
@@ -617,9 +617,9 @@ The -1 is not optional. This power reduces the player’s Military, making world
 
 > Icon of a light shade of brown circle with a red border and +1 inside
 
-> Icon of a yellow cirlce with a black border and -2 inside
+> Icon of a yellow circle with a black border and -2 inside
 
-> Icon of a yellow cirlce with a red border and +2 inside
+> Icon of a yellow circle with a red border and +2 inside
 
 Reduce the cost of placing a non-military world of the indicated kind (a blue box, green box, brown box), or add to the player's Military when conquering a military world of that kind.
 
@@ -637,7 +637,7 @@ As the action, the player may place a military world (Icon of a circle with a re
 
 as a non-military world ( Icon of a white circle with black border ). The cost is the world's defense -1, with other applicable discounts.
 
-This cannot be used to place an Alien production or windfall world (Icon of a yellow circle with a black and red border and a yellow cirlce with a black and red middle ring and a white center) or combined with other pay-for-military powers.
+This cannot be used to place an Alien production or windfall world (Icon of a yellow circle with a black and red border and a yellow circle with a black and red middle ring and a white center) or combined with other pay-for-military powers.
 
 The card Contact Specialist also has a -1 Military power.
 
@@ -645,7 +645,7 @@ The card Contact Specialist also has a -1 Military power.
 
 > A circle with a black and red border and a white center and a hand holding a card with 1 inside
 
-Draw 1 card after placing a world (a circle with a black border and white center and a cirlce wit a red border and a white center).
+Draw 1 card after placing a world (a circle with a black border and white center and a circle wit a red border and a white center).
 
 ### $: TRADE (page 10)
 
@@ -823,7 +823,7 @@ The player produces a good on one of their windfall worlds of the specified kind
 
 > Image of a hand holding a card with 2 inside
 
- Draw 1 Or 2 Cards.
+ Draw 1 or 2 Cards.
 
 #### Produce Good And Draw (page 11)
 
@@ -948,19 +948,19 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 **For these developments, score end of the game VPs for every card in its owner's tableau that satisfies one of the conditions listed on that development (and for every 3 VPs in chips its owner has in the case of Galactic Renaissance). For each 6-cost development, a given card can score in only one of its categories. Conditions listed in ALL CAPS are titles of specific cards. For each listed card present in the owner's tableau, award the indicated VPs.**
 
-### (a yellow bold "ALIEN" text) Tech Institute (Page 12)
+### **ALIEN** Tech Institute (Page 12)
 
-(An icon of a hexagon with 3 inside)/ (an icon of a yellow cirlce with a black and red border) Alien technology production world
+(An icon of a hexagon with 3 inside)/ (an icon of a yellow circle with a black and red border) Alien technology production world
 
-(An icon of a hexagon with 2 inside)/ (an icon of a yellow cirlce with a black and red middle ring) Alien technology windfall world
+(An icon of a hexagon with 2 inside)/ (an icon of a yellow circle with a black and red middle ring) Alien technology windfall world
 
 (An icon of a hexagon with 2 inside)/ (a yellow bold "ALIEN" text) card (including this one)
 
 #### FREE TRADE ASSOCIATION (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a blue cirlce with a black and red border) Novelty Production World
+(An icon of a hexagon with 2 inside)/ (an icon of a blue circle with a black and red border) Novelty Production World
 
-(An icon of a hexagon with 2 inside)/ (an icon of a blue cirlce with a black and red middle ring and a white center) Novelty Windfall World
+(An icon of a hexagon with 2 inside)/ (an icon of a blue circle with a black and red middle ring and a white center) Novelty Windfall World
 
 (An icon of a hexagon with 2 inside)/ (a beige diamond) CONSUMER MARKETS, (a grey circle with a black border) EXPANDIN COLONY
 
@@ -970,13 +970,13 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 (An icon of a hexagon with 1 inside)/ (a beige diamond) other developments
 
-### GALACTIC IMPERIUM (Page 12)
+### GALACTIC **IMPERIUM** (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a light red cirlce with red border) Rebel military world
+(An icon of a hexagon with 2 inside)/ (an icon of a light red circle with red border) Rebel military world
 
-(An icon of a hexagon with 2 inside)/ (an icon of a white cirlce with red border) other military world
+(An icon of a hexagon with 2 inside)/ (an icon of a white circle with red border) other military world
 
-Rebel military worlds have a red, shaded circle (an icon of a light red cirlce with red border) beneath their VPs.
+Rebel military worlds have a red, shaded circle (an icon of a light red circle with red border) beneath their VPs.
 
 ### GALACTIC RENAISSANCE (Page 12)
 
@@ -988,21 +988,21 @@ Rebel military worlds have a red, shaded circle (an icon of a light red cirlce w
 
 (An icon of a hexagon with 1 inside)/ (a beige diamond with I inside) development with an **Explore** power (including this one)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a white cirlce with a black and red border, the circle has I inside) world With An **Explore** power
+(An icon of a hexagon with 2 inside)/ (an icon of a white circle with a black and red border, the circle has I inside) world With An **Explore** power
 
-(An icon of a hexagon with 1 inside)/ (an icon of a white cirlce with a black and red border) Other World
+(An icon of a hexagon with 1 inside)/ (an icon of a white circle with a black and red border) Other World
 
 ### MERCHANT GUILD (Page 12)
 
-(An icon of a hexagon with 1 inside)/ (an icon of a blue cirlce with a black and red border), (an icon of a brown cirlce with a black and red border), (an icon of a green cirlce with a black and red border), (an icon of a yellow cirlce with a black and red border), Production World (not (an icon of a white with a blue, brown, green, yellow border and a red and black border) Windfall)
+(An icon of a hexagon with 1 inside)/ (an icon of a blue circle with a black and red border), (an icon of a brown circle with a black and red border), (an icon of a green circle with a black and red border), (an icon of a yellow circle with a black and red border), Production World (not (an icon of a white with a blue, brown, green, yellow border and a red and black border) Windfall)
 
 (An icon of a hexagon with 1 inside)/ (image of a card with four shapes in blue, brown, green and yellow) (good) at game end
 
 ### MINING LEAGUE (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a brown cirlce with a black and red border) Rare elements production world
+(An icon of a hexagon with 2 inside)/ (an icon of a brown circle with a black and red border) Rare elements production world
 
-(An icon of a hexagon with 1 inside)/ (an icon of a brown cirlce and a middle ring of colors black and red) Rare elements windfall world
+(An icon of a hexagon with 1 inside)/ (an icon of a brown circle and a middle ring of colors black and red) Rare elements windfall world
 
 (An icon of a hexagon with 2 inside)/ (icon of a beige diamond) MINING ROBOTS, (icon of a beige diamond) MINING CONGLOMERATE
 
@@ -1022,9 +1022,9 @@ Specialized Military includes not only bonuses against *Rebel* and *Alien* milit
 
 ### PAN-GALACTIC LEAGUE (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a green cirlce with a black and red border) (an icon of a green cirlce with a black and red middle ring and a white center) Genes world
+(An icon of a hexagon with 2 inside)/ (an icon of a green circle with a black and red border) (an icon of a green circle with a black and red middle ring and a white center) Genes world
 
-(An icon of a hexagon with 1 inside)/ (an icon of a white cirlce with a red border) other military world
+(An icon of a hexagon with 1 inside)/ (an icon of a white circle with a red border) other military world
 
 (An icon of a hexagon with 3 inside)/ (a biege diamond) CONTACT SPECIALIST
 
