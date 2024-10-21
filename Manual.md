@@ -12,6 +12,16 @@ The player who best manages their cards, phase and bonus selections, and card po
 
 **The winner is the player with the most victory points.**
 
+### Overview summary (Page 1)
+
+Players simultaneously choose which game phases will occur. Game phases that nobody chooses do not occur. Each player receives a bonus in the phase that they chose.
+
+Cards are used in three ways: as developments or worlds to be placed; as money; or as goods to be consumed or sold.
+
+Players explore for useful cards, build developments, settle worlds, and produce goods. Goods can be consumed for victory points or sold for cards.
+
+The player with the most victory points wins!
+
 ## SETUP (Page 2)
 
 Place 12 victory point (VP) chips per player in **1** and **5 VP chips** nearby. Set aside the **10 VP chips** (and any left over chips) for use only during the final round of play.
@@ -96,7 +106,7 @@ Perform the selected phases in numerical order:
 
 A phase has an action, performed by all players, and a bonus, performed only by the players who chose that action card.
 
-At the end of a round, players must discard down to a hand limit of 10 cards.
+At the *end* of a round, players must discard down to a hand limit of 10 cards.
 
 Game cards have three uses, as:
 
@@ -267,15 +277,39 @@ Bonus: draw a card after placing a world.
 
 Worlds are worth victory points.
 
-A windfall is creceive once, when a world is first placed.
+A *windfall* is creceive once, when a world is first placed.
 
-> Image of the backview and fron view of a race from the galaxy card, the front of the card has a white circle with brown background shadow and 3 inside, beside the circle is a white hexagon with 2 inside. The card indicates that windfall goods are placed on top of worlds with colored halos around their costs.
+> Image of the backview and frontview of a race from the galaxy card, the front of the card has a white circle with brown background shadow and 3 inside, beside the circle is a white hexagon with 2 inside. The card indicates that *windfall goods are placed on top of worlds with colored halos around their costs*.
 
 > Icon of a white cirlce with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 1 inside
 
 > Icon of a white cirlce with a black border, a brown background shadow and a black 2 inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a hexagon with black border and 0 inside
 
-Military worlds (with red circles) must be conquered to be placed.
+Military worlds (with red circles) must be *conquered* to be placed.
+
+> Icon of a grey circle with red border and a white 1 with red border, beside the circle is a white hexagon with black border and black 1 inside
+
+> Icon of a white cirlce with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the cirlce is a small brown cirlce with a red border and beside the white circle is a white hexagon with black border and a black 1 inside
+
+> Icon of a green circle with red border and a white 4 with red border inside, on the bottom left corner of the cirlce is a small circle with red border, beside the large circle is a white hexagon with black border and a black 1 inside
+
+The three icons above represnt defense
+
+To conquer a military world, the player’s Military must equal or exceed its *defense*. The player then places the world for no cost.
+
+> Icon of a white circle with a red border and a red +2 inside
+
+> Icon of a white circle with a red border and a red -1 inside
+
+> Icon of a white card filled with a red X inside, a red arrow pointing left and a white circle with a red border and a red +3 inside
+
+sample military powers
+
+> Icon of a white circle with a red border and a red -1 inside
+
+> Icon of a white circle with a red border and a white ? with a red border inside, a red arrow pointing left to a white circle with a black border, a white ? with a red border and a black -1 inside. On the right corner top of the black bordered circle there is a small white circle with a yellow center, a red border and a red slash
+
+A *Contact Specialist* allows a player to place a military world by paying for it, *instead* of conquering it.
 
 ### IV: CONSUME (page 6)
 
@@ -307,7 +341,47 @@ Exception: VPs for discarding cards from your hand (from powers such as Deficit 
 
 #### Consume Summary (page 6)
 
-Needs to be added
+> An image of a small hexagon with a galaxy-like background. Inside the hexagon, there is a neon 'I' shape glowing at the center.
+
+> An image of a large hexagon with a galaxy-like background. Inside, there are two glowing neon 'II' shapes positioned at the top left and top right corners, and a glowing 'I' shape at the center bottom.The larger hexagon indicates 5 VPs
+
+Action: use consume powers if possible, typically to discard goods for victory point *chips*.
+
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 1 inside.
+
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside.
+
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside.
+
+sample consume powers
+
+> An image of two brown cards and a grey arrow pointing right to a hexagon with 3 inside.
+
+Rare elements Consumption (2 goods for 3 VPs)
+
+> An image of a hand holding a card with a large red X inside, a grey arrow with x2 inside pointing right to a hexagon with 1 inside. The hexagon also has a small circle at its top right corner,  the small circle has a red border, red slash and x2 inside.
+
+Deficit spending
+
+Consume powers must be used fully, if possible, but may be used in any order.
+
+> An image of a blue card, a grey arrow with x3 inside pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside.
+
+*Free Trade Association*
+
+>  An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 2 inside.
+
+*New Vinland*
+
+Bonus (based on the action card chosen): sell 1 good first or receive double VP chips.
+
+Important: *Trade is not a separate phase; it occurs before a Consume phase for only those who chose it.*
+
+> An image of a white arrow with a black $ pointing left to a hand holding a card with +1 inside.
+
+> An image of a white arrow with a black $ pointing to a blue card and a hand holding a card with +2 inside.
+
+sample trade powers
 
 ### V: PRODUCE (page 7)
 
@@ -323,8 +397,19 @@ Others, such as Pan-Galactic League, provide a card draw for each world of a spe
 
 #### Produce Summary (page 7)
 
-Needs to be added
+Action: place a good on each world without a good that produces one.
 
+> An image of the frontview and backview of a card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege cirlce with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
+
+> An icon of a large blue circle with a black border, the large circle has a black bold 2 inside and a white border and a small blue circle at its left top corner. Beside the larger circle is a white hexagon with a black border an a black bold 1 inside.
+
+> An icon of a large green circle with a black border, the large circle has a black bold 5 inside and a white border and a small blue circle at its left bottom corner. Beside the larger circle is a white hexagon with a black border an a black bold 3 inside.
+
+Bonus: produce a windfall.
+
+> An image of a torn Race for the Galaxy card, on one half of the card is an icon of a green card beside a hand holding a white card with a black 2 inside and on the other half of the card is an icon of a hand holding a white card with 2 inside upside down.
+
+*Icons for produce powers that provide cards or windfalls are listed twice, once in the icon bar and once on the top, right corner of each card, as an aid when dealing out production.*
 
 ## ROUND END, CARDS, AND CHIPS (Page 7)
 
@@ -338,7 +423,9 @@ All players' VP chips and the number of game cards they have in their hands are 
 
 ### Round End, Cards, and Chips Summary (page 7)
 
-Needs to be added
+Discard down to 10 cards at the end of each round.
+
+Dicards are face down and "messy".
 
 ## GAME END (Page 7)
 
@@ -362,7 +449,27 @@ If there is still a tie, then all the tied players win.
 
 ### Game End Summary (page 7)
 
-Needs to be added
+The game ends after:
+
+- a player ends a round with 12 or more cards in tableau, or
+
+- the VPs chips run out.
+
+Finish the final round. Use the 10 VP chips if necessary.
+
+Each player totals:
+
+- tableau card VPs
+
+- VP chips
+
+- VPs for developments
+
+The player with the most VPs wins!
+
+> An image of a black card with a small blue box on the top left corner and a white 2 inside and a larger red box with a white 1 inside.
+
+***After a game**, separate the start worlds by fanning the deck, looking for boxed numbers in the lower right-hand corners.*
 
 ## TIMING (Page 8)
 
@@ -382,7 +489,7 @@ In this and similar cases, resolve the phase in clockwise order (after simultane
 
 ### Timing Summary (page 8)
 
-Needs to be added
+Resolve any timing issues clockwise from the player with the lowest numbered (original) start world.
 
 ## 2 PLAYER GAME (for experienced players) (Page 8)
 
@@ -398,7 +505,13 @@ Initially, two players should just play the standard rules. Once you're familiar
 
 ### 2 Player Game (for experienced players) Summary (page 8)
 
-Needs to be added
+> An image of a slot with two projections.
+
+2 player game: use all nine action cards, choosing two action cards at the start of each round.
+
+> Image of six Race for the Galaxy cards.
+
+**Start world choice for experienced players**. During setup, separate the start worlds by number into odd (red) and even (blue) groups. Shuffle and deal two face down worlds, one from each group, to each player. Shuffle the remaining start worlds with the game cards and deal six cards to each player. Each player examines all eight cards before discarding one of their two start worlds and two of their six game cards. Players then simultaneously reveal their selected start worlds and begin play.
 
 ## CARD POWERS (by Phase) (Page 9)
 
@@ -833,106 +946,90 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 ## 6-COST DEVELOPMENTS (icon of hexagon with ? inside) POWERS (Page 12)
 
-For these developments, score end of the game VPs for every card in its owner's tableau that satisfies one of the conditions listed on that development (and for every 3 VPs in chips its owner has in the case of Galactic Renaissance). For each 6-cost development, a given card can score in only one of its categories. Conditions listed in ALL CAPS are titles of specific cards. For each listed card present in the owner's tableau, award the indicated VPs.
+**For these developments, score end of the game VPs for every card in its owner's tableau that satisfies one of the conditions listed on that development (and for every 3 VPs in chips its owner has in the case of Galactic Renaissance). For each 6-cost development, a given card can score in only one of its categories. Conditions listed in ALL CAPS are titles of specific cards. For each listed card present in the owner's tableau, award the indicated VPs.**
 
-## Alien Tech Institute
+### (a yellow bold "ALIEN" text) Tech Institute (Page 12)
 
-## Free Trade Association
+(An icon of a hexagon with 3 inside)/ (an icon of a yellow cirlce with a black and red border) Alien technology production world
 
-## Galactic Federation
+(An icon of a hexagon with 2 inside)/ (an icon of a yellow cirlce with a black and red middle ring) Alien technology windfall world
 
-## Alien Technology Production World
+(An icon of a hexagon with 2 inside)/ (a yellow bold "ALIEN" text) card (including this one)
 
-## Alien Technology Windfall World
+#### FREE TRADE ASSOCIATION (Page 12)
 
-other ALIEN card (including this one)
+(An icon of a hexagon with 2 inside)/ (an icon of a blue cirlce with a black and red border) Novelty Production World
 
-## Novelty Production World
+(An icon of a hexagon with 2 inside)/ (an icon of a blue cirlce with a black and red middle ring and a white center) Novelty Windfall World
 
-## Novelty Windfall World
+(An icon of a hexagon with 2 inside)/ (a beige diamond) CONSUMER MARKETS, (a grey circle with a black border) EXPANDIN COLONY
 
-CONSUMER MARKETS,
+### GALACTIC FEDERATION (Page 12)
 
-6-cost developments (including this one)
+(An icon of a hexagon with 2 inside)/ (a beige diamond with 6 inside) 6-cost developments (including this one)
 
-## Other Developments
+(An icon of a hexagon with 1 inside)/ (a beige diamond) other developments
 
-## Expanding Colony
+### GALACTIC IMPERIUM (Page 12)
 
-## Galactic Imperium
+(An icon of a hexagon with 2 inside)/ (an icon of a light red cirlce with red border) Rebel military world
 
-## Rebel Military World
+(An icon of a hexagon with 2 inside)/ (an icon of a white cirlce with red border) other military world
 
-## Other Military World
+Rebel military worlds have a red, shaded circle (an icon of a light red cirlce with red border) beneath their VPs.
 
-Rebel military worlds have a red, shaded circle beneath their VPs.
+### GALACTIC RENAISSANCE (Page 12)
 
-## Galactic Renaissance
+(An icon of a hexagon with 1 inside)/ (icons of three small hexagon) every three VPs in chips (round down)
 
-every three VPs in chips (round down)
+(An icon of a hexagon with 3 inside)/ (a beige diamond) RESEARCH LABS, (a grey circle with a black border) GALACTIC TRENDSETTERS, (a blue circle with a black border) ARTIST COLONY
 
-## Research Labs, Galactic Trendsetters, Artist Colony
+### GALACTIC SURVEY/SETI (Page 12)
 
-GALACTIC SURVEY/SETI development with an Explore power (including this one)
+(An icon of a hexagon with 1 inside)/ (a beige diamond with I inside) development with an **Explore** power (including this one)
 
-## World With An Explore Power
+(An icon of a hexagon with 2 inside)/ (an icon of a white cirlce with a black and red border, the circle has I inside) world With An **Explore** power
 
-## Other World
+(An icon of a hexagon with 1 inside)/ (an icon of a white cirlce with a black and red border) Other World
 
-## Merchant Guild
+### MERCHANT GUILD (Page 12)
 
-## , , , , Production World (Not Windfall)
+(An icon of a hexagon with 1 inside)/ (an icon of a blue cirlce with a black and red border), (an icon of a brown cirlce with a black and red border), (an icon of a green cirlce with a black and red border), (an icon of a yellow cirlce with a black and red border), Production World (not (an icon of a white with a blue, brown, green, yellow border and a red and black border) Windfall)
 
-## (Good) At Game End
+(An icon of a hexagon with 1 inside)/ (image of a card with four shapes in blue, brown, green and yellow) (good) at game end
 
-## Mining League
+### MINING LEAGUE (Page 12)
 
-## Rare Elements Production World
+(An icon of a hexagon with 2 inside)/ (an icon of a brown cirlce with a black and red border) Rare elements production world
 
-## Rare Elements Windfall World
+(An icon of a hexagon with 1 inside)/ (an icon of a brown cirlce and a middle ring of colors black and red) Rare elements windfall world
 
-MINING ROBOTS,
+(An icon of a hexagon with 2 inside)/ (icon of a beige diamond) MINING ROBOTS, (icon of a beige diamond) MINING CONGLOMERATE
 
-## Mining Conglomerate
+### NEW ECONOMY (Page 12)
 
-## New Economy
+(An icon of a hexagon with 2 inside)/ (icon of a beige diamond with IV inside) development with a **Consume** power (including this one)
 
-development with a Consume power (including this one)
+(An icon of a hexagon with 1 inside)/ (icon of a white circle with a black and red border, the circle has IV inside) world with a **Consume** power
 
-## World With A Consume Power
+*Trade* powers are *not* considered *Consume* powers for these VP conditions.
 
-Trade powers are not considered Consume powers for these VP conditions.
+### NEW GALACTIC ORDER (Page 12)
 
-## New Galactic Order
+(An icon of a white circle with a red border and a red +? inside) total Military (count negative Military but do not count specialized Military)
 
-total Military (count negative Military but do not count specialized Military)
+Specialized Military includes not only bonuses against *Rebel* and *Alien* military worlds, etc. but also temporary Military, such as provided by *New Military Tactics*.
 
-Specialized Military includes not only bonuses against Rebel and Alien military worlds, etc. but also temporary Military, such as provided by New Military Tactics.
+### PAN-GALACTIC LEAGUE (Page 12)
 
-## Pan-Galactic League
+(An icon of a hexagon with 2 inside)/ (an icon of a green cirlce with a black and red border) (an icon of a green cirlce with a black and red middle ring and a white center) Genes world
 
-## , Genes World
+(An icon of a hexagon with 1 inside)/ (an icon of a white cirlce with a red border) other military world
 
-## Other Military World
+(An icon of a hexagon with 3 inside)/ (a biege diamond) CONTACT SPECIALIST
 
-## Contact Specialist
+### TRADE LEAGUE (Page 12)
 
-## Trade League
+(An icon of a hexagon with 2 inside)/ (a biege diamond with $ inside) development with a **Trade** power (including this one)
 
-development with a Trade power (including this one)
-
-## World With A Trade Power
-
-If you have comments, questions, or suggestions, please write to us at:
-
-## Rio Grande Games, Po Box 1033, Placitas, Nm 87043, Usa E-Mail: Riogames@Aol.Com
-
-## Www.Riograndegames.Com
-
-## © 2004 - 2007 Tom Lehmann © 2007, 2018 Rio Grande Games
-
-version: .
-
-rftg_rules.indd 
-
-.. :
+(An icon of a hexagon with 1 inside)/ (icon of a white circle with a black and red border, the circle has $ inside) world With a **Trade** power
