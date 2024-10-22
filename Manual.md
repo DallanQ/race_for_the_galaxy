@@ -1,6 +1,6 @@
 ## OVERVIEW (page 1)
 
-In Race for the Galaxy, players build galactic civilizations by game cards that represent worlds or technical and social developments.
+In **Race for the Galaxy**, players build galactic civilizations by game cards that represent worlds or technical and social developments.
 
 Each round consists of one or more of five possible phases. In each round, each player secretly and simultaneously chooses one of seven different action cards and then reveals it. Only the selected phases occur. For these phases, every player performs the phase’s action, while the selecting player(s) also get a bonus for that phase.
 
@@ -138,7 +138,7 @@ Action: draw 2 cards; keep 1, discard the other.
 
 Bonus (based on the action card chosen): draw 5 more cards or draw 1 more card and keep 1 more card.
 
->Icon of a eye with +2 inside and an icon of a hand holding a card with +1 inside.
+>Icon of an eye with +2 inside and an icon of a hand holding a card with +1 inside.
 
 *Example: with this Explore power, a player (with no bonus) would draw four cards and keep two of them.*
 
@@ -395,7 +395,7 @@ Others, such as Pan-Galactic League, provide a card draw for each world of a spe
 
 Action: place a good on each world without a good that produces one.
 
-> An image of the frontview and backview of a card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege circle with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
+> An image of the frontview and backview of a race for the galaxy card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege circle with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
 
 > An icon of a large blue circle with a black border, the large circle has a black bold 2 inside and a white border and a small blue circle at its left top corner. Beside the larger circle is a white hexagon with a black border an a black bold 1 inside.
 
