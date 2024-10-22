@@ -655,25 +655,25 @@ Draw 1 or 2 more cards when selling a good.
 
 #### Specific Kind Of Good (page 10)
 
-> Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +2 inside.
+> Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +2 inside.
 
-> Icon of a white arrow faced riht with dollar, a blue box and a hand holding a card with +3 inside.
+> Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +3 inside.
 
-> Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +1 inside.
+> Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +1 inside.
 
-> Icon of a white arrow faced riht with dollar, a brown box and a hand holding a card with +2 inside.
+> Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +2 inside.
 
-> Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +1 inside.
+> Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +1 inside.
 
-> Icon of a white arrow faced riht with dollar, a green box and a hand holding a card with +2 inside.
+> Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +2 inside.
 
 Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, green box, brown box, yellow box ).
 
 #### This World´S Good (page 10)
 
-> Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside.
+> Icon of a white arrow faced right with dollar, a blue box in a light shade of black circle and a hand holding a card with +1 inside.
 
-> Icon of a white arrow faced riht with dollar, a blue box in a light shade of black circle and a hand holding a card with +3 inside.
+> Icon of a white arrow faced right with dollar, a blue box in a light shade of black circle and a hand holding a card with +3 inside.
 
 Draw 1 or 3 more cards when selling a good from the world ( a light shade of black circle with a black border ) with this power (plus any other applicable Trade powers, possibly due to its kind).
 
