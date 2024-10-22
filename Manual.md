@@ -655,14 +655,17 @@ Draw 1 or 2 more cards when selling a good.
 
 #### Specific Kind Of Good (page 10)
 
-> Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +2 inside.
-> Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +3 inside.
-> Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +1 inside.
-> Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +2 inside.
-> Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +1 inside.
-> Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +2 inside.
+> Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +2 inside and an icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +3 inside.
 
-Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box, green box, brown box, yellow box ).
+Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box).
+
+> Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +1 inside and an icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +2 inside.
+
+Draw 1, 2, or 3 more cards when selling a good of the indicated kind (brown box).
+
+> Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +1 insid and an icon of a white arrow faced right with dollar, a green box and a hand holding a card with +2 inside.
+
+Draw 1, 2, or 3 more cards when selling a good of the indicated kind (green box).
 
 #### This World´S Good (page 10)
 
@@ -702,15 +705,23 @@ Discard exactly 3 goods, each of a different kind ( blue box, green box, brown b
 
 > Image of a blue card with an arrow facing right and a hand holding a card with 1 inside.
 
-> Image of a blue card with an arrow facing right and a hexagon with 1 inside.
+Discard the indicated number of good(s) of the specified kind (icon of a blue box) to gain VP chips and/or cards.
+
+> Image of a green card with an arrow facing right and a hexagon with 1 inside.
+
+Discard the indicated number of good(s) of the specified kind (icon of a green box) to gain VP chips and/or cards.
 
 > Image of a brown card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside.
 
+Discard the indicated number of good(s) of the specified kind (icon of a brown box) to gain VP chips and/or cards.
+
 > Image of a green card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside.
+
+Discard the indicated number of good(s) of the specified kind (icon of a green box) to gain VP chips and/or cards.
 
 > Image of two brown cards with an arrow facing right and a hexagon with 3 inside.
 
-Discard the indicated number of good(s) of the specified kind (icon of a blue box, green box, brown box, yellow box) to gain VP chips and/or cards.
+Discard the indicated number of good(s) of the specified kind (icon of a brown box) to gain VP chips and/or cards.
 
 #### Discarding "up to" (page 10)
 
@@ -800,13 +811,19 @@ The player produces a good on one of their windfall worlds (a circle with colors
 
 > Image of a blue card, an arrow pointing right and a blue circle with a center color of white and an inner ring of color red and black.
 
+The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box) without a good on it.
+
 > Image of a brown card, an arrow pointing right and a brown circle with a center color of white and an inner ring of color red and black.
+
+The player produces a good on one of their windfall worlds of the specified kind (icon of a brown box) without a good on it.
 
 > Image of a green card, an arrow pointing right and a green circle with a center color of white and an inner ring of color red and black.
 
+The player produces a good on one of their windfall worlds of the specified kind (icon of a green box) without a good on it.
+
 > Image of a yellow card, an arrow pointing right and a yellow circle with a center color of white and an inner ring of color red and black.
 
-The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box, green box, brown box, yellow box) without a good on it.
+The player produces a good on one of their windfall worlds of the specified kind (icon of a yellow box) without a good on it.
 
 #### Draw (page 11)
 
@@ -840,9 +857,11 @@ The production reminder for this power shows a draw card on this world icon.
 
 > Image of a blue card, a deep dark large colon and a hand holding a card with 1 inside.
 
+Draw 1 card for each good of the specified kind (Icon of a blue box) that the player produced during this Produce phase.
+
 > Image of a yellow card, a deep dark large colon and a hand holding a card with 1 inside.
 
-Draw 1 card for each good of the specified kind (Icon of a blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
+Draw 1 card for each good of the specified kind (Icon of a yellow box) that the player produced during this Produce phase.
 
 #### Draw For Most Of A Kind (page 11)
 
