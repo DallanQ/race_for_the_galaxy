@@ -46,11 +46,11 @@ Each player’s card tableau is in front of them. It is one or more rows of face
 
 ### Setup Summary (Page 2)
 
-> An Image of a splited card with a large red box with 1 inside on the bigger portion of the card and a small red box with 1 inside on the small portion of the card.
+> An Image of a splited race for the galaxy card with a large red box with 1 inside on the bigger portion of the card and a small red box with 1 inside on the small portion of the card.
 
 start worlds
 
-> An Image of a splited card with a yellow 2 on the bigger portion of the card and a yellow 2 on the small portion of the card also.
+> An Image of a splited race for the galaxy card with a yellow 2 on the bigger portion of the card and a yellow 2 on the small portion of the card also.
 
 preset cards
 
@@ -463,7 +463,7 @@ Each player totals:
 
 The player with the most VPs wins!
 
-> An image of a black card with a small blue box on the top left corner and a white 2 inside and a larger red box with a white 1 inside.
+> An image of a race for the galaxy card with a small blue box on the top left corner and a white 2 inside and a larger red box with a white 1 inside.
 
 ***After a game**, separate the start worlds by fanning the deck, looking for boxed numbers in the lower right-hand corners.*
 
