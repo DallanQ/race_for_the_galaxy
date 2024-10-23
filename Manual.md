@@ -40,19 +40,15 @@ The start worlds, preset hands, and action card sets for your very first game ha
 
 If Alpha Centauri is in play, place a card from the card supply face down on top of it (as its starting windfall good).
 
-> Each player has their start world and their starting action cards in front of them. In the center of the table, place the card supply, discard plie (face down and "messy"), and VP chips 3 players: remove 12, 2 players: remove 24 (set aside the 10 VP chips)
+> an image of the game layout where each player has their start world and their starting action cards in front of them. In the center of the table, place the card supply, discard plie (face down and "messy"), and VP chips 3 players: remove 12, 2 players: remove 24 (set aside the 10 VP chips)
 
 Each player’s card tableau is in front of them. It is one or more rows of face up cards: developments and worlds. Some worlds may have goods , represented by face down cards, on them. Initially, it contains only the player’s start world (and its windfall good, if it has one).
 
 ### Setup Summary (Page 2)
 
-> An Image of a splited race for the galaxy card with a large red box with 1 inside on the bigger portion of the card and a small red box with 1 inside on the small portion of the card.
+> An Image of a start worlds card with a large red box with 1 inside on the bigger portion of the card and a small red box with 1 inside on the small portion of the card.
 
-start worlds
-
-> An Image of a splited race for the galaxy card with a yellow 2 on the bigger portion of the card and a yellow 2 on the small portion of the card also.
-
-preset cards
+> An Image of a preset card with a yellow 2 on the bigger portion of the card and a yellow 2 on the small portion of the card also.
 
 *Start worlds have numbered red and blue boxes in their upper left and lower right corners (these colorsare used in a future expansion). Preset hand cards have numbers without boxes.*
 
@@ -200,13 +196,9 @@ Powers are resolved sequentially (even though their effects can be cumulative). 
 
 Developments, and most worlds, grant powers.
 
->Image of a grayish blue card with ? inside.
+> Image of a standard power, a grayish blue card with ? inside.
 
-standard power
-
->Image of a light grayish blue card with ? inside.
-
-special power
+> Image of a special power, a light grayish blue card with ? inside.
 
 *Power icons appear on the left side of cards, arranged in I to V phase order, allowing players to easily scan their tableaus for them during a phase.*
 
@@ -257,53 +249,33 @@ Thus, there are two completely separate ways to place military worlds.
 
 Action place and pay for a world, receiving any windfall as indicated.
 
-> Icon of a white circle with a blue background shadow and 3 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 2 inside beside the white circle. The icon indicates cost.
+> icon of a windfall world, which has a white circle with a black border, a blue halo and a 3 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 2 inside beside the white circle. The 3 icon indicates cost.
 
-windfall world
-
-> Icon of a blue circle with 2 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 1 inside. The icon indicates cost.
-
-production world
+> Icon of a production world, which has a blue circle with a black border and a 2 inside, the circle has a small blue circle at its top left corner and an icon of a hexagon with 1 inside. The 2 icon indicates cost.
 
 *Blue, brown, and green worlds have a “moon” in a quadrant as an aid for color-blind players. (A reddish circle in the lower right is a Rebel world, see Galactic Imperium , back page.)*
 
 Bonus: draw a card after placing a world.
 
-> Icon of a transparent circle with a black border and 5 inside, beside the icon is aother icon of a white hexagon with 3 inside.  The icon represents VPs.
+> Icon of a grey circle with a black border and 5 inside, beside the icon is aother icon of a white hexagon with 3 inside.  The icon represents VPs.
 
 Worlds are worth victory points.
 
 A *windfall* is creceive once, when a world is first placed.
 
-> Image of the backview and frontview of a race from the galaxy card, the front of the card has a white circle with brown background shadow and 3 inside, beside the circle is a white hexagon with 2 inside. The card indicates that *windfall goods are placed on top of worlds with colored halos around their costs*.
-
-> Icon of a white circle with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a hexagon with black border and 1 inside.
-
-> Icon of a white circle with a black border, a brown background shadow and a black 2 inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a hexagon with black border and 0 inside.
+> Image of a card placed face down on top of a card with a colored halo, indicating that *windfall goods are placed on top of worlds with colored halos around their costs*.
 
 Military worlds (with red circles) must be *conquered* to be placed.
 
-> Icon of a grey circle with red border and a white 1 with red border, beside the circle is a white hexagon with black border and black 1 inside.
+> Icon of a grey circle with a red border and a 1 inside, an icon of a white circle with a red border and a brown halo and a 1 inside, and an icon of a green circle with a red border and a 4 inside. The red borders indicate the worlds are military worlds.
 
-> Icon of a white circle with a red border, a light brown background shadow and a white 1 with red border inside, on the top right corner of the circle is a small brown circle with a red border and beside the white circle is a white hexagon with black border and a black 1 inside.
-
-> Icon of a green circle with red border and a white 4 with red border inside, on the bottom left corner of the circle is a small circle with red border, beside the large circle is a white hexagon with black border and a black 1 inside.
-
-The three icons above represnt defense
+The numbers inside the circles in the three icons above represent defense
 
 To conquer a military world, the player’s Military must equal or exceed its *defense*. The player then places the world for no cost.
 
-> Icon of a white circle with a red border and a red +2 inside.
+> Icon of a white circle with a red border and a red +2 inside, icon of a white circle with a red border and a red -1 inside, and an icon of a white card filled with a red X inside, a red arrow pointing left and a white circle with a red border and a red +3 inside, all indicating sample military powers.
 
-> Icon of a white circle with a red border and a red -1 inside.
-
-> Icon of a white card filled with a red X inside, a red arrow pointing left and a white circle with a red border and a red +3 inside.
-
-sample military powers
-
-> Icon of a white circle with a red border and a red -1 inside.
-
-> Icon of a white circle with a red border and a white ? with a red border inside, a red arrow pointing left to a white circle with a black border, a white ? with a red border and a black -1 inside. On the right corner top of the black bordered circle there is a small white circle with a yellow center, a red border and a red slash.
+> Icon of a white circle with a red border and a red -1 inside above an icon of a white circle with a red border and a white ? with a red border inside followed by a red arrow pointing left to a white circle with a black border and a white ? and a black -1 inside. On the right corner top of the black bordered circle there is a small white circle with a yellow center, a red border and a red slash.
 
 A *Contact Specialist* allows a player to place a military world by paying for it, *instead* of conquering it.
 
@@ -337,47 +309,27 @@ Exception: VPs for discarding cards from your hand (from powers such as Deficit 
 
 #### Consume Summary (page 6)
 
-> An image of a small hexagon with a galaxy-like background. Inside the hexagon, there is a neon 'I' shape glowing at the center.
-
-> An image of a large hexagon with a galaxy-like background. Inside, there are two glowing neon 'II' shapes positioned at the top left and top right corners, and a glowing 'I' shape at the center bottom.The larger hexagon indicates 5 VPs.
+> An image of a small blue hexagon with a 'I' shape at the center, indicating 1 VP, and a larger blue hexagon with two 'II' shapes and a 'I' shape along the outside, indicating 5 VPs.
 
 Action: use consume powers if possible, typically to discard goods for victory point *chips*.
 
-> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 1 inside.
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 1 inside, an image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside, and an image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside, all indicating sample consume powers.
 
-> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside.
+> An image of two brown cards and a grey arrow pointing right to a hexagon with 3 inside, indicating rare elements Consumption (2 goods for 3 VPs)
 
-> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside.
-
-sample consume powers
-
-> An image of two brown cards and a grey arrow pointing right to a hexagon with 3 inside.
-
-Rare elements Consumption (2 goods for 3 VPs)
-
-> An image of a hand holding a card with a large red X inside, a grey arrow with x2 inside pointing right to a hexagon with 1 inside. The hexagon also has a small circle at its top right corner,  the small circle has a red border, red slash and x2 inside.
-
-Deficit spending
+> An image of a hand holding a card with a large red X inside, a grey arrow with x2 inside pointing right to a hexagon with 1 inside. The hexagon also has a small circle at its top right corner,  the small circle has a red border, red slash and x2 inside, indicating deficit spending
 
 Consume powers must be used fully, if possible, but may be used in any order.
 
-> An image of a blue card, a grey arrow with x3 inside pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside.
+> An image of a blue card, a grey arrow with x3 inside pointing right to a hexagon with 1 inside and a hand holding a card with 1 inside, indicating *Free Trade Association*
 
-*Free Trade Association*
-
-> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 2 inside.
-
-*New Vinland*
+> An image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hand holding a card with 2 inside, indicating *New Vinland*
 
 Bonus (based on the action card chosen): sell 1 good first or receive double VP chips.
 
 Important: *Trade is not a separate phase; it occurs before a Consume phase for only those who chose it.*
 
-> An image of a white arrow with a black $ pointing left to a hand holding a card with +1 inside.
-
-> An image of a white arrow with a black $ pointing to a blue card and a hand holding a card with +2 inside.
-
-sample trade powers
+> An image of a white arrow with a black $ pointing left to a hand holding a card with +1 inside, and an image of a white arrow with a black $ pointing to a blue card and a hand holding a card with +2 inside, indicating sample trade powers.
 
 ### V: PRODUCE (page 7)
 
@@ -395,15 +347,13 @@ Others, such as Pan-Galactic League, provide a card draw for each world of a spe
 
 Action: place a good on each world without a good that produces one.
 
-> An image of the frontview and backview of a race for the galaxy card, the back of the card has a dark blue color and also a text labled RACE FOR THE GALAXY, on top left of the front of the card is a biege circle with 3 inside and a small white circle with 2 inside. The card indicates Place produced goods on production worlds (with colored, solid circles).
+> An image of a card being placed face down on a world with a brown circle and a black border, followed by icons of a large blue circle with a black border and a large green circle with a black border, all indicating production worlds.
 
-> An icon of a large blue circle with a black border, the large circle has a black bold 2 inside and a white border and a small blue circle at its left top corner. Beside the larger circle is a white hexagon with a black border an a black bold 1 inside.
-
-> An icon of a large green circle with a black border, the large circle has a black bold 5 inside and a white border and a small blue circle at its left bottom corner. Beside the larger circle is a white hexagon with a black border an a black bold 3 inside.
+Place produced goods on production worlds (with colored, solid circles).
 
 Bonus: produce a windfall.
 
-> An image of a torn Race for the Galaxy card, on one half of the card is an icon of a green card beside a hand holding a white card with a black 2 inside and on the other half of the card is an icon of a hand holding a white card with 2 inside upside down.
+> An image of a card with an icon of a hand holding a white card with a black 2 inside in the lower left corner and again in the upper right corner, indicating production powers.
 
 *Icons for produce powers that provide cards or windfalls are listed twice, once in the icon bar and once on the top, right corner of each card, as an aid when dealing out production.*
 
@@ -463,7 +413,7 @@ Each player totals:
 
 The player with the most VPs wins!
 
-> An image of a race for the galaxy card with a small blue box on the top left corner and a white 2 inside and a larger red box with a white 1 inside.
+> An image of a card with a large red box with a white 1 inside in the lower right corner, indicating a start world.
 
 ***After a game**, separate the start worlds by fanning the deck, looking for boxed numbers in the lower right-hand corners.*
 
@@ -537,6 +487,8 @@ Draw 2 more cards to select from; keep 1 more card.
 
 ### II: DEVELOP (page 9)
 
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
+
 #### Draw (page 9)
 
 > Image of a hand holding a card with 1 inside.
@@ -555,9 +507,9 @@ Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or
 
 Draw 1 card after placing a development ( a biege colored diamond shape ).
 
-**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
-
 ### III: SETTLE
+
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
 #### Reduce Cost (page 9)
 
@@ -567,9 +519,9 @@ Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 #### Specific Reduce Cost (page 9)
 
-> Icon of a light shade of brown circle with -1 inside.
+> Icon of a brown circle with a black border and a -1 inside.
 
--1 cost a place a non-military Rare elements production or windfall world ( icon of a circle with a border of red and blank, a center filled with a light shade of brown and a light shade of brown circle with a middle ring of color red and black, a center filled with white ).
+-1 cost a place a non-military Rare elements production or windfall world ( icon of a brown circle with a red and black border, followed by an icon of a white circle with a red and black border and a brown halo).
 
 #### Reduce Cost To 0 (page 9)
 
@@ -577,11 +529,9 @@ Draw 1 card after placing a development ( a biege colored diamond shape ).
 
 The player may discard this card from their tableau to reduce the cost of placing a non-military world (icon of a white circle with a black border ) to 0.
 
-This cannot be used to place an Alien production or windfall world (  a circle with a border of red and blank, a center filled with a light shade of yellow and a light shade of yellow circle with a middle ring of color red and black, a center filled with white ).
+This cannot be used to place an Alien production or windfall world (icon of a yellow circle with a red and black border, and an icon of a white circle with a red and black border and a yellow halo).
 
 It Can Place The Alien Rosetta Stone World.
-
-**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
 #### Military (page 9)
 
@@ -611,7 +561,7 @@ The -1 is not optional. This power reduces the player’s Military, making world
 
 > Icon of a brown circle with a black border and -1 inside.
 
-> Icon of a light shade of brown circle with a red border and +1 inside.
+> Icon of a brown circle with a red border and +1 inside.
 
 > Icon of a yellow circle with a black border and -2 inside.
 
@@ -621,19 +571,19 @@ Reduce the cost of placing a non-military world of the indicated kind (a blue bo
 
 #### Temporary Military (page 9)
 
-> A box with red X inside, a red arrow facing left and a white circle with a red border and +3 inside.
+> A box with red X inside, a red arrow facing left pointing to a white circle with a red border and +3 inside.
 
 The player may discard this card from their tableau to gain +3 Military until the end of this Settle phase.
 
 #### Pay For Military (page 9)
 
-> Icon of a white circle with a red border containing a red-outlined ? inside, followed by a red arrow pointing to the right. The arrow points to another white circle with a black border, which contains a smaller red-outlined ? and the text "-1" in black. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
+> Icon of a white circle with a red border containing a red ? inside followed by a red arrow pointing to another white circle with a black border, which contains a smaller red ? and the text "-1" in black. There is also a small red circle with a yellow center and a diagonal slash in the upper right corner of the second circle.
 
-As the action, the player may place a military world (Icon of a circle with a red border)
+As the action, the player may place a military world (Icon of a white circle with a red border)
 
 as a non-military world ( Icon of a white circle with black border ). The cost is the world's defense -1, with other applicable discounts.
 
-This cannot be used to place an Alien production or windfall world (Icon of a yellow circle with a black and red border and a yellow circle with a black and red middle ring and a white center) or combined with other pay-for-military powers.
+This cannot be used to place an Alien production or windfall world (Icon of a yellow circle with a black and red border and an icon of a white circle with a black and red border and a yellow halo) or combined with other pay-for-military powers.
 
 The card Contact Specialist also has a -1 Military power.
 
@@ -641,7 +591,7 @@ The card Contact Specialist also has a -1 Military power.
 
 > A circle with a black and red border and a white center and a hand holding a card with 1 inside.
 
-Draw 1 card after placing a world (a circle with a black border and white center and a circle wit a red border and a white center).
+Draw 1 card after placing a world (a circle with a black border and white center and a circle with a red border).
 
 ### $: TRADE (page 10)
 
@@ -657,15 +607,11 @@ Draw 1 or 2 more cards when selling a good.
 
 > Icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +2 inside and an icon of a white arrow faced right with dollar, a blue box and a hand holding a card with +3 inside.
 
-Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue box).
-
 > Icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +1 inside and an icon of a white arrow faced right with dollar, a brown box and a hand holding a card with +2 inside.
-
-Draw 1, 2, or 3 more cards when selling a good of the indicated kind (brown box).
 
 > Icon of a white arrow faced right with dollar, a green box and a hand holding a card with +1 insid and an icon of a white arrow faced right with dollar, a green box and a hand holding a card with +2 inside.
 
-Draw 1, 2, or 3 more cards when selling a good of the indicated kind (green box).
+Draw 1, 2, or 3 more cards when selling a good of the indicated kind (blue, green, brown, and yellow boxes).
 
 #### This World´S Good (page 10)
 
@@ -679,59 +625,51 @@ Draw 1 or 3 more cards when selling a good from the world ( a light shade of bla
 
 #### Any One Good (page 10)
 
-> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside.
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 1 inside, indicating 1 VP.
 
-> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 1 inside.
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 1 inside, indicating 1 card.
 
-> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 2 inside.
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 2 inside, indicating two VPs.
 
-> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 2 inside.
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hand holding a card with 2 inside, indicating 2 cards.
 
-> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with 1 inside and a hand holding a card with 1 inside.
+> Image of a card with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with 1 inside and a hand holding a card with 1 inside, indicating 1 VP and 1 card.
 
 Discard 1 good (of any kind) to gain the specified VP chips and/or cards.
 
 #### Fixed Number Of Goods (page 10)
 
-> Image of two cards with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 3 inside.
+> Image of two cards with four squares in blue, green, yellow, and brown with a grey arrow pointing right and a hexagon with 3 inside, indicating 3 VPs.
 
 Discard 2 goods (of any kind, possibly the same) to gain 3 VP chips.
 
-> Four cards colored blue, brown, green and yellow with 3 on it, a grey arrow pointing right and a hexagon with 3 inside.
+> Four cards colored blue, brown, green and yellow with 3 on it, a grey arrow pointing right and a hexagon with 3 inside, indicating 1 VP.
 
-Discard exactly 3 goods, each of a different kind ( blue box, green box, brown box, yellow box ), to gain 3 VP chips.
+Discard exactly 3 goods, each of a different kind ( icons of a blue box, green box, brown box, and yellow box ), to gain 3 VP chips.
 
 #### Specific Kind Of Good(S) (page 10)
 
-> Image of a blue card with an arrow facing right and a hand holding a card with 1 inside.
+> Image of a blue card with an arrow facing right and a hand holding a card with 1 inside, indicating 1 card.
 
-Discard the indicated number of good(s) of the specified kind (icon of a blue box) to gain VP chips and/or cards.
+> Image of a green card with an arrow facing right and a hexagon with 1 inside, indicating 1 VP.
 
-> Image of a green card with an arrow facing right and a hexagon with 1 inside.
+> Image of a brown card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside, indicating 1 VP and 1 card.
 
-Discard the indicated number of good(s) of the specified kind (icon of a green box) to gain VP chips and/or cards.
+> Image of a green card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside, indicating 1 VP and 1 card.
 
-> Image of a brown card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside.
+> Image of two brown cards with an arrow facing right and a hexagon with 3 inside, indicating 3 VP.
 
-Discard the indicated number of good(s) of the specified kind (icon of a brown box) to gain VP chips and/or cards.
-
-> Image of a green card with an arrow facing right, a hexagon with 1 inside and a hand holding a card with 1 inside.
-
-Discard the indicated number of good(s) of the specified kind (icon of a green box) to gain VP chips and/or cards.
-
-> Image of two brown cards with an arrow facing right and a hexagon with 3 inside.
-
-Discard the indicated number of good(s) of the specified kind (icon of a brown box) to gain VP chips and/or cards.
+Discard the indicated number of good(s) of the specified kind (icons of a blue box, green box, brown box, and yellow box) to gain VP chips and/or cards.
 
 #### Discarding "up to" (page 10)
 
-> Image of a card with four squares in blue, green, yellow and brown, an arrow facing right with x2 inside and a hexagon with 1 inside.
+> Image of a card with four squares in blue, green, yellow and brown, an arrow facing right with x2 inside and a hexagon with 1 inside, indicating 1 VP.
 
-> Image of a brown card, an arrow facing right with x2 inside and a hexagon with 1 inside.
+> Image of a brown card, an arrow facing right with x2 inside and a hexagon with 1 inside, indicating 1 VP.
 
-> Image of a blue card, an arrow facing right with x3 inside and a hexagon with 1 inside.
+> Image of a blue card, an arrow facing right with x3 inside and a hexagon with 1 inside, indicating 1 VP.
 
-> Image of a blue card, an arrow facing right with x3 inside, a hexagon with 1 inside and a hand holding a card with 1 inside.
+> Image of a blue card, an arrow facing right with x3 inside, a hexagon with 1 inside and a hand holding a card with 1 inside, indicating 1 VP and 1 card.
 
 Discard goods up to the indicated number to gain the specified VP chips and/or cards for each good discarded.
 
@@ -741,7 +679,7 @@ Example: with two remaining goods (of the appropriate kind), the player must dis
 
 #### All Goods (page 10)
 
-> Image of four set of cards with four squares in blue, green, yellow, and brown with a grey arrow pointing right, a hexagon with ?-1 inside.
+> Image of four cards each with four squares in blue, green, yellow, and brown with a grey arrow pointing right to a hexagon with ?-1 inside.
 
 Discard all goods (possibly after using other consume powers) to gain VP chips equal to one less than the number of goods discarded.
 
@@ -755,15 +693,13 @@ Draw 1 Card.
 
 #### For Cards At Trade Prices (page 10)
 
-> Image of a card with four squares in blue, green, yellow, and brown, a grey arrow facing right and a hand holding a card with ? inside. There is also a small red circle with an arrow point right which has $ inside and a diagonal slash in the upper right corner of the second circle.
-
-Black Market Trading World Trade League
+> Image of a black market trading world card with four squares in blue, green, yellow, and brown, a grey arrow facing right and a hand holding a card with ? inside. There is also a small red circle with an arrow point right which has $ inside and a diagonal slash in the upper right corner of the second circle.
 
 Discard 1 good to gain cards equal to its Trade price ( (blue card) Novelty: 2; (brown card) Rare elements: 3; (green card) Genes: 4; (yellow card) Alien technology: 5).
 
 Trade Powers do not affect this power.
 
-> Image of a card with four squares in blue, green, yellow, and brown, a grey arrow facing right and a hand holding a card with ? inside.
+> Image of a trade league card with four squares in blue, green, yellow, and brown, a grey arrow facing right and a hand holding a card with ? inside.
 
 Discard 1 good to gain cards equal to its Trade price ( (blue card) Novelty: 2; (brown card) Rare elements: 3; (green card) Genes: 4; (yellow card) Alien technology: 5), plus all applicable Trade powers (including its own Trade power).
 
@@ -785,7 +721,7 @@ The Gambling World also has a standard consume power in addition to this one.
 
 #### Discard Cards, Not Goods (page 10)
 
-> Image of a hand holding a card, an arrow pointing right with x2 inside and a hexagon with 1 inside.  There is also a small red circle with x2 inside and a diagonal slash in the upper right corner of the second circle.
+> Image of a hand holding a card, an arrow pointing right with x2 inside to a hexagon with 1 inside.  There is also a small red circle with x2 inside and a diagonal slash in the upper right corner of the second circle.
 
 The player may discard up to 2 cards from their hand to gain 1 VP apiece.
 
@@ -803,27 +739,21 @@ Produce a good on this world (if it does not have a good on it).
 
 #### Produce Windfall Good (page 11)
 
-> Image of a card with four shapes in blue, brown, green and yellow, an arrow pointing right and a circle with colors blue, brown, green, yellow , a center color of white and an inner ring of color red and black.
+> Image of a card with four shapes in blue, brown, green and yellow with an arrow pointing right to a white circle with a black and red border and a blue, brown, green, and yellow halo.
 
-The player produces a good on one of their windfall worlds (a circle with colors blue, brown, green, yellow , a center color of white and an inner ring of color red and black) without a good on it.
+The player produces a good on one of their windfall worlds (an icon of a white circle with a black and red border and a blue, brown, green, and yellow halo) without a good on it.
 
 #### Produce Specific Windfall (page 11)
 
-> Image of a blue card, an arrow pointing right and a blue circle with a center color of white and an inner ring of color red and black.
+> Image of a blue card with an arrow pointing right to a white circle with a black and red border and a blue halo.
 
-The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box) without a good on it.
+> Image of a brown card with an arrow pointing right to a white circle with a black and red border and a brown halo.
 
-> Image of a brown card, an arrow pointing right and a brown circle with a center color of white and an inner ring of color red and black.
+> Image of a green card with an arrow pointing right to a white circle with a black and red border and a green halo.
 
-The player produces a good on one of their windfall worlds of the specified kind (icon of a brown box) without a good on it.
+> Image of a yellow card with an arrow pointing right to a white circle with a black and red border and a yellow halo.
 
-> Image of a green card, an arrow pointing right and a green circle with a center color of white and an inner ring of color red and black.
-
-The player produces a good on one of their windfall worlds of the specified kind (icon of a green box) without a good on it.
-
-> Image of a yellow card, an arrow pointing right and a yellow circle with a center color of white and an inner ring of color red and black.
-
-The player produces a good on one of their windfall worlds of the specified kind (icon of a yellow box) without a good on it.
+The player produces a good on one of their windfall worlds of the specified kind (icon of a blue box, green box, brown box, yellow box) without a good on it.
 
 #### Draw (page 11)
 
@@ -857,11 +787,9 @@ The production reminder for this power shows a draw card on this world icon.
 
 > Image of a blue card, a deep dark large colon and a hand holding a card with 1 inside.
 
-Draw 1 card for each good of the specified kind (Icon of a blue box) that the player produced during this Produce phase.
-
 > Image of a yellow card, a deep dark large colon and a hand holding a card with 1 inside.
 
-Draw 1 card for each good of the specified kind (Icon of a yellow box) that the player produced during this Produce phase.
+Draw 1 card for each good of the specified kind (Icons of a blue box, green box, brown box, yellow box) that the player produced during this Produce phase.
 
 #### Draw For Most Of A Kind (page 11)
 
@@ -873,19 +801,19 @@ At the end of Produce, draw 2 cards if the player produced more Rare elements go
 
 > Image of four cards color blue, brown, green and yellow, a deep dark large colon and a hand holding a card with ? inside.
 
-Draw 1 card for each different kind of good (icon of a blue box, green box, brown box, yellow box) that the player produced this Produce phase.
+Draw 1 card for each different kind of good (icons of a blue box, green box, brown box, yellow box) that the player produced this Produce phase.
 
 #### Draw for Worlds (page 11)
 
-> Image of a green circle with a border of color red and black, a circle with black and red border and a center of color white, a deep dark large colon and a hand holding a card with 1 inside.
+> Image of a green circle with a black and red border, and a white circle with a black and red border and a green halo followed by a deep dark large colon and a hand holding a card with 1 inside.
 
-Draw 1 card for each Genes production or windfall world (icon of a green circle with a border of color red and black, a circle with black and red border and also a center of color white ) in the player's tableau.
+Draw 1 card for each Genes production or windfall world (icons of a green circle with a black and red border and a white circle with a black and red border and a green halo ) in the player's tableau.
 
 #### Discard To Produce Windfall (page 11)
 
-> Image of a hand holding a card with a large size X colored red, a card with four squared part with color bluw, brown, green and brown, an arrow pointing right and a circle of color blue, brown, green and yellow with a center of white and a middle ring of black and red.
+> Image of a hand holding a card with a large red X, a card with four squared part with color bluw, brown, green and brown, and an arrow pointing right to a white circle with a black and red border and a blue, brown, green and yellow halo.
 
-May discard 1 card from hand to produce a good on a windfall world (icon of a circle with color blue, brown, green and yellow with a center of white and a middle ring of black and red).
+May discard 1 card from hand to produce a good on a windfall world (icon of a white circle with a blue, brown, green, and yellow halo).
 
 ## ABOUT THE CARDS (Page 11)
 
@@ -907,7 +835,7 @@ May discard 1 card from hand to produce a good on a windfall world (icon of a ci
 - 2 defense 6 (1 Alien, 1 Rebel)
 - 1 defense 7 (1 Rebel)
 
-Contact Specialist not allowed for 4 Alien(icon of a white circle with red border)
+Contact Specialist not allowed for 4 Alien (icon of a white circle with red border)
 
 ### 22 cards provide Military:
 
@@ -930,23 +858,23 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 - 7 cost 5: 2 (icon of a biege colored diamond) and 5 (icon of a white circle with black border)
 - 14 cost 6: 12 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
 
-### 26 worlds are windfall worlds (icon of a circle with color blue, green, brown and yellow with a white center and a middle ring of color black and red):
+### 26 worlds are windfall worlds (icon of a white circle with a black and red border and a blue, green, brown and yellow halo):
 
-- 6 Novelty (icon of a blue circle with a white center and a middle ring of color black and red) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
-- 7 Rare (brown circle with a white center and a middle ring of color black and red) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
-- 7 Genes (green circle with a white center and a middle ring of color black and red) : 2 (icon of a white circle with black border) and 5 (icon of a white circle with red border)
-- 6 Alien (yellow circle with a white center and a middle ring of color black and red) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
+- 6 Novelty (icon of a white circle with a black and red border and a blue halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
+- 7 Rare (icon of a white circle with a black and red border and a brown halo) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 7 Genes (icon of a white circle with a black and red border and a green halo) : 2 (icon of a white circle with black border) and 5 (icon of a white circle with red border)
+- 6 Alien (icon of a yellow circle with a black and red border and a yellow halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
 
 ### 22 worlds produce a good:
 
-- 9 Novelty (icon of a blue circle with a border of color black and red) : 8 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
-- 7 Rare (brown circle with a border of color black and red) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
-- 4 Genes (green circle with a border of color black and red) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
-- 2 Alien (icon of a yellow circle with a border of color black and red) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 9 Novelty (icon of a blue circle with a black and red border) : 8 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 7 Rare (icon of a brown circle with a black and red border) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 4 Genes (icon of a green circle with a black and red border) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 2 Alien (icon of a yellow circle with a black and red border) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
 
 6 (icon of a biege colored diamond) and 2 (icon of a white circle with black border) produce a good at a specific kind of windfall world;
 
-2 (icon of white circle with black border) produce one at any (icon of a multi colored circle with color blue, brown, green, yellow with a white center and a middle ring of color black and red) world.
+2 (icon of white circle with black border) produce one at any (icon of a white circle with a black and red border and a blue, brown, green, and yellow halo) world.
 
 ### 34 cards consume one or more goods:
 
@@ -962,7 +890,7 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 (An icon of a hexagon with 3 inside)/ (an icon of a yellow circle with a black and red border) Alien technology production world
 
-(An icon of a hexagon with 2 inside)/ (an icon of a yellow circle with a black and red middle ring) Alien technology windfall world
+(An icon of a hexagon with 2 inside)/ (an icon of a white circle with a black and red border and a yellow halo) Alien technology windfall world
 
 (An icon of a hexagon with 2 inside)/ (a yellow bold "ALIEN" text) card (including this one)
 
@@ -970,7 +898,7 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 (An icon of a hexagon with 2 inside)/ (an icon of a blue circle with a black and red border) Novelty Production World
 
-(An icon of a hexagon with 2 inside)/ (an icon of a blue circle with a black and red middle ring and a white center) Novelty Windfall World
+(An icon of a hexagon with 2 inside)/ (an icon of a white circle with a black and red border and a blue halo) Novelty Windfall World
 
 (An icon of a hexagon with 2 inside)/ (a beige diamond) CONSUMER MARKETS, (a grey circle with a black border) EXPANDIN COLONY
 
@@ -982,11 +910,11 @@ Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
 
 ### GALACTIC **IMPERIUM** (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a light red circle with red border) Rebel military world
+(An icon of a hexagon with 2 inside)/ (an icon of a red circle with red border) Rebel military world
 
 (An icon of a hexagon with 2 inside)/ (an icon of a white circle with red border) other military world
 
-Rebel military worlds have a red, shaded circle (an icon of a light red circle with red border) beneath their VPs.
+Rebel military worlds have a red, shaded circle (an icon of a red circle with red border) beneath their VPs.
 
 ### GALACTIC RENAISSANCE (Page 12)
 
@@ -1004,7 +932,7 @@ Rebel military worlds have a red, shaded circle (an icon of a light red circle w
 
 ### MERCHANT GUILD (Page 12)
 
-(An icon of a hexagon with 1 inside)/ (an icon of a blue circle with a black and red border), (an icon of a brown circle with a black and red border), (an icon of a green circle with a black and red border), (an icon of a yellow circle with a black and red border), Production World (not (an icon of a white with a blue, brown, green, yellow border and a red and black border) Windfall)
+(An icon of a hexagon with 1 inside)/ (an icon of a blue circle with a black and red border), (an icon of a brown circle with a black and red border), (an icon of a green circle with a black and red border), (an icon of a yellow circle with a black and red border), Production World (not (an icon of a white circle with a black and red border and a blue, brown, green, and yellow halo) Windfall)
 
 (An icon of a hexagon with 1 inside)/ (image of a card with four shapes in blue, brown, green and yellow) (good) at game end
 
@@ -1012,7 +940,7 @@ Rebel military worlds have a red, shaded circle (an icon of a light red circle w
 
 (An icon of a hexagon with 2 inside)/ (an icon of a brown circle with a black and red border) Rare elements production world
 
-(An icon of a hexagon with 1 inside)/ (an icon of a brown circle and a middle ring of colors black and red) Rare elements windfall world
+(An icon of a hexagon with 1 inside)/ (an icon of a white circle and a black and red border and a brown halo) Rare elements windfall world
 
 (An icon of a hexagon with 2 inside)/ (icon of a beige diamond) MINING ROBOTS, (icon of a beige diamond) MINING CONGLOMERATE
 
@@ -1032,7 +960,7 @@ Specialized Military includes not only bonuses against *Rebel* and *Alien* milit
 
 ### PAN-GALACTIC LEAGUE (Page 12)
 
-(An icon of a hexagon with 2 inside)/ (an icon of a green circle with a black and red border) (an icon of a green circle with a black and red middle ring and a white center) Genes world
+(An icon of a hexagon with 2 inside)/ (an icon of a green circle with a black and red border) (an icon of a white circle with a black and red border and a green halo) Genes world
 
 (An icon of a hexagon with 1 inside)/ (an icon of a white circle with a red border) other military world
 
