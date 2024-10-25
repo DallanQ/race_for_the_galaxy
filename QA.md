@@ -37,7 +37,7 @@ No, you can't stack the effects to achieve a -4 cost but you can develop another
 
 > Is the Alien Rosetta Stone an Alien card or not?
 
-Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods(or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesnn't produce Alien technology goods.
+Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods(or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesn't produce Alien technology goods.
 
 [space-mercenaries-plus-improved-logistics](https://boardgamegeek.com/thread/1087399/space-mercenaries-plus-improved-logistics)
 
