@@ -27,7 +27,7 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 
 > Let say I already developed "Replicant Robots" (which gives me -2 to place world) can I develop another "Replicant Robots" to have a -4 for placing world? (there are 2 Replicant Robots in the deck).
 
-No, you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing worlds. You can't have both cards in play simultaneously.
+No, you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
 
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
