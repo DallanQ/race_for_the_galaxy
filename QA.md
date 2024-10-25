@@ -27,7 +27,7 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 
 > Let say I already developed "Replicant Robots" (which gives me -2 to place world) can I develop another "Replicant Robots" to have a -4 for placing world? (there are 2 Replicant Robots in the deck).
 
-No, you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
+No, there cannot be more than one card with the same name in your tableau. you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
 
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
@@ -37,11 +37,11 @@ No, you can't stack the effects to achieve a -4 cost but you can develop another
 
 > Is the Alien Rosetta Stone an Alien card or not?
 
-Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods(or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesn't produce Alien technology goods.
+Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods (or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesn't produce Alien technology goods.
 
 [space-mercenaries-plus-improved-logistics](https://boardgamegeek.com/thread/1087399/space-mercenaries-plus-improved-logistics)
 
-> I was playing in Keldon’s AI with Improved Logistics on the tableau. I chose develop, settle, and produce phases. After developing Space Mercenaries, I discarded a card to settle a 2-defense military world, which raised my military temporarily. When I used Improved Logistics to settle again, my two 3-defense military worlds were grayed out, indicating they couldn’t be settled. I thought I would be able to discard another card to reach 3 military strength for this phase. Why couldn’t I settle these worlds?
+> I was playing with Improved Logistics on the tableau. I chose develop, settle, and produce phases. After developing Space Mercenaries, I discarded a card to settle a 2-defense military world, which raised my military temporarily. When I used Improved Logistics to settle again, my two 3-defense military worlds were grayed out, indicating they couldn’t be settled. I thought I would be able to discard another card to reach 3 military strength for this phase. Why couldn’t I settle these worlds?
 
 You need to use the discard power all at once for each settle action. You can only use a power once per phase, so when you discarded one card to gain 1 military for the first settle action, that counted as your single use of the power for that settle. This means you couldn’t discard another card to add 1 more military for a second attempt to settle.
 
@@ -49,11 +49,12 @@ You need to use the discard power all at once for each settle action. You can on
 
 > Do discount for planets stack?
 
-If you are using Improved Logistics to settle the world, you don't receive the discount for Alien Rosetta Stone World until the phase is over. This means that even though you are settling twice, it's still all part of the same settle phase, so your newly acquired settle powers are restricted from use until the next settle phase.
+If you are using Improved Logistics to settle the world, you don't receive the discount for Alien Rosetta Stone World until the phase is over. From page 5 of the manual,
+"The powers of various cards can alter the settle rules if a player has them in his tableau before the settle phase begins." This means that even though you are settling twice, it's still all part of the same settle phase, so your newly acquired settle powers are restricted from use until the next settle phase.
 
 [need-help-with-some-rules](https://boardgamegeek.com/thread/2202581/need-help-with-some-rules)
 
-> If i have for example 3 consume powers(that need 1 good) and only 2 goods, do i choose what consume powers i make use of?
+> If i have for example 3 consume powers (that need 1 good) and only 2 goods, do i choose what consume powers i make use of?
 
 Yes, you choose which consume powers to use with the goods you have available.
 
