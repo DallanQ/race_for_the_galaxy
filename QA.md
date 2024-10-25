@@ -1,22 +1,59 @@
 [do-you-draw-a-card-at-the-end-of-the-round](https://boardgamegeek.com/thread/696088/do-you-draw-a-card-at-the-end-of-the-round)
 
+> do you draw a card at the end of each round?
+
+No you don’t draw a card at the end of each round. Cards are drawn through specific actions, like the Explore phase or special card effects during other phases.
+
 [production-phase-question](https://boardgamegeek.com/thread/599033/production-phase-question)
+
+> do grey worlds produce goods?  
+
+No they don't, gray worlds do not produce goods. Gray worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
 
 [scoring-question](https://boardgamegeek.com/thread/1093697/scoring-question)
 
+> Let's say I have 3 cards with a hieroglyphic that says I get a VP and a card for selling a good. Only 1 world produces and sells goods. Do I get 3 VPs and 3 cards every time I sell 1 good, or does 1 heiroglyphic only apply to 1 transaction?
+
+No, you only get 1 VP and 1 card per transaction when you sell a single good during the Consume phase.
+Note that You have to consume as much as you can and cannot keep a resource for a later usage neither, but you can choose the order in which you apply consume powers.
+
 [multiple-trade-abilities](https://boardgamegeek.com/thread/284334/multiple-trade-abilities)
+
+> When you choose "Consume: Trade" and one good is traded, can you apply all applicable trade abilities which are on worlds or developments in your tableau?
+
+Yes, when you choose "Consume: Trade", you can apply all applicable trade abilities from your worlds or developments in your tableau to that single trade transaction. This includes those which are due to the specific kind of good sold as well as those which are due to selling any kind of good.
 
 [can-one-place-down-cards-with-the-same-names-same](https://boardgamegeek.com/thread/671277/can-one-place-down-cards-with-the-same-names-same)
 
+> Let say I already developed "Replicant Robots" (which gives me -2 to place world) can I develop another "Replicant Robots" to have a -4 for placing world? (there are 2 Replicant Robots in the deck).
+
+No, you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing worlds. You can't have both cards in play simultaneously.
+
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
+
+>
 
 [terraformed-world](https://boardgamegeek.com/thread/405370/terraformed-world)
 
+>
+
 [playing-on-bga-alien-rosetta-stone-world-rules-que](https://boardgamegeek.com/thread/965037/playing-on-bga-alien-rosetta-stone-world-rules-que)
+
+> Is the Alien Rosetta Stone an Alien card or not?
+
+Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods(or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesnn't produce Alien technology goods.
 
 [space-mercenaries-plus-improved-logistics](https://boardgamegeek.com/thread/1087399/space-mercenaries-plus-improved-logistics)
 
+> I was playing in Keldon’s AI with Improved Logistics on the tableau. I chose develop, settle, and produce phases. After developing Space Mercenaries, I discarded a card to settle a 2-defense military world, which raised my military temporarily. When I used Improved Logistics to settle again, my two 3-defense military worlds were grayed out, indicating they couldn’t be settled. I thought I would be able to discard another card to reach 3 military strength for this phase. Why couldn’t I settle these worlds?
+
+You need to use the discard power all at once for each settle action. You can only use a power once per phase, so when you discarded one card to gain 1 military for the first settle action, that counted as your single use of the power for that settle. This means you couldn’t discard another card to add 1 more military for a second attempt to settle.
+
 [do-discounts-for-planets-stack](https://boardgamegeek.com/thread/1901858/do-discounts-for-planets-stack)
+
+> Do discount for planets stack?
+
+If you are using Improved Logistics to settle the world, you don't receive the discount for Alien Rosetta Stone World until the phase is over. This means that even though you are settling twice, it's still all part of the same settle phase, so your newly acquired settle powers are restricted from use until the next settle phase.
 
 [need-help-with-some-rules](https://boardgamegeek.com/thread/2202581/need-help-with-some-rules)
 
