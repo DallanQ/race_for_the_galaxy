@@ -1,12 +1,12 @@
 [do-you-draw-a-card-at-the-end-of-the-round](https://boardgamegeek.com/thread/696088/do-you-draw-a-card-at-the-end-of-the-round)
 
-> do you draw a card at the end of each round?
+> Do you draw a card at the end of each round?
 
 No you don’t draw a card at the end of each round. Cards are drawn through specific actions, like the Explore phase or special card effects during other phases.
 
 [production-phase-question](https://boardgamegeek.com/thread/599033/production-phase-question)
 
-> do grey worlds produce goods?  
+> Do grey worlds produce goods?  
 
 No they don't, gray worlds do not produce goods. Gray worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
 
@@ -31,11 +31,7 @@ No, you can't stack the effects to achieve a -4 cost but you can develop another
 
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
->
-
 [terraformed-world](https://boardgamegeek.com/thread/405370/terraformed-world)
-
->
 
 [playing-on-bga-alien-rosetta-stone-world-rules-que](https://boardgamegeek.com/thread/965037/playing-on-bga-alien-rosetta-stone-world-rules-que)
 
@@ -57,9 +53,25 @@ If you are using Improved Logistics to settle the world, you don't receive the d
 
 [need-help-with-some-rules](https://boardgamegeek.com/thread/2202581/need-help-with-some-rules)
 
+> If i have for example 3 consume powers(that need 1 good) and only 2 goods, do i choose what consume powers i make use of?
+
+Yes, you choose which consume powers to use with the goods you have available.
+
+> When a power says "up to" it means if i do that power i have to use all goods if i can? but do i still get 1 point, or do i get 1 point for each good discarded??
+
+The "up to" means you can choose to use any number of goods (from 0 up to the total you have). You get 1 point for each good discarded with that power, so the points you gain depend on the number of goods you choose to use, not on using all of them.
+
+> why does some cards like "Gateway station" have a big negative number?
+
+The negative number means it comes before zero (zero to a positive integer were designed before new cards intended to be start worlds with earlier priority).
+
 [production-values-looking-for-clarification](https://boardgamegeek.com/thread/2420556/production-values-looking-for-clarification)
 
 [why-cant-i-develop-this-card-keldon](https://boardgamegeek.com/thread/1405185/why-cant-i-develop-this-card-keldon)
+
+> Why can't I develop a duplicate Mining Robots card?
+
+You can’t develop a duplicate Mining Robots card (any other card) because the rules state that you’re not allowed to have multiple copies of the same development or world in your tableau. This simply means you cannot have more than one of each development or world.
 
 [end-condition-which-cards-count](https://boardgamegeek.com/thread/301118/end-condition-which-cards-count)
 
