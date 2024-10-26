@@ -152,17 +152,23 @@ Windfall worlds do not produce on the turn they are played. The Produce effects 
 
 [develop-phase-bonus-question](https://boardgamegeek.com/thread/439211/develop-phase-bonus-question)
 
-> In the develop phase, if I have multiple cards with a +1 card bonus, do I receive multiple bonus cards? Additionally, do I receive these bonuses only if I choose the develop phase with my action card, or also if my opponent chooses it and do I get the bonus(es) even if I don't buy any improvements during the develop phase?
+> In the Develop phase, if I have multiple cards with a +1 card bonus, do I receive multiple bonus cards? Additionally, do I receive these bonuses only if I choose the Develop phase with my action card, or also if my opponent chooses it? Lastly, do I still get the bonus(es) even if I don’t buy any improvements during the Develop phase?
 
-You receive each of the bonuses, and you get the bonuses even if you did not select the phase.
-
-For drawing cards there are two distinct differences, that on Public Works means you must play a development to draw the card, that on Interstellar Bank means you draw a card at any stage of the Develop phase.
+Yes, you receive each of the +1 card bonuses during the Develop phase, even if you didn’t select the phase and even if you don’t buy any improvements.
 
 [alpha-centauri-bonuses](https://boardgamegeek.com/thread/687912/alpha-centauri-bonuses)
+
+> Do the Alpha Centauri bonuses (+1 military and -1 cost for settling brown worlds) apply only to brown production worlds, or do they also apply to brown windfall worlds?
+
+Yes, the Alpha Centauri bonuses apply to both brown production worlds and brown windfall worlds.
 
 [consume-cards-1-player-plays-one-other-plays-the-o](https://boardgamegeek.com/thread/338846/consume-cards-1-player-plays-one-other-plays-the-o)
 
 [galactic-survey-seti](https://boardgamegeek.com/thread/2370147/galactic-survey-seti)
+
+> Does the third VP scoring condition, “1 VP per other black/red world,” apply to any settlement card, or only to those specifically labeled as "world"?
+
+Any card with a round icon in the top left is considered a world, and you can only settle worlds. The scoring condition means you earn 1 VP per other world, whether military (red) or non-military (black).
 
 [settle-bonus-timing](https://boardgamegeek.com/thread/1316827/settle-bonus-timing)
 
