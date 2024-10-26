@@ -107,13 +107,14 @@ Yes, the Colony Ship allows you to place any world that normally requires paymen
 
 > Do sale bonuses add up?
 
-Yes, sale bonuses do add up. When you sell a good, you can apply all relevant trade bonuses from your tableau. While some cards offer trade bonuses that apply only to specific goods listed on that card, more common bonuses can be applied to every trade.
+Sale bonuses do add up. When you sell a good, you can apply all relevant trade bonuses from your tableau.
+While some cards offer trade bonuses that apply only to specific goods listed on that card, more common bonuses can be applied to every trade.
 
 [session-questions](https://boardgamegeek.com/thread/355340/session-questions)
 
 > Do goods count toward total card victory conditions?
 
-No, the goods do not contribute to the card victory conditions. The 12 built (face up) card in the tableau is the game end condition. Remember to keep goods face-down.
+Goods do not contribute to the card victory conditions. The 12 built (face up) card in the tableau is the game end condition. Remember to keep goods face-down.
 
 > Should the VP count be adjusted each turn to ensure it matches the card values, considering that variances occur when exchanging goods for VPs?
 
@@ -121,7 +122,10 @@ No, you only take VP chips for VPs earned via consume powers. For the intrinsic 
 
 > How many goods may be consumed on the consume phase?
 
-Each consume power may be used once (or multiple times if so listed on the arrow), each good may only be used in one consume power. The total number of goods consumed may be none, some, or all of the goods you currently have available, depending on your available powers.
+From page 6 of the manual, "Each consume power can be used only once in a consume phase. Some powers allow
+multiple goods, “up to” some number, to be discarded, with each good producing an
+effect. Such powers must be fully used, if possible, when invoked."
+This means each good may only be used in one consume power and the total number of goods consumed may be none, some, or all of the goods you currently have available, depending on your available powers.
 
 > If a player has no cards in play with consume powers and did not elect a consume action, are they unable to consume, even if another player had chosen the consume action?
 
@@ -143,7 +147,7 @@ The red setting sun symbol indicates that the card is a Rebel Military world. Th
 
 > Do windfall worlds produce on the turn they are played (providing their windfall)?
 
-No, windfall worlds do not produce on the turn they are played. The Produce effects only occur during the Produce phase, while worlds are placed during the Settle phase, so any Produce effects cannot fire.
+Windfall worlds do not produce on the turn they are played. The Produce effects only occur during the Produce phase, while worlds are placed during the Settle phase, so any Produce effects cannot fire.
 
 [develop-phase-bonus-question](https://boardgamegeek.com/thread/439211/develop-phase-bonus-question)
 
