@@ -100,7 +100,7 @@ According to the 2 player game rules, "If a player chooses either two Develop or
 
 > Can you reduce a green production world to zero, or blue, or brown?
 
-Yes, the Colony Ship allows you to place any world that normally requires payment, by discarding the Colony Ship instead. However, it cannot be used on Alien (yellow) worlds. If you have a Contact Specialist in play, you can use it to place non-Alien military worlds by paying instead of conquering. The Colony Ship then lets you bypass this cost, allowing you to place the military world for free.
+Yes you can, the Colony Ship allows you to place any world that normally requires payment, by discarding the Colony Ship instead. However, it cannot be used on Alien (yellow) worlds. If you have a Contact Specialist in play, you can use it to place non-Alien military worlds by paying instead of conquering. The Colony Ship then lets you bypass this cost, allowing you to place the military world for free.
 
 [goods-count-towards-game-over-trigger](https://boardgamegeek.com/thread/289389/goods-count-towards-game-over-trigger)
 
@@ -119,7 +119,7 @@ Goods do not contribute to the card victory conditions. The 12 built (face up) c
 
 > Should the VP count be adjusted each turn to ensure it matches the card values, considering that variances occur when exchanging goods for VPs?
 
-No, you only take VP chips for VPs earned via consume powers. For the intrinsic value of the cards, just add them up at the end. Note that this will fiddle with the game length.
+No it shouldn't, you only take VP chips for VPs earned via consume powers. For the intrinsic value of the cards, just add them up at the end. Note that this will fiddle with the game length.
 
 > How many goods may be consumed on the consume phase?
 
