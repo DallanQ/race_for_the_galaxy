@@ -236,6 +236,10 @@ Yes, you can still use a card's power for a specific phase even if you don’t p
 
 [new-economy](https://boardgamegeek.com/thread/351289/new-economy)
 
+> With "new economy" do you count cards with trade power?
+
+No, you do not count cards with trade power. Trade ($) and Consume (IV) are 2 distinct powers for the purposes of utilizing each of their bonuses with regard to 6-cost development cards.
+
 [question-on-6-cost-development-scoring](https://boardgamegeek.com/thread/850533/question-on-6-cost-development-scoring)
 
 [takeover-confusionkeldon-bug](https://boardgamegeek.com/thread/555381/takeover-confusionkeldon-bug)
