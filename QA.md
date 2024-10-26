@@ -105,7 +105,7 @@ Yes, the Colony Ship allows you to place any world that normally requires paymen
 
 [do-sale-bonuses-add-up](https://boardgamegeek.com/thread/325210/do-sale-bonuses-add-up)
 
-> DO sale bonuses add up?
+> Do sale bonuses add up?
 
 Yes, sale bonuses do add up. When you sell a good, you can apply all relevant trade bonuses from your tableau. While some cards offer trade bonuses that apply only to specific goods listed on that card, more common bonuses can be applied to every trade.
 
@@ -123,7 +123,7 @@ No, you only take VP chips for VPs earned via consume powers. For the intrinsic 
 
 Each consume power may be used once (or multiple times if so listed on the arrow), each good may only be used in one consume power. The total number of goods consumed may be none, some, or all of the goods you currently have available, depending on your available powers.
 
-> If a player has not cards in play with consume powers and did not elect a consume action, are they unable to consume, even if another player had chosen the consume action?
+> If a player has no cards in play with consume powers and did not elect a consume action, are they unable to consume, even if another player had chosen the consume action?
 
 Yes even if they chose the consume phase, they would be unable to consume. They may be able to trade one card if they took Consume:trade, but may not consume any goods.
 
