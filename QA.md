@@ -204,11 +204,31 @@ You can't select the value '0' during gambling in Keldon's implementation becaus
 
 [brown-contact-specialist](https://boardgamegeek.com/thread/302918/brown-contact-specialist)
 
+> Do I get to play Rebel Miners for free with Alpha Centauri (-1 brown worlds, +1 brown military worlds) and Contact Specialist (pay card for military worlds - one less than shown) in my tableau?
+
+Yes, you can play Rebel Miners for free because Contact Specialist changes Rebel Miners from a Defense 2 world into a Cost 1 world, and Alpha Centauri applies a 1 card discount on normal brown worlds.
+
 [rules-clairification-help](https://boardgamegeek.com/thread/448063/rules-clairification-help)
+
+> Do gray worlds produce goods?
+
+They produce nothing. There is one (Galactic Engineers) that has an ability to let you produce on an arbitrary windfall, and other (Alien Rosetta Stone World) that will let you produce on an Alien windfall. From page 7 of the manual, "Action: place a good on each production world (worlds with colored, solid circles) without a good , by taking a card face down — without looking at it — from the card supply and putting it on top of the world’s lower right portion (to avoid hiding the world’s VPs and powers). This good is of the kind indicated by the color of the world’s solid circle (and the color of the corresponding Produce power)." This means that the gray worlds are neither windfall nor production worlds; you place them for their powers and victory points.
 
 [consume-x2-question](https://boardgamegeek.com/thread/850047/consume-x2-question)
 
+> When choosing consume x2 do I get x2 for all the vps earned on that phase or only for the first good I consume?
+
+When choosing Consume x2, you double the Victory Points (VPs) for all goods consumed during that phase, not just the first one. This means that every consume action that generates VPs in that phase will earn double the VPs.
+
+> If a card with (1 vp and 1 card draw) is taking place in the consume x2 phase I should get 2 vps and 1 card draw?
+
+Yes, in the consume x2 phase you will get 2 Vps and 1 card draw because the consume x2 bonus doubles the Vps earned.
+
 [can-i-use-a-card-power-of-a-certain-phase-if-i-do](https://boardgamegeek.com/thread/888471/can-i-use-a-card-power-of-a-certain-phase-if-i-do)
+
+> Can I use a card power of a certain phase if I do not perform the action associated with that phase?
+
+Yes, you can still use a card's power for a specific phase even if you don’t perform the action associated with that phase, as long as the phase is active because a player chose it. This simply means that you are benefiting parasitically from another player's actions, I believe that they call it "leeching".
 
 [robot-with-rules](https://boardgamegeek.com/thread/1233031/robot-with-rules)
 
