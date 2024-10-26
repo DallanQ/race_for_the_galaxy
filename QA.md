@@ -152,6 +152,12 @@ Windfall worlds do not produce on the turn they are played. The Produce effects 
 
 [develop-phase-bonus-question](https://boardgamegeek.com/thread/439211/develop-phase-bonus-question)
 
+> In the develop phase, if I have multiple cards with a +1 card bonus, do I receive multiple bonus cards? Additionally, do I receive these bonuses only if I choose the develop phase with my action card, or also if my opponent chooses it and do I get the bonus(es) even if I don't buy any improvements during the develop phase?
+
+You receive each of the bonuses, and you get the bonuses even if you did not select the phase.
+
+For drawing cards there are two distinct differences, that on Public Works means you must play a development to draw the card, that on Interstellar Bank means you draw a card at any stage of the Develop phase.
+
 [alpha-centauri-bonuses](https://boardgamegeek.com/thread/687912/alpha-centauri-bonuses)
 
 [consume-cards-1-player-plays-one-other-plays-the-o](https://boardgamegeek.com/thread/338846/consume-cards-1-player-plays-one-other-plays-the-o)
