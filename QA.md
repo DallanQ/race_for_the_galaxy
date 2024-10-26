@@ -172,13 +172,33 @@ Any card with a round icon in the top left is considered a world, and you can on
 
 [settle-bonus-timing](https://boardgamegeek.com/thread/1316827/settle-bonus-timing)
 
+> Do you draw the Settle Bonus card after placing a world or at the end of the settle phase?
+
+Yes, you draw the Settle Bonus card after placing a world. According to page 5 of the manual, "Players who chose Settle, as the bonus, draw one card after placing and paying for (or conquering) a world." This means you do not draw the Settle Bonus card at the end of the Settle phase.
+
 [specialized-military-strength-with-contact-special](https://boardgamegeek.com/thread/3252967/specialized-military-strength-with-contact-special)
+
+> If I had played the Contact Specialist after replacing my starting world with the 3-cost grey alien world, would I still have +2 military strength against alien worlds, or would the Contact Specialist's -1 general military strength reduce it to +1?
+
+When attempting to conquer a world, you combine your military strength with any specialized military bonuses. Since the Contact Specialist provides a -1 penalty to your general military strength, this penalty applies regardless of other effects. Therefore, you would have a total of +1 military strength against alien (yellow) worlds in this scenario.
 
 [starting-world-choice](https://boardgamegeek.com/thread/464711/starting-world-choice)
 
+> How are starting worlds chosen if two players want the same one? Do players select from among four face-down shuffled worlds, or is there another method?
+
+In the base set, starting worlds are dealt randomly. According to the rules on page 2 of the manual, "Find and shuffle the five **start worlds**. Deal one world face up to each player." If using preset hands, you deal out worlds 1-N randomly, where N is the number of players, and then match the preset hands to the worlds each player received.
+
 [pilgrimage-world](https://boardgamegeek.com/thread/1770279/pilgrimage-world)
 
+> Can I sacrifice all my three goods to Pilgrimage World first to receive the total victory points, or do I have to use other consume powers before using Pilgrimage World?
+
+Yes, you can sacrifice all three of your goods to Pilgrimage World. However, you cannot leave any goods behind for a different consume power. You can use your consume actions in any order, but once you choose a consume action, you must use it to its fullest extent.
+
 [gambling-world-in-keldon](https://boardgamegeek.com/thread/953816/gambling-world-in-keldon)
+
+> Why can't I select the value "0" during gambling in Keldon's implementation?
+
+You can't select the value '0' during gambling in Keldon's implementation because the card specifies a range of '1-7,' which excludes '0.' However, the house always wins on '0,' and the '0' column is included on the chart to show the total card distribution.
 
 [gambling-world](https://boardgamegeek.com/thread/2141108/gambling-world)
 
