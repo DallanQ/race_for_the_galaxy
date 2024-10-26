@@ -82,23 +82,68 @@ You can’t develop a duplicate Mining Robots card (any other card) because the 
 
 [gray-versus-white-world-shading](https://boardgamegeek.com/thread/260656/gray-versus-white-world-shading)
 
+> What is the significance (if any) of a world with a gray shade versus a white shade on the inside of the circle?
+
+Gray shaded worlds are non-producing worlds. White-shaded worlds, distinguished by a colored halo, are Windfall worlds. Windfall worlds produce a good (matching the halo color) when first settled, and afterward only produce when specific powers are triggered, such as the bonus from calling the Produce phase.
+
 [new-military-tactics-colony-ship](https://boardgamegeek.com/thread/2693866/new-military-tactics-colony-ship)
 
 [can-i-conquer-two-military-worlds-when-two-players](https://boardgamegeek.com/thread/329393/can-i-conquer-two-military-worlds-when-two-players)
 
+> If more than one player chooses Settle (III) as their action card (role?), can a player re-use military points in order to conquer TWO worlds in that one round?
+
+No, a player cannot re-use military points to conquer multiple worlds in a single Settle phase, in a regular game, the Settle action occurs only once per round, and each player can settle only one world, no matter how many players chose the Settle role.
+However, in a 2-player experienced game, a player can choose two Settle actions in one turn. According to the 2-player rules: 'If a player chooses either two Develop or two Settle actions, then two complete, non-sequential phases of that type occur (with this player receiving a bonus in each). Powers gained in the first phase can be used in the second one.
+
 [not-clear-on-colony-ship](https://boardgamegeek.com/thread/329357/not-clear-on-colony-ship)
+
+> Can you reduce a green production world to zero, or blue, or brown?
+
+Yes, the Colony Ship allows you to place any world that normally requires payment, by discarding the Colony Ship instead. However, it cannot be used on Alien (yellow) worlds. If you have a Contact Specialist in play, you can use it to place non-Alien military worlds by paying instead of conquering. The Colony Ship then lets you bypass this cost, allowing you to place the military world for free.
 
 [goods-count-towards-game-over-trigger](https://boardgamegeek.com/thread/289389/goods-count-towards-game-over-trigger)
 
 [do-sale-bonuses-add-up](https://boardgamegeek.com/thread/325210/do-sale-bonuses-add-up)
 
+> DO sale bonuses add up?
+
+Yes, sale bonuses do add up. When you sell a good, you can apply all relevant trade bonuses from your tableau. While some cards offer trade bonuses that apply only to specific goods listed on that card, more common bonuses can be applied to every trade.
+
 [session-questions](https://boardgamegeek.com/thread/355340/session-questions)
+
+> Do goods count toward total card victory conditions?
+
+No, the goods do not contribute to the card victory conditions. The 12 built (face up) card in the tableau is the game end condition. Remember to keep goods face-down.
+
+> Should the VP count be adjusted each turn to ensure it matches the card values, considering that variances occur when exchanging goods for VPs?
+
+No, you only take VP chips for VPs earned via consume powers. For the intrinsic value of the cards, just add them up at the end. Note that this will fiddle with the game length.
+
+> How many goods may be consumed on the consume phase?
+
+Each consume power may be used once (or multiple times if so listed on the arrow), each good may only be used in one consume power. The total number of goods consumed may be none, some, or all of the goods you currently have available, depending on your available powers.
+
+> If a player has not cards in play with consume powers and did not elect a consume action, are they unable to consume, even if another player had chosen the consume action?
+
+Yes even if they chose the consume phase, they would be unable to consume. They may be able to trade one card if they took Consume:trade, but may not consume any goods.
+
+> Are bonuses to settling planets cumulative, meaning that if you have two or more cards with a -1 cost for settling, the total settle cost would be -2?
+
+Yes, bonuses to settling planets are cumulative. If you have two or more cards that provide a -1 cost for settling, the total settle cost would indeed be -2. This means that you can stack the benefits from multiple cards to reduce the cost of settling planets even further, allowing for more strategic plays.
 
 [6-point-dev-question](https://boardgamegeek.com/thread/2255626/6-point-dev-question)
 
 [what-is-the-little-red-circle-mean-near-play-cost](https://boardgamegeek.com/thread/502501/what-is-the-little-red-circle-mean-near-play-cost)
 
+> What does the red setting sun symbol on some world cards near the play cost and VP indicate?
+
+The red setting sun symbol indicates that the card is a Rebel Military world. This icon is somewhat redundant since the "REBEL" keyword is already in the title.
+
 [windfall-worlds-production](https://boardgamegeek.com/thread/250717/windfall-worlds-production)
+
+> Do windfall worlds produce on the turn they are played (providing their windfall)?
+
+No, windfall worlds do not produce on the turn they are played. The Produce effects only occur during the Produce phase, while worlds are placed during the Settle phase, so any Produce effects cannot fire.
 
 [develop-phase-bonus-question](https://boardgamegeek.com/thread/439211/develop-phase-bonus-question)
 
