@@ -218,7 +218,7 @@ They produce nothing. There is one (Galactic Engineers) that has an ability to l
 
 > When choosing consume x2 do I get x2 for all the vps earned on that phase or only for the first good I consume?
 
-When choosing Consume x2, you double the Victory Points (VPs) for all goods consumed during that phase, not just the first one. This means that every consume action that generates VPs in that phase will earn double the VPs.
+When choosing Consume x2, you double the Vps for all goods consumed during that phase, not just the first one. This means that every consume action that generates VPs in that phase will earn double the VPs.
 
 > If a card with (1 vp and 1 card draw) is taking place in the consume x2 phase I should get 2 vps and 1 card draw?
 
