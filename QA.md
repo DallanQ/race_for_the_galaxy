@@ -93,7 +93,7 @@ Gray shaded worlds are non-producing worlds. White-shaded worlds, distinguished 
 > If more than one player chooses Settle (III) as their action card (role?), can a player re-use military points in order to conquer TWO worlds in that one round?
 
 No, a player cannot re-use military points to conquer multiple worlds in a single Settle phase, in a regular game, the Settle action occurs only once per round, and each player can settle only one world, no matter how many players chose the Settle role.
-However, in a 2-player experienced game, a player can choose two Settle actions in one turn. According to the 2-player rules: 'If a player chooses either two Develop or two Settle actions, then two complete, non-sequential phases of that type occur (with this player receiving a bonus in each). Powers gained in the first phase can be used in the second one.
+However, in a 2-player experienced game, a player can choose two Settle actions in one turn. According to the 2 player game rules, "If a player chooses either two Develop or two Settle actions, then two complete, non-sequential phases of that type occur (with this player receiving a bonus in each). Powers gained in the first phase can be used in the second one."
 
 [not-clear-on-colony-ship](https://boardgamegeek.com/thread/329357/not-clear-on-colony-ship)
 
