@@ -280,23 +280,9 @@ Only production worlds produce (not windfall). While there is some redundancy, s
 
 [card-effects](https://boardgamegeek.com/thread/965127/card-effects)
 
-Let's say, action 4 (Consume) is active. I got five goods A B C D E. I got 3 cards that each have 1 effect on their number 4.
+When action 4 (Consume) is active and I have five goods (A, B, C, D, E) along with three cards that each have an effect for number 4, do I apply each effect to good A, or can I only apply one effect (choosing any one from the cards with effects listed) to good A while ignoring the others? Is it correct that each good can only have one effect applied to it at a time, and can the same effect be applied to the next good (B) after being used for good A?
 
-> Do I apply each effect to good A?
-
-No, you do not apply each effect to good A. You can only apply one effect at a time for each good.
-
-> Or, do I apply only one effect (choosing any one from the cards with effects listed next to their number 4) to good A, ignoring the others?
-
-Yes, you apply only one effect to good A, choosing any one effect from the cards with effects listed next to their number 4 and ignoring the others.
-
-> Is it correct that each good can only have one effect applied to it at a time?
-
-Yes, in the sense that consumption of a single good can gain the benefit of the consume power of only one world or development. This simply means that each good can only have one effect applied to it at a time.
-
-> Once an effect is used for good A, can that same effect be applied to the next good, B?
-
-Generally, a consume power applies to a single good at a time. However, there are exceptions for specific powers that allow you to consume multiple goods simultaneously, such as "discard up to 2 goods for 1 VP each" or "discard 2 goods for 3 VP." In those cases, you can apply the same effect to multiple goods as specified by the power.
+No, you do not apply each effect to good A; you can only apply one effect at a time for each good. Specifically, you choose any one effect from the cards with effects listed next to their number 4 and ignore the others. Each good can only have one effect applied to it at a time, meaning that consumption of a single good can only gain the benefit of the consume power of one world or development. Generally, a consume power applies to a single good, but there are exceptions for specific powers that allow you to consume multiple goods simultaneously. For example, from page 10 of the manual, "The player may discard up to 2 cards from their hand to gain 1 VP apiece," or "Discard 2 goods (of any kind, possibly the same) to gain 3 VP chips." In those cases, you can apply the same effect to multiple goods as specified by the power.
 
 [interstallar-bank-must-i-develop-to-draw-a-card](https://boardgamegeek.com/thread/667414/interstallar-bank-must-i-develop-to-draw-a-card)
 
