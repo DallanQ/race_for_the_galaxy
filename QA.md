@@ -248,17 +248,67 @@ No, you do not count cards with trade power. Trade ($) and Consume (IV) are 2 di
 
 [icon-for-non-military-worlds-does-this-include-win](https://boardgamegeek.com/thread/286592/icon-for-non-military-worlds-does-this-include-win)
 
+> Does the icon of a black circle with a white interior represent both windfall and normal production worlds, or just non-windfall worlds?
+
+The black circle with a white interior icon represents all non-military worlds, including both windfall and normal production worlds. It is not limited to non-windfall worlds only.
+
+> Can I use Colony Ships to play a windfall world for a cost of 0?
+
+Yes, you can use Colony Ships to play a windfall world for a cost of 0 since they allow you to settle any non-military world, regardless of whether it’s windfall or production.
+
 [new-economy](https://boardgamegeek.com/thread/275087/new-economy)
+
+> Does the New Economy card give 1 VP for all worlds with a trading power ($), or only for worlds with a consume power (IV)?
+
+New Economy does not give VP for cards with a trade power ($); it only applies to cards with a consume (IV) power.
 
 [is-it-ok-to-use-cards-from-the-discard-pile-as-goo](https://boardgamegeek.com/thread/2009114/is-it-ok-to-use-cards-from-the-discard-pile-as-goo)
 
+> Is it acceptable to use cards from the discard pile when producing goods, or to put consumed goods back into the draw deck, and would either of these changes significantly alter the game?
+
+The goods come from the draw deck by design to prevent players from mining the deck for specific cards using +5 explore. This mechanic also ensures that certain advantageous cards are not always accessible, as they may enter play as goods and not enter players' hands until the next shuffle.
+
+> Could tokens be used to represent goods?
+
+Using tokens to represent goods could reduce the strategic tension in the game. When cards are used as goods, they are temporarily out of play and can't be utilized for other actions. With tokens, no card would be removed from play while serving as a good, which changes the gameplay dynamics.
+
 [the-use-of-produce-symbols-on-cards](https://boardgamegeek.com/thread/3201015/the-use-of-produce-symbols-on-cards)
+
+> What is the usefulness of produce symbols (like a colored card) in the V-section of cards if the produce action produces on every world anyway?
+
+Only production worlds produce (not windfall). While there is some redundancy, some cards have additional produce powers, such as “draw a card after producing a good on this world.” The current design allows you to only scan the V row during the production phase, making it both redundant and elegant.
 
 [card-effects](https://boardgamegeek.com/thread/965127/card-effects)
 
+Let's say, action 4 (Consume) is active. I got five goods A B C D E. I got 3 cards that each have 1 effect on their number 4.
+
+> Do I apply each effect to good A?
+
+No, you do not apply each effect to good A. You can only apply one effect at a time for each good.
+
+> Or, do I apply only one effect (choosing any one from the cards with effects listed next to their number 4) to good A, ignoring the others?
+
+Yes, you apply only one effect to good A, choosing any one effect from the cards with effects listed next to their number 4 and ignoring the others.
+
+> Is it correct that each good can only have one effect applied to it at a time?
+
+Yes, in the sense that consumption of a single good can gain the benefit of the consume power of only one world or development. This simply means that each good can only have one effect applied to it at a time.
+
+> Once an effect is used for good A, can that same effect be applied to the next good, B?
+
+Generally, a consume power applies to a single good at a time. However, there are exceptions for specific powers that allow you to consume multiple goods simultaneously, such as "discard up to 2 goods for 1 VP each" or "discard 2 goods for 3 VP." In those cases, you can apply the same effect to multiple goods as specified by the power.
+
 [interstallar-bank-must-i-develop-to-draw-a-card](https://boardgamegeek.com/thread/667414/interstallar-bank-must-i-develop-to-draw-a-card)
 
+> If I have the Interstellar Bank in my tableau and someone else plays the Develop card but I don't develop, do I still get to draw a card?
+
+Yes, you still get to draw a card from the Interstellar Bank even if you do not develop. The "draw a card" icon is separate from the settle action, indicating that you do not need to perform the development action to benefit from it. Additionally, you must draw the card before deciding whether or not to play a development, which may influence your decisions during that phase. From page 9 of the manual, "Draw 1 card at the start of the Develop phase."
+
 [6-development](https://boardgamegeek.com/thread/1060766/6-development)
+
+> Can you use all the options available on the 6 development cards with a '?' to gain VP, or can you only choose one option to get the points?
+
+You can score for all the options available on the card if you complete each one before the end of the game. This means that if there are multiple scoring options on the card, you need to complete each one to score them all.
 
 [is-there-a-tiebreaker-for-this-game](https://boardgamegeek.com/thread/331221/is-there-a-tiebreaker-for-this-game)
 
