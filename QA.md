@@ -298,9 +298,21 @@ You can score for all the options available on the card if you complete each one
 
 [is-there-a-tiebreaker-for-this-game](https://boardgamegeek.com/thread/331221/is-there-a-tiebreaker-for-this-game)
 
+> What are the tiebreakers in the game, and what order do they go in if there are multiple tiebreakers?
+
+No, the tiebreaker number, which consists of the total goods and cards in hand, is calculated after any necessary end-of-turn discards. Additionally, there is no secondary tiebreaker; the game concludes as is (or you may play another game).
+
 [alien-oort-cloud-refinery-good-clarification](https://boardgamegeek.com/thread/2926497/alien-oort-cloud-refinery-good-clarification)
 
+> When a card writes 'ANY PHASE, GAME END: Choose this world's kind (Novelty, Rare elements, Genes, Alien technology),' does this mean that I can produce a gene during the production phase (with the help of the genetics lab when someone else chose produce) and then use terraforming robots during the consume phase to consume it as a rare elements good, essentially changing the produced good from genes to rare elements?
+
+Yes, you can produce a gene during the production phase using the genetics lab. Then, during the consume phase, you can use the terraforming robots to consume that gene as a rare elements good. This means that the card's effect allows you to change the kind of good produced, effectively treating the produced gene as a rare element for consumption.
+
 [free-trade-association](https://boardgamegeek.com/thread/754778/free-trade-association)
+
+> Can I use the "discarding up to" power of the Free Trade Association card partially, such as discarding only 2 novelty goods if I have them available, instead of having to discard the maximum amount?
+
+You can use as many goods as you have, up to three. You are allowed and must use the two goods you have, unless you have other consume powers you could use first.
 
 [research-labs-and-damaged-alien-factory](https://boardgamegeek.com/thread/1812395/research-labs-and-damaged-alien-factory)
 
