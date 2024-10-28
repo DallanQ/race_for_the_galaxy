@@ -387,15 +387,16 @@ To clarify, consume powers are not additive; you cannot combine them to gain add
 
 [rule-multiple-consume-powers-stack-or-select](https://boardgamegeek.com/thread/273871/rule-multiple-consume-powers-stack-or-select)
 
-> If I have multiple powers available, can I use all of them in a single turn?
-
-For example, let's say you have the Public Works power, which gives you +1 VP when you discard any good, and you also have a planet that grants +1 VP and +1 card for discarding a good.
-If you discard one blue good, how many VP do you receive, and where do those points come from? (For simplicity, let's assume you haven't played that phase, so there's no x2 bonus.)
-Additionally, if you have both a blue good and a brown good, can you use the same powers multiple times in one turn, or are you limited to using each power just once?
+> If I have multiple powers available, can I use all of them in a single turn? For example, let's say you have the Public Works power, which gives you +1 VP when you discard any good, and you also have a planet that grants +1 VP and +1 card for discarding a good. If you discard one blue good, how many VP do you receive, and where do those points come from? (For simplicity, let's assume you haven't played that phase, so there's no x2 bonus). Additionally, if you have both a blue good and a brown good, can you use the same powers multiple times in one turn, or are you limited to using each power just once?
 
 No, the consume powers do not stack. You must activate each of your consume powers, but you can choose the order in which they occur. However, if you run out of goods, some powers may end up doing nothing.When a consume power allows for consuming multiple goods (like x2 or x3), you must fully utilize that power when you activate it. According to the manual, "Each good being discarded applies to only one consume power." Therefore, if you have multiple powers available, you can use each of them, but you can't combine the effects from the same goods across those powers.
 
 [consumetrade-do-i-need-a-dollar-power-in-my-tablea](https://boardgamegeek.com/thread/2909154/consumetrade-do-i-need-a-dollar-power-in-my-tablea)
+
+> If I choose the action Consume/Trade and can trade in a good first as my perk, do I need to have a $-power in my tableau to perform this trade, or can I trade the good without any power? Additionally, does the rule book on page 8 indicate that I am allowed to choose ONE of the $-powers in my tableau for the trade? Can I have multiple $-powers but only use one at a time?
+
+You must sell a good if you select Consume Trade and have a good available at the beginning of the phase. You will receive the base value for that good, which is either 2, 3, 4, or 5 cards for blue, brown, green, or yellow goods, respectively. If you also have applicable $-powers in your tableau, those are additive to the base value.
+You cannot use these $-powers unless you have selected Trade (or have the 6-development that allows it). The powers are cumulative as long as they apply to the good being traded; however, some powers may only apply to goods from specific worlds or of specific colors.
 
 [15-games-with-bad-bonus-interpretation](https://boardgamegeek.com/thread/297304/15-games-with-bad-bonus-interpretation)
 
@@ -404,6 +405,10 @@ No, the consume powers do not stack. You must activate each of your consume powe
 [questions-this-worlds-good-trade-power-trade-leagu](https://boardgamegeek.com/thread/372092/questions-this-worlds-good-trade-power-trade-leagu)
 
 [6-point-devs-question](https://boardgamegeek.com/thread/296339/6-point-devs-question)
+
+> If my tableau has 2 instances of a 6-point development card, do I score VPs for each one, or do I only score once for having that card in play?
+
+You shouldn't have two of the same development cards in your tableau. From page 4 of the manual, "a player may not build a given development if another copy of it is currently in their tableau". Therefore, since you cannot have multiple instances of the same development card, you cannot score VPs for each one or score once for having both cards in play.
 
 [beginner-questions](https://boardgamegeek.com/thread/3060461/beginner-questions)
 
