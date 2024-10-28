@@ -395,8 +395,8 @@ No, the consume powers do not stack. You must activate each of your consume powe
 
 > If I choose the action Consume/Trade and can trade in a good first as my perk, do I need to have a $ power in my tableau to perform this trade, or can I trade the good without any power? Additionally, does the rule book on page 8 indicate that I am allowed to choose ONE of the $ powers in my tableau for the trade? Can I have multiple $ powers but only use one at a time?
 
-You must sell a good if you select Consume Trade and have a good available at the beginning of the phase. You will receive the base value for that good, which is either 2, 3, 4, or 5 cards for blue, brown, green, or yellow goods, respectively. If you also have applicable $-powers in your tableau, those are additive to the base value.
-You cannot use these $-powers unless you have selected Trade (or have the 6-development that allows it). The powers are cumulative as long as they apply to the good being traded; however, some powers may only apply to goods from specific worlds or of specific colors.
+You must sell a good if you select Consume Trade and have a good available at the beginning of the phase. You will receive the base value for that good, which is either 2, 3, 4, or 5 cards for blue, brown, green, or yellow goods, respectively. If you also have applicable $ powers in your tableau, those are additive to the base value.
+You cannot use these $ powers unless you have selected Trade (or have the 6-development that allows it). The powers are cumulative as long as they apply to the good being traded; however, some powers may only apply to goods from specific worlds or of specific colors.
 
 [15-games-with-bad-bonus-interpretation](https://boardgamegeek.com/thread/297304/15-games-with-bad-bonus-interpretation)
 
