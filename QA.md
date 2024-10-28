@@ -300,7 +300,7 @@ You can score for all the options available on the card if you complete each one
 
 > What are the tiebreakers in the game, and what order do they go in if there are multiple tiebreakers?
 
-No, the tiebreaker number, which consists of the total goods and cards in hand, is calculated after any necessary end-of-turn discards. Additionally, there is no secondary tiebreaker; the game concludes as is (or you may play another game).
+The tiebreaker number, which consists of the total goods and cards in hand, is calculated after any necessary end-of-turn discards. Additionally, there is no secondary tiebreaker; the game concludes as is (or you may play another game).
 
 [alien-oort-cloud-refinery-good-clarification](https://boardgamegeek.com/thread/2926497/alien-oort-cloud-refinery-good-clarification)
 
@@ -318,6 +318,10 @@ You can use as many goods as you have, up to three. You are allowed and must use
 
 [research-labs](https://boardgamegeek.com/thread/715616/research-labs)
 
+> Does the Research Labs card allow you to produce a good on an alien world, in addition to its ability to draw a card for each good produced?
+
+No. Research Labs does not allow you to produce a good on an alien world by itself.
+
 [whats-the-final-word-on-play-order](https://boardgamegeek.com/thread/380682/whats-the-final-word-on-play-order)
 
 [question-on-discounts](https://boardgamegeek.com/thread/3283864/question-on-discounts)
@@ -325,6 +329,13 @@ You can use as many goods as you have, up to three. You are allowed and must use
 [draft-sample-rounds-of-play-posted](https://boardgamegeek.com/thread/517610/draft-sample-rounds-of-play-posted)
 
 [vp-chip-ending-exactly-at-0](https://boardgamegeek.com/thread/916503/vp-chip-ending-exactly-at-0)
+
+> I’ve noticed that sometimes the game ends when the VP pool reaches exactly 0, but other times it continues even after reaching 0 (e.g., in a prestige game with 29 chips, the game keeps going when one player has 24 VP chips and the other has 5).
+
+Is this a bug, or do the rules state that the game only ends if the VP pool goes into a negative number?
+
+The game ends at the *end of the round* in which the initial VP pool is exhausted (with additional VP chips added as needed to finish out that round). The pool does not need to go "negative".
+Since Prestige is earned at the start of a round, it is possible that the prestige leader's VP (or VPs if a prestige lead tie exists) exactly drains the pool *before* actions are selected, thereby giving you the sense that the game is going on when it shouldn't be, even though in fact you're just finishing out the final round.
 
 [development-card-question](https://boardgamegeek.com/thread/760643/development-card-question)
 
@@ -334,11 +345,27 @@ You can use as many goods as you have, up to three. You are allowed and must use
 
 [planets-with-gray-filling](https://boardgamegeek.com/thread/559368/planets-with-gray-filling)
 
+> Why do some planets filled with gray where the cost is stated? And what does it mean, if compared to a normal planet with a white circle?
+
+Gray means it is neither a production world (which gets a good every time someone produces) nor a windfall world (which starts with a good). Meaning it may provide one-time benefits or powers when settled.
+
 [can-you-only-sell](https://boardgamegeek.com/thread/742550/can-you-only-sell)
+
+> Assuming that I only have one good, can I choose option 4 (Consume) and only sell my good without consuming it, since I have no more goods left?
+
+Yes. If you select the "Consume Trade" action card, you must first sell a good (if you have one.) After you do that, if you have any other consume powers you can use, you use them, but it's possible that you sold your only good and have no other usable consume powers.
 
 [consume-trade-vs-consume-vp-x2](https://boardgamegeek.com/thread/868283/consume-trade-vs-consume-vp-x2)
 
+> If I choose Consume Trade, does that mean I cannot also perform Trade for VP x2 in the same turn, and vice versa?
+
+They are two separate action cards, so you cannot play both at once. The only exception is in the two-player advanced game.
+
 [improved-logistics-clarification](https://boardgamegeek.com/thread/543358/improved-logistics-clarification)
+
+> When Improved Logistics is in play, the cardholder may settle a second world during the settle phase. Does the player need to pay the cost (either in cards or military might) for the second world to settle it?
+
+Yes, when Improved Logistics is in play, the player must still pay the cost (either in cards or military might) to settle the second world.
 
 [not-understanding-how-the-new-economy-development](https://boardgamegeek.com/thread/3350772/not-understanding-how-the-new-economy-development)
 
@@ -352,7 +379,21 @@ You can use as many goods as you have, up to three. You are allowed and must use
 
 [additive-consume-power-question](https://boardgamegeek.com/thread/2928371/additive-consume-power-question)
 
+> If I have two consuming powers in my tableau, Freihandels Union and Neue Aussteiger, and I use Freihandels Union to consume 3 luxury goods, gaining 3 VP and 3 cards, does that render Neue Aussteiger useless since I no longer have any luxury goods left? Or is the power of Neue Aussteiger additive, allowing me to use it alongside Freihandels Union to gain 4 cards instead of 3?
+
+You can only consume each good once, but if a good can be consumed by multiple powers, you get to choose which power to use. In your example, if you have 3 Novelty (blue) goods and you consume them all with Freihandels Union, then Neue Aussteiger has no utility. You could choose to consume 2 goods with Freihandels Union (since it allows you to consume "up to 3") and then consume the remaining 1 with Neue Aussteiger, but that would generally be a less optimal choice.
+
+To clarify, consume powers are not additive; you cannot combine them to gain additional benefits.
+
 [rule-multiple-consume-powers-stack-or-select](https://boardgamegeek.com/thread/273871/rule-multiple-consume-powers-stack-or-select)
+
+> If I have multiple powers available, can I use all of them in a single turn?
+
+For example, let's say you have the Public Works power, which gives you +1 VP when you discard any good, and you also have a planet that grants +1 VP and +1 card for discarding a good.
+If you discard one blue good, how many VP do you receive, and where do those points come from? (For simplicity, let's assume you haven't played that phase, so there's no x2 bonus.)
+Additionally, if you have both a blue good and a brown good, can you use the same powers multiple times in one turn, or are you limited to using each power just once?
+
+No, the consume powers do not stack. You must activate each of your consume powers, but you can choose the order in which they occur. However, if you run out of goods, some powers may end up doing nothing.When a consume power allows for consuming multiple goods (like x2 or x3), you must fully utilize that power when you activate it. According to the manual, "Each good being discarded applies to only one consume power." Therefore, if you have multiple powers available, you can use each of them, but you can't combine the effects from the same goods across those powers.
 
 [consumetrade-do-i-need-a-dollar-power-in-my-tablea](https://boardgamegeek.com/thread/2909154/consumetrade-do-i-need-a-dollar-power-in-my-tablea)
 
