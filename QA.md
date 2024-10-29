@@ -442,16 +442,23 @@ For Consume x2, players skip the trade phase and simply take double the VPs they
 
 [sell-goods](https://boardgamegeek.com/thread/1152998/sell-goods)
 > I would like to know what happens in this case:
+
 > Player 1: has 3 world witch all have goods on them.
+
 > Player 2: has 2 worlds with goods on.
+
 > Player 3: has no world with goods.
 
 > Player 1: chooses trading for double VP
+
 > Player 2: chooses trading for hand cards
+
 > Player 3: any other phase than 4.
 
 > Player 1: has 3 cards which says +1 VP
+
 > Player 2: has 1 card which says +2 VP
+
 > Player 3: who cares
 
 > Can Player 1 sell all of his goods and double the VP, or just one good and double the VP with all bonuses added? Similarly, must Player 2 sell all his goods for normal bonuses without doubling, or can he sell only one of his goods and keep the rest?
