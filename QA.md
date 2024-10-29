@@ -441,27 +441,8 @@ If one or both players choose Consume Trade, then each player who chose this car
 For Consume x2, players skip the trade phase and simply take double the VPs they normally would, while still consuming goods if possible. Players can also consume goods in a specific order to retain more goods—for example, if they have a green and a blue good, a green-only consume power, and an any-color consume power, they may consume the green at the any-color power, preserving the blue good.
 
 [sell-goods](https://boardgamegeek.com/thread/1152998/sell-goods)
-> I would like to know what happens in this case:
 
-> Player 1: has 3 world witch all have goods on them.
-
-> Player 2: has 2 worlds with goods on.
-
-> Player 3: has no world with goods.
-
-> Player 1: chooses trading for double VP
-
-> Player 2: chooses trading for hand cards
-
-> Player 3: any other phase than 4.
-
-> Player 1: has 3 cards which says +1 VP
-
-> Player 2: has 1 card which says +2 VP
-
-> Player 3: who cares
-
-> Can Player 1 sell all of his goods and double the VP, or just one good and double the VP with all bonuses added? Similarly, must Player 2 sell all his goods for normal bonuses without doubling, or can he sell only one of his goods and keep the rest?
+> In a scenario where Player 1 has three worlds with goods, Player 2 has two worlds with goods, and Player 3 has no worlds with goods, with Player 1 choosing trading for double VP, Player 2 choosing trading for hand cards, and Player 3 selecting a different phase, can Player 1 sell all of his goods to double the VP, or must he sell only one good and double the VP with all bonuses added? Additionally, must Player 2 sell all his goods for normal bonuses without doubling, or can he sell only one of his goods and keep the rest?
 
 No, Player 1 cannot sell all goods for double VP. Consumption is required if possible, though consume powers may be used in any order, which can result in unconsumed goods. As stated on page 6 of the manual, “Consumption is mandatory. However, consume powers can be invoked in any desired order, even if this results in some unconsumed goods left over that could have been consumed with a different order (due to their kinds or number not matching the player’s remaining unused consume powers).” This means Player 1 may sell only one good with the Trade bonus for cards before consuming the remaining goods. This results in a single good being traded for double VPs with bonuses added, while Player 2 must follow the standard consumption rule: selling only one good at the usual trade bonus (one good for 2 VPs in this case) and keeping the rest if desired.
 
