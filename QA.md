@@ -418,36 +418,116 @@ You shouldn't have two of the same development cards in your tableau. From page 
 
 [question-on-consumption](https://boardgamegeek.com/thread/380595/question-on-consumption)
 
+> If I do have goods but no consume powers, do I lose the goods and take no points, or do I simply keep the goods?
+
+That's correct. If you have no consume powers you cannot consume, or be forced to consume. You get to keep the goods.
+
+Note that you can still take Trade - Consume and can still Trade a good.
+
 [shouldn-t-i-get-a-research-labs-produce-bonus-when](https://boardgamegeek.com/thread/1901905/shouldn-t-i-get-a-research-labs-produce-bonus-when)
 
 [negative-red-and-blue-numbers](https://boardgamegeek.com/thread/3017231/negative-red-and-blue-numbers)
 
+> Are the 10 cards with numbers ranging from -6 to +8 advanced starting cards, and why are some red and some blue?
+
+The red are starting military worlds and the blue are starting non military worlds. When starting a game, randomly deal one red and one blue to each player. Each player decides which one to keep after seeing starting hand. The integers are used to determine player order when it makes a difference which is not that common actually (low integer goes first). The reason some are negative is that they were added to the set later and needed to come before others with regard to player order.
+
 [newbie-question-about-consume](https://boardgamegeek.com/thread/602811/newbie-question-about-consume)
 
+> Could someone explain the exact stages of play when one or more players choose either of the Consume cards in the Consume phase?
+
+If one or both players choose Consume Trade, then each player who chose this card first picks one good to trade, adds up all trade bonuses matching the traded good, discards the good, and takes the corresponding number of cards. After that, both players must consume all goods they can using their consume powers on cards, choosing which goods to consume in what order but cannot hold a good if there’s a matching consume power.
+
+For Consume x2, players skip the trade phase and simply take double the VPs they normally would, while still consuming goods if possible. Players can also consume goods in a specific order to retain more goods—for example, if they have a green and a blue good, a green-only consume power, and an any-color consume power, they may consume the green at the any-color power, preserving the blue good.
+
 [sell-goods](https://boardgamegeek.com/thread/1152998/sell-goods)
+> I would like to know what happens in this case:
+> Player 1: has 3 world witch all have goods on them.
+> Player 2: has 2 worlds with goods on.
+> Player 3: has no world with goods.
+
+> Player 1: chooses trading for double VP
+> Player 2: chooses trading for hand cards
+> Player 3: any other phase than 4.
+
+> Player 1: has 3 cards which says +1 VP
+> Player 2: has 1 card which says +2 VP
+> Player 3: who cares
+
+> Can Player 1 sell all of his goods and double the VP, or just one good and double the VP with all bonuses added? Similarly, must Player 2 sell all his goods for normal bonuses without doubling, or can he sell only one of his goods and keep the rest?
+
+No, Player 1 cannot sell all goods for double VP. Consumption is required if possible, though consume powers may be used in any order, which can result in unconsumed goods. As stated on page 6 of the manual, “Consumption is mandatory. However, consume powers can be invoked in any desired order, even if this results in some unconsumed goods left over that could have been consumed with a different order (due to their kinds or number not matching the player’s remaining unused consume powers).” This means Player 1 may sell only one good with the Trade bonus for cards before consuming the remaining goods. This results in a single good being traded for double VPs with bonuses added, while Player 2 must follow the standard consumption rule: selling only one good at the usual trade bonus (one good for 2 VPs in this case) and keeping the rest if desired.
 
 [why-are-discarded-cards-placed-face-down](https://boardgamegeek.com/thread/954170/why-are-discarded-cards-placed-face-down)
 
+> Is there a reason discarded cards must be placed in a messy, face-down pile instead of a neat, face-up pile where all cards are oriented the same way? Can I ignore this rule and arrange the discard pile to look more aesthetically pleasing?
+
+The purpose of discarding cards face-down in a messy pile is to ensure the discard pile is easily distinguishable from the draw pile, reducing the chance of confusion between them. Additionally, face-down discards prevent players from gaining information about which cards remain in the deck.
+
 [clarification-on-produce-power](https://boardgamegeek.com/thread/257167/clarification-on-produce-power)
+
+> What does the specific rare card symbol under the produce power of Rebel Miners indicate, and where does it go? Can it be used on a windfall world if I didn’t choose the production phase, and what additional benefit does it provide given that I already produce a rare good on this card?
+
+All worlds with a solid color inside the circle will produce a good of that color in any produce phase if the world doesn’t already have a good. This icon is simply a reminder of that. Windfall worlds only produce goods on your produce phases (for one windfall world without a good) or via a produce power allowing placement on a windfall world, indicated by a circle with a multicolored or solid halo around it.
 
 [preset-hand-cards](https://boardgamegeek.com/thread/411529/preset-hand-cards)
 
 [once-in-tableau-there-till-end](https://boardgamegeek.com/thread/248337/once-in-tableau-there-till-end)
 
+> Once a card is in the tableau, does it stay there until the end of the game, or can it be discarded or replaced with another card?
+
+Once a card is placed in the tableau, it remains there until the end of the game unless its special power allows it to be discarded for some effect. Cards in the tableau cannot be discarded or replaced with other cards, except for those that have a power that allows them to be discarded.
+
 [question-about-new-economy](https://boardgamegeek.com/thread/489052/question-about-new-economy)
+
+> If the card power during the consume phase allows a player to draw one card, does this mean that the player must draw a card even if they have no goods to consume?
+
+The card power during the consume phase allows a player to draw one card. Therefore, even if the player has no goods to consume, they are still required to draw a card.
 
 [gambling-world-flip-means-all-players-see-the-card](https://boardgamegeek.com/thread/297137/gambling-world-flip-means-all-players-see-the-card)
 
+> When the owner of the gambling world "Flips" a card, is the card revealed to all players at the table, or does only the owner have access to see the card?
+
+When the owner of the gambling world "Flips" a card, the card is revealed to all players at the table.
+
 [military-power-vs-rebel-military-power](https://boardgamegeek.com/thread/557523/military-power-vs-rebel-military-power)
+
+> Is regular military power the same as rebel military power, or are they two separate powers? Can regular military power be used to defeat a rebel world, or is rebel military power absolutely necessary for that?
+
+Regular military counts for conquering any military world. Rebel military is specialized military that only counts toward conquering Rebel military worlds.
 
 [galactic-renassaince-and-mining-league](https://boardgamegeek.com/thread/956527/galactic-renassaince-and-mining-league)
 
 [question-about-develop-and-settle](https://boardgamegeek.com/thread/743364/question-about-develop-and-settle)
 
+> Can a player place more than one development, or more than one settlement, in a single turn if he has the cards to do it?
+
+No, a player cannot place more than one development or settlement in a single turn, even if they have the necessary cards. This is only possible if a power specifically allows it (which does not exist in the base game). However, if playing with the two-player advanced rules (where each player chooses two roles per turn), there could be two separate develop phases in the same turn, allowing a player to place up to two developments.
+
 [consume-power-equal-0](https://boardgamegeek.com/thread/748056/consume-power-equal-0)
+
+> In the Consume phase, if a player has no consume power in their tableau, do they discard their goods without gaining anything, or simply take no action?
+
+If a player has no consume power in their tableau, they do nothing and keep all their goods. If the player has a consume power but can only consume a single good, they use that power for one good and keep the remaining goods.
 
 [question-about-production-and-military-conquest](https://boardgamegeek.com/thread/573864/question-about-production-and-military-conquest)
 
+> If I don’t choose the produce phase, can I still produce on windfall worlds? In a solitaire game, if I have Mining Robots and Mining League, which provide phase 5 abilities to produce on windfall worlds, does this allow me to place goods on two windfall worlds? Additionally, if I had chosen the phase 5 card, would I be able to produce on three windfall worlds?
+
+ If someone else chooses the Produce phase, there will be a produce phase, allowing you to produce on two brown windfall worlds (as long as they don’t already have goods). Mining League and Mining Robots apply only to brown windfall worlds. However, if you choose the Produce phase, you get the produce bonus, which allows production on any windfall world.
+
+> When taking over a world with military, can I use all +X values to take over any military world, including Rebel worlds? I’m confused by Galactic Imperium’s +4 military bonus, which applies only to Rebel worlds—does that mean Galactic Imperium is restricted to Rebel worlds, while other military bonuses apply to all military worlds?
+
+ Yes, Galactic Imperium's +4 with the pink background applies only to Rebel worlds. Military strength with a white background applies to all military worlds, including Rebel worlds. Powers like those on Alpha Centauri and Alien Tech Institute work only for their respective colors (brown and yellow worlds), with Alien Tech Institute not applying to Alien Rosetta Stone World, which is a gray world despite having "ALIEN" in the name.
+
 [6-cost-dev-question](https://boardgamegeek.com/thread/1347335/6-cost-dev-question)
 
+> Does a player score for all the bullet points on a 6-cost development card, or only for the one that gives the highest points?
+
+You score all of the points as listed on the development card. If the rules intended for you to score only the highest one, it would specify that. As it stands, the card explicitly tells you how to score, without indicating that only the highest point value should be counted. According to page 12 of the manual, "For these developments, score end-of-game VPs for every card in its owner’s tableau that satisfies one of the conditions listed on that development (and for every 3 VPs in chips its owner has in the case of Galactic Renaissance). For each 6-cost development, a given card can score in only one of its categories. Conditions listed in ALL CAPS are titles of specific cards. Therefore, for each listed card present in the owner’s tableau, award the indicated VPs."
+
 [2p-adv-develop-timing-question](https://boardgamegeek.com/thread/510237/2p-adv-develop-timing-question)
+
+Can a player who picked Develop Trade use their develop discount in the second develop phase instead of the first, particularly if they have the Interstellar Bank and want to gain extra cards from both phases without placing anything during the first phase?
+
+From page 8 of the manual, "If a player chooses either two Develop or two Settle actions, then two complete, sequential phases of that type occur (with this player receiving a bonus in each of them). If his opponent also chose one of these same actions, then his opponent receives a bonus only for the first of these two phases." This means that you only get the bonus in the first of the two phases in that kind of situation.
