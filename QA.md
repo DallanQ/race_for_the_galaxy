@@ -31,16 +31,7 @@ No, there cannot be more than one card with the same name in your tableau.
 
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
-> I had a produce/consume strategy going, which included Consumer Markets (V: draw one card for each Novelty Good you produced). IRL, I would choose Produce as my role, draw a card for each novelty good, and then produce on a windfall as my bonus. However, the program forced me to choose between drawing a card per novelty good, or producing on a windfall.
-> should I have gotten both the bonus from Consumer Markets and the Role-selection bonus?
-
-Yes, you should have gotten both.
-
 [terraformed-world](https://boardgamegeek.com/thread/405370/terraformed-world)
-
-> Was terraformed world supposed to be a terraforming card for the purpose of scoring?
-
-No, it does not score for any terraforming bonus.
 
 [playing-on-bga-alien-rosetta-stone-world-rules-que](https://boardgamegeek.com/thread/965037/playing-on-bga-alien-rosetta-stone-world-rules-que)
 
@@ -79,7 +70,7 @@ The negative number means it comes before zero (zero to a positive integer were 
 
 [why-cant-i-develop-this-card-keldon](https://boardgamegeek.com/thread/1405185/why-cant-i-develop-this-card-keldon)
 
-> Why can't I develop a duplicate Mining Robots card in Keldon game?
+> Why can't I develop a duplicate Mining Robots card?
 
 You can’t develop a duplicate Mining Robots card (any other card) because the rules state that you’re not allowed to have multiple copies of the same development or world in your tableau. This simply means you cannot have more than one of each development or world.
 
@@ -90,10 +81,6 @@ You can’t develop a duplicate Mining Robots card (any other card) because the 
 No, Goods do not count toward the end game.
 
 [its-really-a-race](https://boardgamegeek.com/thread/445514/its-really-a-race)
-
-> Is the game really a race like the title suggest?
-
-Yes, the game is generally a race.
 
 [what-do-you-do-when-multiple-player-should-get-vp](https://boardgamegeek.com/thread/3294567/what-do-you-do-when-multiple-player-should-get-vp)
 
@@ -108,11 +95,6 @@ Once the VP pool is exhausted, players take from the VP chits that were set asid
 Gray shaded worlds are non-producing worlds. White-shaded worlds, distinguished by a colored halo, are Windfall worlds. Windfall worlds produce a good (matching the halo color) when first settled, and afterward only produce when specific powers are triggered, such as the bonus from calling the Produce phase.
 
 [new-military-tactics-colony-ship](https://boardgamegeek.com/thread/2693866/new-military-tactics-colony-ship)
-
-> When I play New Military Tactics (or Colony Ship) it lets me keep it in the tableau indefinitely until I use it to pay for whichever new card I need it for.
-> Does it work the same way in the board game?
-
-You keep them until you choose to use them.
 
 [can-i-conquer-two-military-worlds-when-two-players](https://boardgamegeek.com/thread/329393/can-i-conquer-two-military-worlds-when-two-players)
 
@@ -234,15 +216,7 @@ Yes, you can sacrifice all three of your goods to Pilgrimage World. However, you
 
 [gambling-world-in-keldon](https://boardgamegeek.com/thread/953816/gambling-world-in-keldon)
 
-> Why can't I select the value "0" during gambling in Keldon's implementation?
-
-You can't select the value '0' during gambling in Keldon's implementation because the card specifies a range of '1-7,' which excludes '0.' However, the house always wins on '0,' and the '0' column is included on the chart to show the total card distribution.
-
 [gambling-world](https://boardgamegeek.com/thread/2141108/gambling-world)
-
-> If I am playing the base game( without the expansion) do I use the Cersion of the Gambling World which comes with the base game or the copy that comes in Rebel vs Imperium?
-
-You use the Cersion of the Gambling world that comes with the base game and not the one that comes with expansions
 
 [brown-contact-specialist](https://boardgamegeek.com/thread/302918/brown-contact-specialist)
 
@@ -274,18 +248,6 @@ Yes, you can still use a card's power for a specific phase even if you don’t p
 
 [robot-with-rules](https://boardgamegeek.com/thread/1233031/robot-with-rules)
 
-> In Solo, robot got the start world "Damaged Alien Factory (7)".
-> I was flipping the dice immediately so the robot got 3 actions, the question was do I get to do the same 3 action aswell?
-
-No, you don't get to do 3 actions because the robot doesn't get to do 3 actions.
-
-The relevant parts of the rules say:
-
-Damaged Alien Factory (7): after every Trade action, if its
-“robot = ” counter is currently $, flip it over to [Produce].
-
-Damaged Alien Factory (7): after every Produce action, if its “robot = ” counter is currently [Produce], flip it over to $.
-
 [questions-and-looking-for-a-faq](https://boardgamegeek.com/thread/695182/questions-and-looking-for-a-faq)
 
 > during Phase II / Phase III, can you make more than 1 development, world?
@@ -300,19 +262,9 @@ No, you do not count cards with trade power. Trade ($) and Consume (IV) are 2 di
 
 [question-on-6-cost-development-scoring](https://boardgamegeek.com/thread/850533/question-on-6-cost-development-scoring)
 
-> On a card like the FREE TRADE ASSOC., it says you get VPs for the conditions listed. On that card it has 2vps for a CONSUMER MARKETS, EXPANDING COLONY.
-> Am I right that it means you need both cards to get the 2 VP?
-
-You do not need both. You get 2 points for each card you you.
-
 [takeover-confusionkeldon-bug](https://boardgamegeek.com/thread/555381/takeover-confusionkeldon-bug)
 
 [dont-understand-why-i-need-to-pay-less](https://boardgamegeek.com/thread/730282/dont-understand-why-i-need-to-pay-less)
-
-> I wish to develop a colony ship, at a cost of 2 , yet the AI asks for a single card only, while I have no bonus of any kind open in my tableau..
-> Don't understand why I need to pay less?
-
-Every time you pick an action, you get a small bonus to that action (opposed to other people's actions - you can use them, but you don't get the small bonus). If you pick "develop" as your action, you get a small bonus to your develop: a discount of 1.
 
 [icon-for-non-military-worlds-does-this-include-win](https://boardgamegeek.com/thread/286592/icon-for-non-military-worlds-does-this-include-win)
 
@@ -397,10 +349,6 @@ No. Research Labs does not allow you to produce a good on an alien world by itse
 It is simultaneous. Both players lay a card down and flip them up at the same time. If either player is choosing not to develop, the card should be taken back into the player's hand instead of flipped over. As long as the players are acting in good faith this should not be a problem. If you find it a problem, players can secretly write down their intentions in important cases like this one.
 
 [question-on-discounts](https://boardgamegeek.com/thread/3283864/question-on-discounts)
-
-> Can I stack the discounts from Rebel Cantina, Rebel Pact, and Rebel Alliance when settling a military world as a non-military world?
-
-Some powers enable you to settle military worlds by paying, like you do for non-military worlds. You can only use one of them to settle a world. Other powers modify the cost, and you can use any number of those. For example, Replicant Robots or Rebel Pact. You could use both of those modifier powers with either Rebel Cantina or Rebel Alliance.
 
 [draft-sample-rounds-of-play-posted](https://boardgamegeek.com/thread/517610/draft-sample-rounds-of-play-posted)
 
@@ -502,10 +450,6 @@ You cannot use these $ powers unless you have selected Trade (or have the 6-deve
 [15-games-with-bad-bonus-interpretation](https://boardgamegeek.com/thread/297304/15-games-with-bad-bonus-interpretation)
 
 [terraforming-colonists-plus-6devs](https://boardgamegeek.com/thread/1962655/terraforming-colonists-plus-6devs)
-
-> How many points is Terraforming Colonists supposed to score with Terraforming Guild and Prospecting Guild? e.g. Prospecting Guild reads "2/Brown World, 1/Other World, 1/Terraforming Card". Terraforming Card comes before Other World, so it should be 2? Or there's an unwritten rule that each card should score once, so only 1? Thematically, I'd say it should be worth 2, because it's a world but more about prospecting than usual worlds, but you could argue that it should only be worth 1 because it's "more of a development than a world" (maybe).
-
-2 for Terraforming Guild, 1 for Prospecting Guild, 2 for Golden Age of Terraforming. Go down the list of thing that score until you got a match then stop.
 
 [questions-this-worlds-good-trade-power-trade-leagu](https://boardgamegeek.com/thread/372092/questions-this-worlds-good-trade-power-trade-leagu)
 
