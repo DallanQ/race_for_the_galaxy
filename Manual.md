@@ -429,11 +429,11 @@ Mostly, play can and should be performed simultaneously.
 
 However, there are a few cases where player order can matter, such as:
 
-  - when there are only a few cards left in the card supply, or
+- when there are only a few cards left in the card supply, or
 
-  - when the VP chips might run out in a Consume phase, or
+- when the VP chips might run out in a Consume phase, or
 
-  - when players are resolving settling near the end of the game.
+- when players are resolving settling near the end of the game.
 
     Near the end of the game, if several players have New Military Tactics or Colony Ships, one player may wish to know whether another player is using (and discarding) one of these cards or placing a twelfth card in their tableau (thus ending the game that round), before deciding whether to use one of these cards themselves.
 
@@ -447,13 +447,13 @@ Resolve any timing issues clockwise from the player with the lowest numbered (or
 
 Initially, two players should just play the standard rules. Once you're familiar with the game, play with the following changes:
 
-  - Each player uses a full set of nine action cards and chooses two of them at the start of each round.
+- Each player uses a full set of nine action cards and chooses two of them at the start of each round.
 
-  - A player selecting both Explore bonuses draws eight cards and keeps two of them (plus the effects of any applicable powers).
+- A player selecting both Explore bonuses draws eight cards and keeps two of them (plus the effects of any applicable powers).
 
-  - If a player chooses either two Develop or two Settle actions, then two complete, sequential phases of that type occur (with this player receiving a bonus in each of them). If their opponent also chose one of these same actions, then this opponent receives a bonus only for the first of these two phases. Powers placed in the first such phase can be used in the second one.
+- If a player chooses either two Develop or two Settle actions, then two complete, sequential phases of that type occur (with this player receiving a bonus in each of them). If their opponent also chose one of these same actions, then this opponent receives a bonus only for the first of these two phases. Powers placed in the first such phase can be used in the second one.
 
-  - A player who selects both Consume bonuses must sell one good before consuming other goods for double VPs.
+- A player who selects both Consume bonuses must sell one good before consuming other goods for double VPs.
 
 ### 2 Player Game (for experienced players) Summary (page 8)
 
@@ -493,6 +493,8 @@ Draw 2 more cards to select from; keep 1 more card.
 
 ### II: DEVELOP (page 9)
 
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
+
 #### Draw (page 9)
 
 > Image of a hand holding a card with 1 inside.
@@ -511,9 +513,9 @@ Reduce the cost to place a development ( a biege colored diamond shape ) by 1 or
 
 Draw 1 card after placing a development ( a biege colored diamond shape ).
 
-**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed.**
-
 ### III: SETTLE
+
+**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
 #### Reduce Cost (page 9)
 
@@ -536,8 +538,6 @@ The player may discard this card from their tableau to reduce the cost of placin
 *This cannot be used to place an Alien production or windfall world (icon of a yellow circle with a red and black border, and an icon of a white circle with a red and black border and a yellow halo).*
 
 *It Can Place the* Alien Rosetta Stone World.
-
-**Powers cannot reduce costs below 0 nor take effect during the phase in which they are placed. Cost reductions can apply when using a "Pay for Military" power to settle a military world ( a white circle with a red border ).**
 
 #### Military (page 9)
 
@@ -823,102 +823,70 @@ May discard 1 card from hand to produce a good on a windfall world (icon of a wh
 
 ## ABOUT THE CARDS (Page 11)
 
-Distribution (120 game cards):
+### Distribution (120 game cards): (Page 11)
 
-  - 11 start worlds: 8 (icon of a white circle with black border) and 3(icon of a white circle with red border)
+- 11 start worlds: 8 (icon of a white circle with black border) and 3(icon of a white circle with red border)
   
-  - 22 other military worlds (icon of a white circle with red border)
-  
-  - 37 other non-military worlds (icon of a white circle with black border)
-  
-  - 12 6-cost (icon of a hexagon with ? inside) developments (icon of a biege colored diamond)
-  
-  - 38 other developments: 19x2 (icon of a biege colored diamond)
+- 22 other military worlds (icon of a white circle with red border)
+- 37 other non-military worlds (icon of a white circle with black border)
+- 12 6-cost (icon of a hexagon with ? inside) developments (icon of a biege colored diamond)
+- 38 other developments: 19x2 (icon of a biege colored diamond)
 
- 25 worlds are military worlds(icon of a white circle with red border):
+### 25 worlds are military worlds(icon of a white circle with red border): (Page 11)
 
-  - 6 defense 1 (1 Rebel)
-  
-  - 9 defense 2 (1 Alien, 1 Rebel, 3 Start)
-  
-  - 3 defense 3 (2 Rebel)
-  
-  - 2 defense 4 (1 Alien)
-  
-  - 2 defense 5 (1 Alien, 1 Rebel)
-  
-  - 2 defense 6 (1 Alien, 1 Rebel)
-  
-  - 1 defense 7 (1 Rebel)
+- 6 defense 1 (1 Rebel)
+- 9 defense 2 (1 Alien, 1 Rebel, 3 Start)
+- 3 defense 3 (2 Rebel)
+- 2 defense 4 (1 Alien)
+- 2 defense 5 (1 Alien, 1 Rebel)
+- 2 defense 6 (1 Alien, 1 Rebel)
+- 1 defense 7 (1 Rebel)
 
     *Contact Specialist not allowed for 4 Alien (icon of a white circle with red border)*
 
-22 cards provide Military:
+### 22 cards provide Military: (Page 11)
 
-  - 7 (icon of a biege colored diamond) 2x +1, 3x +2, 2x +3
-  
-  - 2 (icon of a biege colored diamond) provide +3 upon discard
-  
-  - 7 (icon of a white circle with red border) 5x +1, 1x +2, 1x +3
-  
-  - 2 (icon of a white circle with black border) +1
-  
-  - 4 start worlds: (icon of a white circle with black border) +1;(icon of a white circle with red border) 2x +1, +2
-  
-    Galactic Imperium: +4 vs 7 Rebel (icon of a light red circle with red border) 
-    
+- 7 (icon of a biege colored diamond) 2x +1, 3x +2, 2x +3
+- 2 (icon of a biege colored diamond) provide +3 upon discard
+- 7 (icon of a white circle with red border) 5x +1, 1x +2, 1x +3
+- 2 (icon of a white circle with black border) +1
+- 4 start worlds: (icon of a white circle with black border) +1;(icon of a white circle with red border) 2x +1, +2
+      Galactic Imperium: +4 vs 7 Rebel (icon of a light red circle with red border) 
     1 (icon of a biege colored diamond) and 1 (icon of a white circle with black border) are +2 vs 4 Alien (icon of a white circle with red border)
-
     Alpha Centauri: +1 vs. 3 Rare (icon of a white circle with red border)
-    
     5 cards have -1 Military
 
-95 cards are placed by payment:
+### 95 cards are placed by payment: (Page 11)
 
-  - 2 cost 0: 0 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
-  
-  - 18 cost 1: 12 (icon of a biege colored diamond) and 6 (icon of a white circle with black border)
-  
-  - 29 cost 2: 12 (icon of a biege colored diamond) and 17 (icon of a white circle with black border)
-  
-  - 13 cost 3: 4 (icon of a biege colored diamond) and 9 (icon of a white circle with black border)
-  
-  - 12 cost 4: 8 (icon of a biege colored diamond) and 4 (icon of a white circle with black border)
-  
-  - 7 cost 5: 2 (icon of a biege colored diamond) and 5 (icon of a white circle with black border)
-  
-  - 14 cost 6: 12 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
+- 2 cost 0: 0 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
+- 18 cost 1: 12 (icon of a biege colored diamond) and 6 (icon of a white circle with black border)
+- 29 cost 2: 12 (icon of a biege colored diamond) and 17 (icon of a white circle with black border)
+- 13 cost 3: 4 (icon of a biege colored diamond) and 9 (icon of a white circle with black border)
+- 12 cost 4: 8 (icon of a biege colored diamond) and 4 (icon of a white circle with black border)
+- 7 cost 5: 2 (icon of a biege colored diamond) and 5 (icon of a white circle with black border)
+- 14 cost 6: 12 (icon of a biege colored diamond) and 2 (icon of a white circle with black border)
 
-26 worlds are windfall worlds (icon of a white circle with a black and red border and a blue, green, brown and yellow halo):
+### 26 worlds are windfall worlds (icon of a white circle with a black and red border and a blue, green, brown and yellow halo): (Page 11)
 
-  - 6 Novelty (icon of a white circle with a black and red border and a blue halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
-  
-  - 7 Rare (icon of a white circle with a black and red border and a brown halo) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
-  
-  - 7 Genes (icon of a white circle with a black and red border and a green halo) : 2 (icon of a white circle with black border) and 5 (icon of a white circle with red border)
-  
-  - 6 Alien (icon of a yellow circle with a black and red border and a yellow halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
+- 6 Novelty (icon of a white circle with a black and red border and a blue halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
+- 7 Rare (icon of a white circle with a black and red border and a brown halo) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 7 Genes (icon of a white circle with a black and red border and a green halo) : 2 (icon of a white circle with black border) and 5 (icon of a white circle with red border)
+- 6 Alien (icon of a yellow circle with a black and red border and a yellow halo) : 3 (icon of a white circle with black border) and 3 (icon of a white circle with red border)
 
-22 worlds produce a good:
+### 22 worlds produce a good: (Page 11)
 
-  - 9 Novelty (icon of a blue circle with a black and red border) : 8 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
-  
-  - 7 Rare (icon of a brown circle with a black and red border) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
-  
-  - 4 Genes (icon of a green circle with a black and red border) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
-  
-  - 2 Alien (icon of a yellow circle with a black and red border) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
-
+- 9 Novelty (icon of a blue circle with a black and red border) : 8 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 7 Rare (icon of a brown circle with a black and red border) : 5 (icon of a white circle with black border) and 2 (icon of a white circle with red border)
+- 4 Genes (icon of a green circle with a black and red border) : 3 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
+- 2 Alien (icon of a yellow circle with a black and red border) : 1 (icon of a white circle with black border) and 1 (icon of a white circle with red border)
     6 (icon of a biege colored diamond) and 2 (icon of a white circle with black border) produce a good at a specific kind of windfall world;
-
     2 (icon of white circle with black border) produce one at any (icon of a white circle with a black and red border and a blue, brown, green, and yellow halo) world.
 
-34 cards consume one or more goods:
+### 34 cards consume one or more goods: (Page 11)
 
-  - 17 (icon of white circle with black border) (4 start) and 2 (icon of white circle with red border)
+- 17 (icon of white circle with black border) (4 start) and 2 (icon of white circle with red border)
   
-  - 15 (icon of biege colored diamond)
-  
+- 15 (icon of biege colored diamond)
     2 (icon of biege colored diamond) and 1 (icon of white circle with red border) consume cards for VPs.
 
 ## 6-COST DEVELOPMENTS (icon of hexagon with ? inside) POWERS (Page 12)
