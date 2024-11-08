@@ -8,7 +8,7 @@ No you don’t draw a card at the end of each round. Cards are drawn through spe
 
 > Do grey worlds produce goods?
 
-No they don't, grey worlds do not produce goods.
+No they don't, grey worlds do not produce goods. Grey worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
 
 [scoring-question](https://boardgamegeek.com/thread/1093697/scoring-question)
 
@@ -27,7 +27,7 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 
 > Let say I already developed "Replicant Robots" (which gives me -2 to place world) can I develop another "Replicant Robots" to have a -4 for placing world? (there are 2 Replicant Robots in the deck).
 
-No, there cannot be more than one card with the same name in your tableau.
+No, there cannot be more than one card with the same name in your tableau. You can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
 
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
@@ -116,7 +116,7 @@ Yes you can, the Colony Ship allows you to place any world that normally require
 > The rules do not seem to be clear as to whether the twelve cards only refer to planets and developments, or if that also includes the goods card on planets.
 > Does good cards count towards the game-over trigger?
 
-No good cards do not count towards game-over trigger.
+No good cards do not count towards game-over trigger. From the rule book: “a player has 12 or more face up cards in their card tableau” and "Each player’s card tableau is in front of them. It is one or more rows of face up cards: developments and worlds”
 
 [do-sale-bonuses-add-up](https://boardgamegeek.com/thread/325210/do-sale-bonuses-add-up)
 
