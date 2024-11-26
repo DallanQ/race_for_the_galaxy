@@ -11,9 +11,9 @@ After all chosen phases are done, players must discard down to 10 (game) cards b
 
 [production-phase-question](https://boardgamegeek.com/thread/599033/production-phase-question)
 
-> Do grey worlds produce goods?  
+> Do grey worlds produce goods?
 
-No they don't, gray worlds do not produce goods. Gray worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
+No they don't, grey worlds do not produce goods. Grey worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
 
 ----
 Page 5
@@ -47,7 +47,7 @@ Players choosing Consume: Trade also apply all relevant Trade powers (listed nex
 
 > Let say I already developed "Replicant Robots" (which gives me -2 to place world) can I develop another "Replicant Robots" to have a -4 for placing world? (there are 2 Replicant Robots in the deck).
 
-No, there cannot be more than one card with the same name in your tableau. you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
+No, there cannot be more than one card with the same name in your tableau. You can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
 
 ----
 Page 4
@@ -118,9 +118,17 @@ A player may not build a given development if another copy of it is currently in
 
 [end-condition-which-cards-count](https://boardgamegeek.com/thread/301118/end-condition-which-cards-count)
 
+> Do goods count towards the end condition?
+
+No, Goods do not count toward the end game.
+
 [its-really-a-race](https://boardgamegeek.com/thread/445514/its-really-a-race)
 
 [what-do-you-do-when-multiple-player-should-get-vp](https://boardgamegeek.com/thread/3294567/what-do-you-do-when-multiple-player-should-get-vp)
+
+> What do you do when multiple player should get VP but there aren't enough VP pieces left?
+
+Once the VP pool is exhausted, players take from the VP chits that were set aside at the beginning of the game. Then the game ends after the produce phase. Exhausting the VP pool is one of the end game triggers.
 
 [gray-versus-white-world-shading](https://boardgamegeek.com/thread/260656/gray-versus-white-world-shading)
 
@@ -139,7 +147,7 @@ Windfalls: some worlds have a colored 'halo' around their circle, showing that t
 
 > If more than one player chooses Settle (III) as their action card (role?), can a player re-use military points in order to conquer TWO worlds in that one round?
 
-No, a player cannot re-use military points to conquer multiple worlds in a single Settle phase, in a regular game, the Settle action occurs only once per round, and each player can settle only one world, no matter how many players chose the Settle role.
+No, a player cannot re-use military points to conquer multiple worlds in a single Settle phase. In a regular game, the Settle action occurs only once per round, and each player can settle only one world, no matter how many players chose the Settle role.
 However, in a 2-player experienced game, a player can choose two Settle actions in one turn.
 According to the 2 player game rules, "If a player chooses either two Develop or two Settle actions, then two complete, non-sequential phases of that type occur (with this player receiving a bonus in each). Powers gained in the first phase can be used in the second one."
 
@@ -160,6 +168,12 @@ Page 5
 A Contact Specialist enables a player to place and pay for a military world (except an Alien military world), at a cost equal to one less than the world’s defense.
 
 [goods-count-towards-game-over-trigger](https://boardgamegeek.com/thread/289389/goods-count-towards-game-over-trigger)
+
+> The rules state that once anyone has twelve cards in their tableau at the end of a round, then you end the game (total up VPs, etc.).
+> The rules do not seem to be clear as to whether the twelve cards only refer to planets and developments, or if that also includes the goods card on planets.
+> Does good cards count towards the game-over trigger?
+
+No good cards do not count towards game-over trigger. From the rule book: “a player has 12 or more face up cards in their card tableau” and "Each player’s card tableau is in front of them. It is one or more rows of face up cards: developments and worlds”
 
 [do-sale-bonuses-add-up](https://boardgamegeek.com/thread/325210/do-sale-bonuses-add-up)
 
@@ -226,6 +240,12 @@ Yes, the Alpha Centauri bonuses apply to both brown production worlds and brown 
 
 [consume-cards-1-player-plays-one-other-plays-the-o](https://boardgamegeek.com/thread/338846/consume-cards-1-player-plays-one-other-plays-the-o)
 
+> In a 2 player game, if both players lay a consume card, but of different varieties (one the Trade and other 2xVP) then:
+> Who goes first? We played that the Trade card went first so player used bonus then consumed as normal. By doing this though, did this mean that I had to consume as part of that person's card and thus proving my own consume action irrelevant (and thus depriving me of my 2xVPbonus)?
+> Or is it that, aside from the bonuses, both cards are treated as one, so we each perform our bonus actions, but consume only once?
+
+Yes, aside from the bonuses, both cards are traeted as one, so both players perform bonus actions but consume only once.
+
 [galactic-survey-seti](https://boardgamegeek.com/thread/2370147/galactic-survey-seti)
 
 > Does the third VP scoring condition, “1 VP per other black/red world,” apply to any settlement card, or only to those specifically labeled as "world"?
@@ -257,10 +277,6 @@ In the base set, starting worlds are dealt randomly. According to the rules on p
 Yes, you can sacrifice all three of your goods to Pilgrimage World. However, you cannot leave any goods behind for a different consume power. You can use your consume actions in any order, but once you choose a consume action, you must use it to its fullest extent.
 
 [gambling-world-in-keldon](https://boardgamegeek.com/thread/953816/gambling-world-in-keldon)
-
-> Why can't I select the value "0" during gambling in Keldon's implementation?
-
-You can't select the value '0' during gambling in Keldon's implementation because the card specifies a range of '1-7,' which excludes '0.' However, the house always wins on '0,' and the '0' column is included on the chart to show the total card distribution.
 
 [gambling-world](https://boardgamegeek.com/thread/2141108/gambling-world)
 
@@ -296,6 +312,10 @@ Yes, you can still use a card's power for a specific phase even if you don’t p
 
 [questions-and-looking-for-a-faq](https://boardgamegeek.com/thread/695182/questions-and-looking-for-a-faq)
 
+> during Phase II / Phase III, can you make more than 1 development, world?
+
+You can only build one development in the develop phase, and settle one world during the settle phase. (If you have "Improved Logistics", that specifically allows you to settle a second world.)
+
 [new-economy](https://boardgamegeek.com/thread/351289/new-economy)
 
 > With "new economy" do you count cards with trade power?
@@ -328,7 +348,7 @@ New Economy does not give VP for cards with a trade power ($); it only applies t
 
 > Is it acceptable to use cards from the discard pile when producing goods, or to put consumed goods back into the draw deck, and would either of these changes significantly alter the game?
 
-The goods come from the draw deck by design to prevent players from mining the deck for specific cards using +5 explore. This mechanic also ensures that certain advantageous cards are not always accessible, as they may enter play as goods and not enter players' hands until the next shuffle.
+The goods come from the draw deck by design to prevent players from mining the deck for specific cards using +5 explore. This mechanics also ensures that certain advantageous cards are not always accessible, as they may enter play as goods and not enter players' hands until the next shuffle.
 
 > Could tokens be used to represent goods?
 
@@ -386,6 +406,10 @@ No. Research Labs does not allow you to produce a good on an alien world by itse
 
 [whats-the-final-word-on-play-order](https://boardgamegeek.com/thread/380682/whats-the-final-word-on-play-order)
 
+> How can we handle the develop and settle phases when players are waiting to see each other's actions before deciding?
+
+It is simultaneous. Both players lay a card down and flip them up at the same time. If either player is choosing not to develop, the card should be taken back into the player's hand instead of flipped over. As long as the players are acting in good faith this should not be a problem. If you find it a problem, players can secretly write down their intentions in important cases like this one.
+
 [question-on-discounts](https://boardgamegeek.com/thread/3283864/question-on-discounts)
 
 [draft-sample-rounds-of-play-posted](https://boardgamegeek.com/thread/517610/draft-sample-rounds-of-play-posted)
@@ -396,14 +420,26 @@ No. Research Labs does not allow you to produce a good on an alien world by itse
 
 Is this a bug, or do the rules state that the game only ends if the VP pool goes into a negative number?
 
-The game ends at the *end of the round* in which the initial VP pool is exhausted (with additional VP chips added as needed to finish out that round). The pool does not need to go "negative".
-Since Prestige is earned at the start of a round, it is possible that the prestige leader's VP (or VPs if a prestige lead tie exists) exactly drains the pool *before* actions are selected, thereby giving you the sense that the game is going on when it shouldn't be, even though in fact you're just finishing out the final round.
+The game ends at the _end of the round_ in which the initial VP pool is exhausted (with additional VP chips added as needed to finish out that round). The pool does not need to go "negative".
+Since Prestige is earned at the start of a round, it is possible that the prestige leader's VP (or VPs if a prestige lead tie exists) exactly drains the pool _before_ actions are selected, thereby giving you the sense that the game is going on when it shouldn't be, even though in fact you're just finishing out the final round.
 
 [development-card-question](https://boardgamegeek.com/thread/760643/development-card-question)
+
+> Am i right or wrong to say, "A player may not build a given development if another copy of it is currently in his tableau."
+
+Two different people can play the same development into their tableaus.
+
+The same person cannot play two copies of the same development into their own tableau.
 
 [consuming-with-trade-bonus-is-this-correct](https://boardgamegeek.com/thread/2419956/consuming-with-trade-bonus-is-this-correct)
 
 [victory-points-question](https://boardgamegeek.com/thread/978288/victory-points-question)
+
+> The rule book says 12 Vp will be used for each player. What happens if more are needed before the end of the round ?
+
+That's one of the end-game conditions.
+
+Every player receives all VP points he is entitled to. If the VP pool is exhausted, take the necessary supplementary chips from the box and at the end of that round the game is over.
 
 [planets-with-gray-filling](https://boardgamegeek.com/thread/559368/planets-with-gray-filling)
 
@@ -432,6 +468,15 @@ Yes, when Improved Logistics is in play, the player must still pay the cost (eit
 [not-understanding-how-the-new-economy-development](https://boardgamegeek.com/thread/3350772/not-understanding-how-the-new-economy-development)
 
 [newbie-question-consume-phase](https://boardgamegeek.com/thread/462292/newbie-question-consume-phase)
+
+> If I have a world (α Centauri) that has produced a good, am I unable to turn that good into cards or VPs if I do not have any card in my tableau with consume powers?
+
+There are two 'role cards' that activate the Consume phase (IV).
+
+The first is Consume:Trade. This allows you to take a good from any world (Alpha Centauri in this case); discard the good; and draw a number of cards based on the good's type (3 for a Rare on Alpha Centauri in this example).
+**This is the only way to TRADE a good and is one of the most efficient way to get new cards into your hand.**
+
+The other role card is Consume:x2. This allows you to double the VICTORY POINT part of any consumption. Consumption only happens on cards in your tableau and are next to the 'IV' symbol. They usually represent a good turning into some combination of VPs or CARDs.
 
 [explaning-this-game-for-the-second-time](https://boardgamegeek.com/thread/797617/explaning-this-game-for-the-second-time)
 
@@ -469,6 +514,19 @@ You cannot use these $ powers unless you have selected Trade (or have the 6-deve
 [terraforming-colonists-plus-6devs](https://boardgamegeek.com/thread/1962655/terraforming-colonists-plus-6devs)
 
 [questions-this-worlds-good-trade-power-trade-leagu](https://boardgamegeek.com/thread/372092/questions-this-worlds-good-trade-power-trade-leagu)
+
+> How exactly does the "This World's Good" $ trade power work? The rule on page 10 reads: "Draw 1 or 3 more cards when selling a good from the world [parenthesis with a grayed circle] with this power (plus any other applicable Trade powers, possibly due to kind.)"
+> What is "this" world? The same world that has the "This World's Good" power (so in other words, it only works with a good from exactly one card)? What does the gray circle symbol mean?
+
+"This World" means the same world that the good was produced on. So other trade powers are generic and work on any good, but when it says "this world" that trade power can only be used on the good produced on that world.
+
+> How does the Trade League consumer power work and how is it different than the Black Market Trading World consumer power. I understand that the Black Market card is not supposed to work with the trade action, but not sure exactly how the Trade League Power works. Would the TL consume power allow me to trade one alien card good fro 10 cards? That would be 5 for the trade / consumer action and 5 for the Trade League power.
+
+Normally you can only trade one good per trade phase. The trade league allows you to "consume" rather than trade a good, for the trade value in cards. Effectively allowing you to "trade" more than once, once as a trade, again as a consume.
+
+> What does a solid gray circle mean? I take it to mean that the world does not produce and is not a windfall world. Is that right and is there anything else it means?
+
+Gray does mean it does not produce and is not a windfall. Doesn't mean anything else.
 
 [6-point-devs-question](https://boardgamegeek.com/thread/296339/6-point-devs-question)
 
@@ -522,6 +580,11 @@ All worlds with a solid color inside the circle will produce a good of that colo
 
 [preset-hand-cards](https://boardgamegeek.com/thread/411529/preset-hand-cards)
 
+> I'm trying to figure out Race for the galaxy, but I can't even find the preset starting hand cards
+> which cards are for which color?
+
+Color is irrelevant - the cards go with the start world with the matching number.
+
 [once-in-tableau-there-till-end](https://boardgamegeek.com/thread/248337/once-in-tableau-there-till-end)
 
 > Once a card is in the tableau, does it stay there until the end of the game, or can it be discarded or replaced with another card?
@@ -548,6 +611,19 @@ Regular military counts for conquering any military world. Rebel military is spe
 
 [galactic-renassaince-and-mining-league](https://boardgamegeek.com/thread/956527/galactic-renassaince-and-mining-league)
 
+> Research Labs, Artist colony and Galactic transetters is worth 3pts each if you have them all or just 3pts?
+> with Mining League, if I have both Conglomerate and Robots do I get 4pts or just 2pts?
+
+Page 12 of the rules covers scoring for 6-cost developments such as these.
+
+It says "For these developments, score end of the game VPs **for every card** in its owner’s tableau that satisfies one of the conditions listed on that development" (emphasis added).
+
+Thus:
+
+1. For Galactic Renaissance, 3 points for **each** of Research Labs, Galactic Trendsetters, and Artist Colony.
+2. For Mining League, 2 points for **each** of Mining Robots and Mining Conglomerate.
+3. For Free Trade Association, 2 points for **each** of Consumer Markets and Expanding Colony.
+
 [question-about-develop-and-settle](https://boardgamegeek.com/thread/743364/question-about-develop-and-settle)
 
 > Can a player place more than one development, or more than one settlement, in a single turn if he has the cards to do it?
@@ -564,11 +640,11 @@ If a player has no consume power in their tableau, they do nothing and keep all 
 
 > If I don’t choose the produce phase, can I still produce on windfall worlds? In a solitaire game, if I have Mining Robots and Mining League, which provide phase 5 abilities to produce on windfall worlds, does this allow me to place goods on two windfall worlds? Additionally, if I had chosen the phase 5 card, would I be able to produce on three windfall worlds?
 
- If someone else chooses the Produce phase, there will be a produce phase, allowing you to produce on two brown windfall worlds (as long as they don’t already have goods). Mining League and Mining Robots apply only to brown windfall worlds. However, if you choose the Produce phase, you get the produce bonus, which allows production on any windfall world.
+If someone else chooses the Produce phase, there will be a produce phase, allowing you to produce on two brown windfall worlds (as long as they don’t already have goods). Mining League and Mining Robots apply only to brown windfall worlds. However, if you choose the Produce phase, you get the produce bonus, which allows production on any windfall world.
 
 > When taking over a world with military, can I use all +X values to take over any military world, including Rebel worlds? I’m confused by Galactic Imperium’s +4 military bonus, which applies only to Rebel worlds—does that mean Galactic Imperium is restricted to Rebel worlds, while other military bonuses apply to all military worlds?
 
- Yes, Galactic Imperium's +4 with the pink background applies only to Rebel worlds. Military strength with a white background applies to all military worlds, including Rebel worlds. Powers like those on Alpha Centauri and Alien Tech Institute work only for their respective colors (brown and yellow worlds), with Alien Tech Institute not applying to Alien Rosetta Stone World, which is a gray world despite having "ALIEN" in the name.
+Yes, Galactic Imperium's +4 with the pink background applies only to Rebel worlds. Military strength with a white background applies to all military worlds, including Rebel worlds. Powers like those on Alpha Centauri and Alien Tech Institute work only for their respective colors (brown and yellow worlds), with Alien Tech Institute not applying to Alien Rosetta Stone World, which is a gray world despite having "ALIEN" in the name.
 
 [6-cost-dev-question](https://boardgamegeek.com/thread/1347335/6-cost-dev-question)
 
