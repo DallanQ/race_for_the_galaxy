@@ -4,11 +4,21 @@
 
 No you don’t draw a card at the end of each round. Cards are drawn through specific actions, like the Explore phase or special card effects during other phases.
 
+----
+Page 8
+
+After all chosen phases are done, players must discard down to 10 (game) cards before starting the next round.
+
 [production-phase-question](https://boardgamegeek.com/thread/599033/production-phase-question)
 
 > Do grey worlds produce goods?  
 
 No they don't, gray worlds do not produce goods. Gray worlds are typically "windfall" worlds, meaning they may start with a good when they are initially settled, but they cannot produce new goods during the Produce phase. Only colored worlds (blue, brown, green, and yellow) can produce goods.
+
+----
+Page 5
+
+Windfalls: some worlds have a colored “halo” around their circle, showing that they are windfall worlds and that a good is to be put on them when they are first settled. To do so, as part of placing the world in a player’s tableau, they take a card face down — without looking at it — from the card supply and put it on top of the world’s lower right portion (to avoid hiding the world’s VPs and powers). This card represents a good of the kind indicated by the color of the world’s halo.
 
 [scoring-question](https://boardgamegeek.com/thread/1093697/scoring-question)
 
@@ -17,11 +27,21 @@ No they don't, gray worlds do not produce goods. Gray worlds are typically "wind
 No, you only get 1 VP and 1 card per transaction when you sell a single good during the Consume phase.
 Note that You have to consume as much as you can and cannot keep a resource for a later usage neither, but you can choose the order in which you apply consume powers.
 
+----
+Page 6
+
+Each consume power can be used only once in a consume phase. Some powers allow multiple goods, 'up to' some number, to be discarded, with each good producing an effect. Such powers must be fully used, if possible, when invoked.
+
 [multiple-trade-abilities](https://boardgamegeek.com/thread/284334/multiple-trade-abilities)
 
 > When you choose "Consume: Trade" and one good is traded, can you apply all applicable trade abilities which are on worlds or developments in your tableau?
 
 Yes, when you choose "Consume: Trade", you can apply all applicable trade abilities from your worlds or developments in your tableau to that single trade transaction. This includes those which are due to the specific kind of good sold as well as those which are due to selling any kind of good.
+
+----
+Page 6
+
+Players choosing Consume: Trade also apply all relevant Trade powers (listed next to $) to this sale (typically, to draw extra cards).
 
 [can-one-place-down-cards-with-the-same-names-same](https://boardgamegeek.com/thread/671277/can-one-place-down-cards-with-the-same-names-same)
 
@@ -29,21 +49,27 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 
 No, there cannot be more than one card with the same name in your tableau. you can't stack the effects to achieve a -4 cost but you can develop another "Replicant Robots" card if you draw it. This simply means that you can only develop one copy of "Replicant Robots" at a time in your tableau, which replaces the previous copy in your tableau and gives you a -2 cost for placing world. You can't have both cards in play simultaneously.
 
+----
+Page 4
+
+A player may not build a given development if another copy of it is currently in their tableau.
+
 [production-bonuses-should-stack-right](https://boardgamegeek.com/thread/721617/production-bonuses-should-stack-right)
 
 [terraformed-world](https://boardgamegeek.com/thread/405370/terraformed-world)
 
 [playing-on-bga-alien-rosetta-stone-world-rules-que](https://boardgamegeek.com/thread/965037/playing-on-bga-alien-rosetta-stone-world-rules-que)
 
-> Is the Alien Rosetta Stone an Alien card or not?
-
-Yes, the Alien Rosetta Stone is an Alien card but it does not produce Alien technology goods (or a windfall world for those goods) and therefore it triggers a 2 points reward. This also means that the colony ship can be used to colonize the Alien Rosetta Stone World, since that world doesn't produce Alien technology goods.
-
 [space-mercenaries-plus-improved-logistics](https://boardgamegeek.com/thread/1087399/space-mercenaries-plus-improved-logistics)
 
 > I was playing with Improved Logistics on the tableau. I chose develop, settle, and produce phases. After developing Space Mercenaries, I discarded a card to settle a 2-defense military world, which raised my military temporarily. When I used Improved Logistics to settle again, my two 3-defense military worlds were grayed out, indicating they couldn’t be settled. I thought I would be able to discard another card to reach 3 military strength for this phase. Why couldn’t I settle these worlds?
 
 You need to use the discard power all at once for each settle action. You can only use a power once per phase, so when you discarded one card to gain 1 military for the first settle action, that counted as your single use of the power for that settle. This means you couldn’t discard another card to add 1 more military for a second attempt to settle.
+
+----
+Page 6
+
+Powers are resolved sequentially (even though their effects can be cumulative). A player cannot 'interrupt' one power with another.
 
 [do-discounts-for-planets-stack](https://boardgamegeek.com/thread/1901858/do-discounts-for-planets-stack)
 
@@ -52,19 +78,30 @@ You need to use the discard power all at once for each settle action. You can on
 If you are using Improved Logistics to settle the world, you don't receive the discount for Alien Rosetta Stone World until the phase is over. From page 5 of the manual,
 "The powers of various cards can alter the settle rules if a player has them in his tableau before the settle phase begins." This means that even though you are settling twice, it's still all part of the same settle phase, so your newly acquired settle powers are restricted from use until the next settle phase.
 
+----
+Page 5
+
+The powers of various cards can alter the settle rules if a player has them in their tableau before the settle phase begins.
+
 [need-help-with-some-rules](https://boardgamegeek.com/thread/2202581/need-help-with-some-rules)
 
 > If i have for example 3 consume powers (that need 1 good) and only 2 goods, do i choose what consume powers i make use of?
 
 Yes, you choose which consume powers to use with the goods you have available.
 
+----
+Page 6
+
+If a consume power could consume several possible goods, the player chooses which good(s) to consume.
+
 > When a power says "up to" it means if i do that power i have to use all goods if i can? but do i still get 1 point, or do i get 1 point for each good discarded??
 
 The "up to" means you can choose to use any number of goods (from 0 up to the total you have). You get 1 point for each good discarded with that power, so the points you gain depend on the number of goods you choose to use, not on using all of them.
 
-> why does some cards like "Gateway station" have a big negative number?
+----
+Page 6
 
-The negative number means it comes before zero (zero to a positive integer were designed before new cards intended to be start worlds with earlier priority).
+Some powers allow multiple goods, 'up to' some number, to be discarded, with each good producing an effect. Such powers must be fully used, if possible, when invoked.
 
 [production-values-looking-for-clarification](https://boardgamegeek.com/thread/2420556/production-values-looking-for-clarification)
 
@@ -73,6 +110,11 @@ The negative number means it comes before zero (zero to a positive integer were 
 > Why can't I develop a duplicate Mining Robots card?
 
 You can’t develop a duplicate Mining Robots card (any other card) because the rules state that you’re not allowed to have multiple copies of the same development or world in your tableau. This simply means you cannot have more than one of each development or world.
+
+----
+Page 4
+
+A player may not build a given development if another copy of it is currently in their tableau.
 
 [end-condition-which-cards-count](https://boardgamegeek.com/thread/301118/end-condition-which-cards-count)
 
@@ -86,6 +128,11 @@ You can’t develop a duplicate Mining Robots card (any other card) because the 
 
 Gray shaded worlds are non-producing worlds. White-shaded worlds, distinguished by a colored halo, are Windfall worlds. Windfall worlds produce a good (matching the halo color) when first settled, and afterward only produce when specific powers are triggered, such as the bonus from calling the Produce phase.
 
+----
+Page 5
+
+Windfalls: some worlds have a colored 'halo' around their circle, showing that they are windfall worlds and that a good is to be put on them when they are first settled... These worlds cannot produce new goods during the Produce phase.
+
 [new-military-tactics-colony-ship](https://boardgamegeek.com/thread/2693866/new-military-tactics-colony-ship)
 
 [can-i-conquer-two-military-worlds-when-two-players](https://boardgamegeek.com/thread/329393/can-i-conquer-two-military-worlds-when-two-players)
@@ -96,11 +143,21 @@ No, a player cannot re-use military points to conquer multiple worlds in a singl
 However, in a 2-player experienced game, a player can choose two Settle actions in one turn.
 According to the 2 player game rules, "If a player chooses either two Develop or two Settle actions, then two complete, non-sequential phases of that type occur (with this player receiving a bonus in each). Powers gained in the first phase can be used in the second one."
 
+----
+Page 8
+
+If a player chooses either two Develop or two Settle actions, then two complete, sequential phases of that type occur (with this player receiving a bonus in each of them). Powers placed in the first such phase can be used in the second one.
+
 [not-clear-on-colony-ship](https://boardgamegeek.com/thread/329357/not-clear-on-colony-ship)
 
 > Can you reduce a green production world to zero, or blue, or brown?
 
 Yes you can, the Colony Ship allows you to place any world that normally requires payment, by discarding the Colony Ship instead. However, it cannot be used on Alien (yellow) worlds. If you have a Contact Specialist in play, you can use it to place non-Alien military worlds by paying instead of conquering. The Colony Ship then lets you bypass this cost, allowing you to place the military world for free.
+
+----
+Page 5
+
+A Contact Specialist enables a player to place and pay for a military world (except an Alien military world), at a cost equal to one less than the world’s defense.
 
 [goods-count-towards-game-over-trigger](https://boardgamegeek.com/thread/289389/goods-count-towards-game-over-trigger)
 
@@ -110,6 +167,11 @@ Yes you can, the Colony Ship allows you to place any world that normally require
 
 Sale bonuses do add up. When you sell a good, you can apply all relevant trade bonuses from your tableau.
 While some cards offer trade bonuses that apply only to specific goods listed on that card, more common bonuses can be applied to every trade.
+
+----
+Page 6
+
+Players choosing Consume: Trade also apply all relevant Trade powers (listed next to $) to this sale (typically, to draw extra cards).
 
 [session-questions](https://boardgamegeek.com/thread/355340/session-questions)
 
