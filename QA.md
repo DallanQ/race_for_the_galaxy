@@ -5,7 +5,7 @@
 No you don’t draw a card at the end of each round. Cards are drawn through specific actions, like the Explore phase or special card effects during other phases.
 
 ----
-Page 8
+Page 7
 
 After all chosen phases are done, players must discard down to 10 (game) cards before starting the next round.
 
@@ -41,7 +41,7 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 ----
 Page 6
 
-Players choosing Consume: Trade also apply all relevant Trade powers (listed next to $) to this sale (typically, to draw extra cards).
+Players choosing Consume: *Trade* also apply all relevant *Trade* powers (listed next to $) to this sale (typically, to draw extra cards).
 
 [can-one-place-down-cards-with-the-same-names-same](https://boardgamegeek.com/thread/671277/can-one-place-down-cards-with-the-same-names-same)
 
@@ -67,7 +67,7 @@ A player may not build a given development if another copy of it is currently in
 You need to use the discard power all at once for each settle action. You can only use a power once per phase, so when you discarded one card to gain 1 military for the first settle action, that counted as your single use of the power for that settle. This means you couldn’t discard another card to add 1 more military for a second attempt to settle.
 
 ----
-Page 6
+Page 4
 
 Powers are resolved sequentially (even though their effects can be cumulative). A player cannot 'interrupt' one power with another.
 
@@ -81,7 +81,7 @@ If you are using Improved Logistics to settle the world, you don't receive the d
 ----
 Page 5
 
-The powers of various cards can alter the settle rules if a player has them in their tableau before the settle phase begins.
+The *powers* of various cards can alter the settle rules if a player has them in their tableau before the settle phase begins.
 
 [need-help-with-some-rules](https://boardgamegeek.com/thread/2202581/need-help-with-some-rules)
 
@@ -165,7 +165,7 @@ Yes you can, the Colony Ship allows you to place any world that normally require
 ----
 Page 5
 
-A Contact Specialist enables a player to place and pay for a military world (except an Alien military world), at a cost equal to one less than the world’s defense.
+A *Contact Specialist* enables a player to place and pay for a military world (except an Alien military world), at a cost equal to one less than the world’s defense.
 
 [goods-count-towards-game-over-trigger](https://boardgamegeek.com/thread/289389/goods-count-towards-game-over-trigger)
 
