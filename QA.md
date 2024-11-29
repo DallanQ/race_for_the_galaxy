@@ -41,7 +41,7 @@ Yes, when you choose "Consume: Trade", you can apply all applicable trade abilit
 ----
 Page 6
 
-Players choosing Consume: *Trade* also apply all relevant *Trade* powers (listed next to $) to this sale (typically, to draw extra cards).
+Players choosing Consume: _Trade_ also apply all relevant _Trade_ powers (listed next to $) to this sale (typically, to draw extra cards).
 
 [can-one-place-down-cards-with-the-same-names-same](https://boardgamegeek.com/thread/671277/can-one-place-down-cards-with-the-same-names-same)
 
@@ -92,7 +92,7 @@ Yes, you choose which consume powers to use with the goods you have available.
 ----
 Page 6
 
-If a consume power could consume several possible goods, the player chooses which good(s) to consume.
+A good may or may not be on the world consuming it. If a consume power could consume several possible goods, the player chooses which good(s) to consume.
 
 > When a power says "up to" it means if i do that power i have to use all goods if i can? but do i still get 1 point, or do i get 1 point for each good discarded??
 
@@ -122,13 +122,29 @@ A player may not build a given development if another copy of it is currently in
 
 No, Goods do not count toward the end game.
 
+----
+page 7
+
+The game ends at the end of the round (including discarding) in which:
+
+- a player has 12 or more face up cards in their card tableau, or
+
+(A player can end with more than 12 cards in their card tableau by placing both a development and a world in the final round.)
+
+- the last victory point chip is given out.
+
 [its-really-a-race](https://boardgamegeek.com/thread/445514/its-really-a-race)
 
 [what-do-you-do-when-multiple-player-should-get-vp](https://boardgamegeek.com/thread/3294567/what-do-you-do-when-multiple-player-should-get-vp)
 
 > What do you do when multiple player should get VP but there aren't enough VP pieces left?
 
-Once the VP pool is exhausted, players take from the VP chits that were set aside at the beginning of the game. Then the game ends after the produce phase. Exhausting the VP pool is one of the end game triggers.
+Once the VP pool is exhausted, players take from the VP chips that were set aside at the beginning of the game. Then the game ends after the produce phase. Exhausting the VP pool is one of the end game triggers.
+
+----
+page 7
+
+If victory point chips run out, add the 10 VP chips and make change so that all victory points earned in the final consume phase can be taken.
 
 [gray-versus-white-world-shading](https://boardgamegeek.com/thread/260656/gray-versus-white-world-shading)
 
